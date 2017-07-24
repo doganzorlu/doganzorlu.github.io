@@ -3,31 +3,52 @@
 
 
 
-<title type="text">DoganZorlu BLOG Site</title>
+<title type="text">Yet another DoganZorlu blog</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2017-07-24T09:39:49+03:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://doganzorlu.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://doganzorlu.github.io/" />
+<updated>2017-07-24T10:06:35+03:00</updated>
+<id>http://doganzorlu.github.io/</id>
 <author>
   <name>Dogan ZORLU</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://doganzorlu.github.io/</uri>
   <email>doganzorlu@doganzorlu.com</email>
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[Bir Jekyll Hikayesi]]></title>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/2017/07/04/bir-jekyll-hikayesi/"/>
+  <id>http://doganzorlu.github.io/2017/07/04/bir-jekyll-hikayesi</id>
+  <published>2017-07-04T00:00:00+03:00</published>
+  <updated>2017-07-04T00:00:00+03:00</updated>
+  <author>
+    <name>Dogan ZORLU</name>
+    <uri>http://doganzorlu.github.io</uri>
+    <email>doganzorlu@doganzorlu.com</email>
+  </author>
+  
+  <content type="html">
+  
+    
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/2017/07/04/bir-jekyll-hikayesi/&quot;&gt;Bir Jekyll Hikayesi&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on July 04, 2017.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Core Affinity]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/linux,%20java/2016/12/21/core-affinity/"/>
-  <id>http://localhost:4000/linux,%20java/2016/12/21/core-affinity</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/linux,%20java/2016/12/21/core-affinity/"/>
+  <id>http://doganzorlu.github.io/linux,%20java/2016/12/21/core-affinity</id>
   <published>2016-12-21T07:25:00+03:00</published>
   <updated>2016-12-21T07:25:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#java,%20linux" term="java, linux" />
+  <category scheme="http://doganzorlu.github.io/tags/#java,%20linux" term="java, linux" />
   <content type="html">
   
     &lt;p&gt;Core affinity &lt;em&gt;or&lt;/em&gt; Process affinity &lt;em&gt;always&lt;/em&gt; playes a great roll for abtaining optimal latency if your application runs with limited threads.&lt;/p&gt;
@@ -70,29 +91,29 @@ usage &lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
 &lt;p&gt;Happy Coding .. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux,%20java/2016/12/21/core-affinity/&quot;&gt;Core Affinity&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on December 21, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/linux,%20java/2016/12/21/core-affinity/&quot;&gt;Core Affinity&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on December 21, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[IoT and nodemcu]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/embedded/2016/10/18/iot-and-nodemcu/"/>
-  <id>http://localhost:4000/embedded/2016/10/18/iot-and-nodemcu</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/embedded/2016/10/18/iot-and-nodemcu/"/>
+  <id>http://doganzorlu.github.io/embedded/2016/10/18/iot-and-nodemcu</id>
   <published>2016-10-18T08:45:00+03:00</published>
   <updated>2016-10-18T08:45:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#IoT,nodemcu,ESP8266" term="IoT,nodemcu,ESP8266" />
+  <category scheme="http://doganzorlu.github.io/tags/#IoT,nodemcu,ESP8266" term="IoT,nodemcu,ESP8266" />
   <content type="html">
   
     &lt;p&gt;Bought a brand new NodeMCU couple of days back and i bet its much better than Arduino.&lt;/p&gt;
 
 &lt;p&gt;It has built in WiFi and that’s very much like Arduino with batteries included ;) also arduino ide is compatible with NodeMCU that really sweet &amp;lt;3. Range of scanning Access Points is no less than any powerful Mobile Phone. Another best feature is this magic piece supports Lua :), Highlevel modern lang, fastest executing scripting language which competes performance with C, literally I have tested this, for small embedded devices to giants like &lt;a href=&quot;https://www.nginx.com/case-studies/appnexus-chooses-nginx-plus-to-enhance-its-real-time-bidding-platform/&quot; taarget=&quot;_blank&quot;&gt;AppNexus&lt;/a&gt; having billion request per sec using Lua for its performance.&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;50%&quot; height=&quot;50%&quot; src=&quot;http://localhost:4000/images/nodemcu.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;50%&quot; height=&quot;50%&quot; src=&quot;http://doganzorlu.github.io/images/nodemcu.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Some of the interesting and core facts about NodeMCU.&lt;/p&gt;
 
@@ -180,22 +201,22 @@ m:close();
 &lt;p&gt;Happy Coding … :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/embedded/2016/10/18/iot-and-nodemcu/&quot;&gt;IoT and nodemcu&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on October 18, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/embedded/2016/10/18/iot-and-nodemcu/&quot;&gt;IoT and nodemcu&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on October 18, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[CUDA and Pain with GeForce GT 540M]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/gpu/2016/06/29/CUDA-Pain-GT-540M/"/>
-  <id>http://localhost:4000/gpu/2016/06/29/CUDA-Pain-GT-540M</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/gpu/2016/06/29/CUDA-Pain-GT-540M/"/>
+  <id>http://doganzorlu.github.io/gpu/2016/06/29/CUDA-Pain-GT-540M</id>
   <published>2016-06-29T23:11:00+03:00</published>
   <updated>2016-06-29T23:11:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#GPU" term="GPU" />
+  <category scheme="http://doganzorlu.github.io/tags/#GPU" term="GPU" />
   <content type="html">
   
     &lt;p&gt;Nvidia GT 540M is bit old now it was released back in 2012 when I purchased my XPS-L502X this awesome Graphics card was armed with it, Its still very solid to use with it’s 96 CUDA cores, specifications given here.. &lt;a href=&quot;http://www.geforce.com/hardware/notebook-gpus/geforce-gt-540m/specifications&quot;&gt;GT 540M&lt;/a&gt;&lt;/p&gt;
@@ -382,22 +403,22 @@ Processing triggers &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;libc-bin &l
 &lt;p&gt;Happy Coding …&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/gpu/2016/06/29/CUDA-Pain-GT-540M/&quot;&gt;CUDA and Pain with GeForce GT 540M&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on June 29, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/gpu/2016/06/29/CUDA-Pain-GT-540M/&quot;&gt;CUDA and Pain with GeForce GT 540M&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on June 29, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[LM35->Arduino->RPi2]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/embedded/2016/03/20/LM35DZ-Arduino-Rpi2/"/>
-  <id>http://localhost:4000/embedded/2016/03/20/LM35DZ-Arduino-Rpi2</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/embedded/2016/03/20/LM35DZ-Arduino-Rpi2/"/>
+  <id>http://doganzorlu.github.io/embedded/2016/03/20/LM35DZ-Arduino-Rpi2</id>
   <published>2016-03-20T22:45:00+02:00</published>
   <updated>2016-03-20T22:45:00+02:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#raspberrypi,%20arduino" term="raspberrypi, arduino" />
+  <category scheme="http://doganzorlu.github.io/tags/#raspberrypi,%20arduino" term="raspberrypi, arduino" />
   <content type="html">
   
     &lt;p&gt;Just to add more fun in tech stuff i have started taking intrest in physical computing and electronics, this extends software field to embedded and electronics where i feel connected to realworld ;)&lt;/p&gt;
@@ -411,23 +432,23 @@ Processing triggers &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;libc-bin &l
 &lt;h3 id=&quot;lm35dz-temprature-sensor-&quot;&gt;LM35DZ (temprature sensor) :&lt;/h3&gt;
 &lt;p&gt;There are  veriety of temprature scensors avilabel in market but this one is really good at what it made for and its very cheap compared to other sensors, both reasons are equilly important to convinced myself to buy this little guy after a day of reserch.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/lm35.jpg&quot; title=&quot;LM35DZ&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/lm35.jpg&quot; style=&quot;height: 8%;width: 8%;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/images/lm35.jpg&quot; title=&quot;LM35DZ&quot;&gt;&lt;img src=&quot;http://doganzorlu.github.io/images/lm35.jpg&quot; style=&quot;height: 8%;width: 8%;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;arduino-uno-r3&quot;&gt;Arduino (UNO R3)&lt;/h3&gt;
 &lt;p&gt;This guy is really awesome when we talk about interacting with physical things like light, motion, temprature, humidity, directions, speed, inshort any type of sensors, its a best microcontroller avilabel for prototyping projects.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/arduinouno.jpg&quot; title=&quot;Arduino UNO R3&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/arduinouno.jpg&quot; style=&quot;height: 8%;width: 8%;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/images/arduinouno.jpg&quot; title=&quot;Arduino UNO R3&quot;&gt;&lt;img src=&quot;http://doganzorlu.github.io/images/arduinouno.jpg&quot; style=&quot;height: 8%;width: 8%;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;raspberrypi-b2&quot;&gt;RaspberryPI (B2)&lt;/h3&gt;
 &lt;p&gt;This is the altimate brain of the project, this is a microprocessor which will be driving all things.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/rpi2.jpg&quot; title=&quot;Raspberry Pi 2&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/rpi2.jpg&quot; style=&quot;height: 8%;width: 8%;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/images/rpi2.jpg&quot; title=&quot;Raspberry Pi 2&quot;&gt;&lt;img src=&quot;http://doganzorlu.github.io/images/rpi2.jpg&quot; style=&quot;height: 8%;width: 8%;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;kick-off&quot;&gt;Kick Off&lt;/h2&gt;
 
 &lt;p&gt;Circuit is preety simple connect LM35 to arduino, load arduino program which poll LM35 each second and send output to serial port, connect raspberry pi to arduino and read serial output write to file, we wil use this dump for generating cool graphs.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/lm35unorpi.jpg&quot; title=&quot;LM35-&amp;gt;Arduino-&amp;gt;RPi2&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/lm35unorpi.jpg&quot; style=&quot;height: 30%;width: 30%;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/images/lm35unorpi.jpg&quot; title=&quot;LM35-&amp;gt;Arduino-&amp;gt;RPi2&quot;&gt;&lt;img src=&quot;http://doganzorlu.github.io/images/lm35unorpi.jpg&quot; style=&quot;height: 30%;width: 30%;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;arduino-code&quot;&gt;Arduino Code&lt;/h3&gt;
 
@@ -469,26 +490,26 @@ Processing triggers &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;libc-bin &l
 
 &lt;h2 id=&quot;output&quot;&gt;Output&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/tmptrend.gif&quot; title=&quot;trend&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/tmptrend.gif&quot; style=&quot;height: 60%;width: 60%;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/images/tmptrend.gif&quot; title=&quot;trend&quot;&gt;&lt;img src=&quot;http://doganzorlu.github.io/images/tmptrend.gif&quot; style=&quot;height: 60%;width: 60%;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/embedded/2016/03/20/LM35DZ-Arduino-Rpi2/&quot;&gt;LM35->Arduino->RPi2&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on March 20, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/embedded/2016/03/20/LM35DZ-Arduino-Rpi2/&quot;&gt;LM35->Arduino->RPi2&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on March 20, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[RC Plane - Preplan]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/embedded/2015/09/01/rc-plane-pre-planning/"/>
-  <id>http://localhost:4000/embedded/2015/09/01/rc-plane-pre-planning</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/embedded/2015/09/01/rc-plane-pre-planning/"/>
+  <id>http://doganzorlu.github.io/embedded/2015/09/01/rc-plane-pre-planning</id>
   <published>2015-09-01T09:00:00+03:00</published>
   <updated>2015-09-01T09:00:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#Embedded" term="Embedded" />
+  <category scheme="http://doganzorlu.github.io/tags/#Embedded" term="Embedded" />
   <content type="html">
   
     &lt;p&gt;Flying is a great hobby, and i been always a technology hobbyist :)&lt;/p&gt;
@@ -515,22 +536,22 @@ Processing triggers &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;libc-bin &l
 &lt;p&gt;&lt;img align=&quot;center&quot; src=&quot;http://www.generalhobby.com/images/products/spirit-freewing-1.png&quot; /&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/embedded/2015/09/01/rc-plane-pre-planning/&quot;&gt;RC Plane - Preplan&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on September 01, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/embedded/2015/09/01/rc-plane-pre-planning/&quot;&gt;RC Plane - Preplan&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on September 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Sentiment analysis with R]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/analytics/2015/05/10/sentiment-analysis-with-R/"/>
-  <id>http://localhost:4000/analytics/2015/05/10/sentiment-analysis-with-R</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/analytics/2015/05/10/sentiment-analysis-with-R/"/>
+  <id>http://doganzorlu.github.io/analytics/2015/05/10/sentiment-analysis-with-R</id>
   <published>2015-05-10T20:00:00+03:00</published>
   <updated>2015-05-10T20:00:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#R,%20analytics,%20sentiment,%20analysis" term="R, analytics, sentiment, analysis" />
+  <category scheme="http://doganzorlu.github.io/tags/#R,%20analytics,%20sentiment,%20analysis" term="R, analytics, sentiment, analysis" />
   <content type="html">
   
     &lt;p&gt;With lot of free time i did a small project based on WhatsApp group chat sentiment analysis with ‘R’. R is a great language for statistical calculations and analytics, this small code sample can show you a showcase usefullness of that.&lt;/p&gt;
@@ -626,22 +647,22 @@ Processing triggers &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;libc-bin &l
 &lt;p&gt;Happy coding .. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/analytics/2015/05/10/sentiment-analysis-with-R/&quot;&gt;Sentiment analysis with R&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on May 10, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/analytics/2015/05/10/sentiment-analysis-with-R/&quot;&gt;Sentiment analysis with R&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on May 10, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Alias makes life easy]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/linux/2015/04/01/alias-makes-life-easy/"/>
-  <id>http://localhost:4000/linux/2015/04/01/alias-makes-life-easy</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/linux/2015/04/01/alias-makes-life-easy/"/>
+  <id>http://doganzorlu.github.io/linux/2015/04/01/alias-makes-life-easy</id>
   <published>2015-04-01T18:45:00+03:00</published>
   <updated>2015-04-01T18:45:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#alias,%20commands" term="alias, commands" />
+  <category scheme="http://doganzorlu.github.io/tags/#alias,%20commands" term="alias, commands" />
   <content type="html">
   
     &lt;p&gt;From couple of years i’m using it but never thought its also shareable with community, alias is helping me shortning big and repeating commands, you just have to declare the short abbreviation of your short command and use it again n again, so here are usage :&lt;/p&gt;
@@ -659,22 +680,22 @@ Processing triggers &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;libc-bin &l
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2015/04/01/alias-makes-life-easy/&quot;&gt;Alias makes life easy&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on April 01, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/linux/2015/04/01/alias-makes-life-easy/&quot;&gt;Alias makes life easy&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on April 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Working with GIT patch]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/linux/2014/12/31/working-with-git-patch/"/>
-  <id>http://localhost:4000/linux/2014/12/31/working-with-git-patch</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/linux/2014/12/31/working-with-git-patch/"/>
+  <id>http://doganzorlu.github.io/linux/2014/12/31/working-with-git-patch</id>
   <published>2014-12-31T11:36:00+02:00</published>
   <updated>2014-12-31T11:36:00+02:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#git,%20patch" term="git, patch" />
+  <category scheme="http://doganzorlu.github.io/tags/#git,%20patch" term="git, patch" />
   <content type="html">
   
     &lt;p&gt;My last post in 2014 ;), &lt;em&gt;Working with git patches&lt;/em&gt;.&lt;/p&gt;
@@ -712,22 +733,22 @@ First step is check the patch.&lt;/li&gt;
 &lt;p&gt;Happy coding and a happy new year 2015 :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2014/12/31/working-with-git-patch/&quot;&gt;Working with GIT patch&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on December 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/linux/2014/12/31/working-with-git-patch/&quot;&gt;Working with GIT patch&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on December 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Install lollipop 5.0 to Nexus 4]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/android/2014/11/23/install-lollipop-on-nexus-4/"/>
-  <id>http://localhost:4000/android/2014/11/23/install-lollipop-on-nexus-4</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/android/2014/11/23/install-lollipop-on-nexus-4/"/>
+  <id>http://doganzorlu.github.io/android/2014/11/23/install-lollipop-on-nexus-4</id>
   <published>2014-11-23T21:00:00+02:00</published>
   <updated>2014-11-23T21:00:00+02:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#android" term="android" /><category scheme="http://localhost:4000/tags/#lollipop" term="lollipop" />
+  <category scheme="http://doganzorlu.github.io/tags/#android" term="android" /><category scheme="http://doganzorlu.github.io/tags/#lollipop" term="lollipop" />
   <content type="html">
   
     &lt;p&gt;Google takes lot of time to throw OTA update to your phone, may be they do it lot by lot for not loading their servers, if you are lucky you got it early else wait for may days :p.&lt;/p&gt;
@@ -748,8 +769,8 @@ sudo apt-get install android-tools-adb android-tools-fastboot&lt;/code&gt;&lt;/p
   &lt;li&gt;Now connect  Nexus 4 to your machine via USB, make sure you enable your USB debugging ON, so start USB Debugging go to Settings » Developer Options » USB debugging. (If you dont have Developer Options go to Settings » About Phone » Build number and tap on Build number until you become developer).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/nxs2.png&quot; style=&quot;height: 25%;width: 25%;&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/nxs1.png&quot; style=&quot;height: 25%;width: 25%;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://doganzorlu.github.io/images/nxs2.png&quot; style=&quot;height: 25%;width: 25%;&quot; /&gt;
+&lt;img src=&quot;http://doganzorlu.github.io/images/nxs1.png&quot; style=&quot;height: 25%;width: 25%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Now try below commands to make sure you are connected to machine.&lt;/p&gt;
 
@@ -786,7 +807,7 @@ sudo ./flash-all.sh&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;This command will  generate following logs on your terminal, put your password if prompted, your phone may be rebooted few times.&lt;/p&gt;
 
-&lt;p&gt;&lt;img style=&quot;height: 25%;width: 25%;&quot; src=&quot;http://localhost:4000/images/nxs3.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;height: 25%;width: 25%;&quot; src=&quot;http://doganzorlu.github.io/images/nxs3.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;amey@amey-xps:~/Downloads/occam-lrx21t$ &lt;/span&gt;sudo ./flash-all.sh
 Password:
@@ -881,22 +902,22 @@ finished. total &lt;span class=&quot;nb&quot;&gt;time&lt;/span&gt;: 150.897s&lt;
 &lt;p&gt;Happy coding ….. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/android/2014/11/23/install-lollipop-on-nexus-4/&quot;&gt;Install lollipop 5.0 to Nexus 4&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on November 23, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/android/2014/11/23/install-lollipop-on-nexus-4/&quot;&gt;Install lollipop 5.0 to Nexus 4&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on November 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Bang-Bang, Be lazy!!]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/linux/2014/09/14/bang-bang/"/>
-  <id>http://localhost:4000/linux/2014/09/14/bang-bang</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/linux/2014/09/14/bang-bang/"/>
+  <id>http://doganzorlu.github.io/linux/2014/09/14/bang-bang</id>
   <published>2014-09-14T09:00:00+03:00</published>
   <updated>2014-09-14T09:00:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#linux" term="linux" />
+  <category scheme="http://doganzorlu.github.io/tags/#linux" term="linux" />
   <content type="html">
   
     &lt;p&gt;I found another great thing linux provides for the lazy programmers ;)
@@ -909,7 +930,7 @@ Most of the time we need to repeat the commands we entered in linux terminal and
 &lt;p&gt;Usually i work on servers and whenever try to fire few root access commands and it dont allow  me!! -_-,feels insulting. 
 Anyway &lt;strong&gt;sudo !!&lt;/strong&gt;  is here to rescue you :)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/bang-bang.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://doganzorlu.github.io/images/bang-bang.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;amey@amey-xps:~/$ &lt;/span&gt;touch /etc/apache2/apache2.conf 
 touch: cannot touch ‘/etc/apache2/apache2.conf’: Permission denied
@@ -970,22 +991,22 @@ sudo touch /etc/apache2/apache2.conf
 &lt;p&gt;Happy coding ….. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2014/09/14/bang-bang/&quot;&gt;Bang-Bang, Be lazy!!&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on September 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/linux/2014/09/14/bang-bang/&quot;&gt;Bang-Bang, Be lazy!!&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on September 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Javascript - ♥ Attach with events]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/javascript/2014/09/07/javascript-attache-with-events/"/>
-  <id>http://localhost:4000/javascript/2014/09/07/javascript-attache-with-events</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/javascript/2014/09/07/javascript-attache-with-events/"/>
+  <id>http://doganzorlu.github.io/javascript/2014/09/07/javascript-attache-with-events</id>
   <published>2014-09-07T23:51:00+03:00</published>
   <updated>2014-09-07T23:51:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#javascript" term="javascript" />
+  <category scheme="http://doganzorlu.github.io/tags/#javascript" term="javascript" />
   <content type="html">
   
     &lt;p&gt;Javascript is going very populer now days, javascript was created in 10 days in 1995 by &lt;em&gt;Brendan Eich&lt;/em&gt;, JavaScript was not always known as JavaScript: the original name was Mocha, a name chosen by Marc Andreessen, founder of Netscape. In September of 1995 the name was changed to LiveScript, then in December of the same year, upon receiving a trademark license from Sun, the name &lt;em&gt;JavaScript&lt;/em&gt; was adopted. This was somewhat of a marketing move at the time, with Java being very popular around then. I love javascript too much and started digging in that through Node.js which made boom of javascript everywhere as you can use it on serverside too.&lt;/p&gt;
@@ -1057,22 +1078,22 @@ If true, useCapture indicates that the user wishes to initiate capture. After in
 &lt;p&gt;Happy Codeing …. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/javascript/2014/09/07/javascript-attache-with-events/&quot;&gt;Javascript - ♥ Attach with events&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on September 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/javascript/2014/09/07/javascript-attache-with-events/&quot;&gt;Javascript - ♥ Attach with events&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on September 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Super awesome automation testing]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/testing/2014/08/30/Super-awesome-automation/"/>
-  <id>http://localhost:4000/testing/2014/08/30/Super-awesome-automation</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/testing/2014/08/30/Super-awesome-automation/"/>
+  <id>http://doganzorlu.github.io/testing/2014/08/30/Super-awesome-automation</id>
   <published>2014-08-30T21:45:00+03:00</published>
   <updated>2014-08-30T21:45:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#python" term="python" /><category scheme="http://localhost:4000/tags/#testing" term="testing" />
+  <category scheme="http://doganzorlu.github.io/tags/#python" term="python" /><category scheme="http://doganzorlu.github.io/tags/#testing" term="testing" />
   <content type="html">
   
     &lt;p&gt;As a &lt;strong&gt;&lt;em&gt;born&lt;/em&gt;&lt;/strong&gt; developer i never came across actual/serious testing of softwares, but some times you are the one man army of your project and gotta make all the things yourself.&lt;/p&gt;
@@ -1161,32 +1182,32 @@ Done :  &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&qu
 
 &lt;p&gt;below are the few screen shots taken from my test.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/screenshot-1.png&quot; alt=&quot;Automation page&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/screenshot-2.jpeg&quot; alt=&quot;Screenshot1&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/screenshot-3.jpeg&quot; alt=&quot;Screenshot2&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/screenshot-4.jpeg&quot; alt=&quot;Screenshot3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://doganzorlu.github.io/images/screenshot-1.png&quot; alt=&quot;Automation page&quot; /&gt;
+&lt;img src=&quot;http://doganzorlu.github.io/images/screenshot-2.jpeg&quot; alt=&quot;Screenshot1&quot; /&gt;
+&lt;img src=&quot;http://doganzorlu.github.io/images/screenshot-3.jpeg&quot; alt=&quot;Screenshot2&quot; /&gt;
+&lt;img src=&quot;http://doganzorlu.github.io/images/screenshot-4.jpeg&quot; alt=&quot;Screenshot3&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Unknowingly i found a bug in browserstack, see the screeshot’s, by default they should use english but google page is in Dutch, may be their servers are located in europ with dutch version of OS :p&lt;/p&gt;
 
 &lt;p&gt;Happy coding …. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/testing/2014/08/30/Super-awesome-automation/&quot;&gt;Super awesome automation testing&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on August 30, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/testing/2014/08/30/Super-awesome-automation/&quot;&gt;Super awesome automation testing&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on August 30, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA['N' for NodeJS]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/nodejs/2014/08/17/N-for-Node.js/"/>
-  <id>http://localhost:4000/nodejs/2014/08/17/N-for-Node.js</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/nodejs/2014/08/17/N-for-Node.js/"/>
+  <id>http://doganzorlu.github.io/nodejs/2014/08/17/N-for-Node.js</id>
   <published>2014-08-17T11:45:00+03:00</published>
   <updated>2014-08-17T11:45:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#nodejs" term="nodejs" />
+  <category scheme="http://doganzorlu.github.io/tags/#nodejs" term="nodejs" />
   <content type="html">
   
     &lt;p&gt;From last few months i came across the the coolest thing in programming and because of that i’m gonna teach my childrens that ‘N’ is for NodeJS ;)&lt;/p&gt;
@@ -1327,22 +1348,22 @@ Loved NodeJS ♥&lt;/p&gt;
 &lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/nodejs/2014/08/17/N-for-Node.js/&quot;&gt;'N' for NodeJS&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on August 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/nodejs/2014/08/17/N-for-Node.js/&quot;&gt;'N' for NodeJS&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on August 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Timezone conversion in python -Easy way]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/python/2014/08/08/python-timezone-convertion/"/>
-  <id>http://localhost:4000/python/2014/08/08/python-timezone-convertion</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/python/2014/08/08/python-timezone-convertion/"/>
+  <id>http://doganzorlu.github.io/python/2014/08/08/python-timezone-convertion</id>
   <published>2014-08-08T10:17:00+03:00</published>
   <updated>2014-08-08T10:17:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#python" term="python" />
+  <category scheme="http://doganzorlu.github.io/tags/#python" term="python" />
   <content type="html">
   
     &lt;p&gt;This lib i found most usefulll &lt;a href=&quot;http://niemeyer.net/python-dateutil&quot;&gt;python-dateutil&lt;/a&gt;.&lt;/p&gt;
@@ -1369,22 +1390,22 @@ Loved NodeJS ♥&lt;/p&gt;
 &lt;p&gt;Happy coding ….. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/python/2014/08/08/python-timezone-convertion/&quot;&gt;Timezone conversion in python -Easy way&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on August 08, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/python/2014/08/08/python-timezone-convertion/&quot;&gt;Timezone conversion in python -Easy way&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on August 08, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Killer mailer script in Python]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/python/2014/08/04/killer-mailer/"/>
-  <id>http://localhost:4000/python/2014/08/04/killer-mailer</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/python/2014/08/04/killer-mailer/"/>
+  <id>http://doganzorlu.github.io/python/2014/08/04/killer-mailer</id>
   <published>2014-08-04T09:23:00+03:00</published>
   <updated>2014-08-04T09:23:00+03:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#python" term="python" />
+  <category scheme="http://doganzorlu.github.io/tags/#python" term="python" />
   <content type="html">
   
     &lt;p&gt;Hey guys i always needed a mailer script which can send me hourly/daily/weekly updates of my diffrent programs running on linux box.&lt;/p&gt;
@@ -1447,22 +1468,22 @@ Loved NodeJS ♥&lt;/p&gt;
 &lt;p&gt;Happy coding ….. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/python/2014/08/04/killer-mailer/&quot;&gt;Killer mailer script in Python&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on August 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/python/2014/08/04/killer-mailer/&quot;&gt;Killer mailer script in Python&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on August 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Functions in shell script]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/linux/2014/01/19/functions-in-shell-script/"/>
-  <id>http://localhost:4000/linux/2014/01/19/functions-in-shell-script</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/linux/2014/01/19/functions-in-shell-script/"/>
+  <id>http://doganzorlu.github.io/linux/2014/01/19/functions-in-shell-script</id>
   <published>2014-01-19T15:09:00+02:00</published>
   <updated>2014-01-19T15:09:00+02:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#shell" term="shell" /><category scheme="http://localhost:4000/tags/#linux" term="linux" />
+  <category scheme="http://doganzorlu.github.io/tags/#shell" term="shell" /><category scheme="http://doganzorlu.github.io/tags/#linux" term="linux" />
   <content type="html">
   
     &lt;p&gt;Have  lot of repeated shell code ? try writing function in that :)&lt;/p&gt;
@@ -1502,22 +1523,22 @@ sql_exec&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
 &lt;p&gt;Happy coding ….. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2014/01/19/functions-in-shell-script/&quot;&gt;Functions in shell script&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on January 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/linux/2014/01/19/functions-in-shell-script/&quot;&gt;Functions in shell script&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on January 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Using MySQL dump]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/database/2013/12/17/using-mysql-dump/"/>
-  <id>http://localhost:4000/database/2013/12/17/using-mysql-dump</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/database/2013/12/17/using-mysql-dump/"/>
+  <id>http://doganzorlu.github.io/database/2013/12/17/using-mysql-dump</id>
   <published>2013-12-17T20:00:00+02:00</published>
   <updated>2013-12-17T20:00:00+02:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#database" term="database" /><category scheme="http://localhost:4000/tags/#mysql" term="mysql" />
+  <category scheme="http://doganzorlu.github.io/tags/#database" term="database" /><category scheme="http://doganzorlu.github.io/tags/#mysql" term="mysql" />
   <content type="html">
   
     &lt;p&gt;HI All, mysqldump is a very handy and useful command for keeping backup of your Db or to migrate them to another server.&lt;/p&gt;
@@ -1557,22 +1578,22 @@ sql_exec&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
 &lt;p&gt;Happy Coding …. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/database/2013/12/17/using-mysql-dump/&quot;&gt;Using MySQL dump&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on December 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/database/2013/12/17/using-mysql-dump/&quot;&gt;Using MySQL dump&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on December 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Checking MySQL Database Size]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/database/2013/12/15/checking-mysql-database-size/"/>
-  <id>http://localhost:4000/database/2013/12/15/checking-mysql-database-size</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/database/2013/12/15/checking-mysql-database-size/"/>
+  <id>http://doganzorlu.github.io/database/2013/12/15/checking-mysql-database-size</id>
   <published>2013-12-15T22:00:00+02:00</published>
   <updated>2013-12-15T22:00:00+02:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#database" term="database" /><category scheme="http://localhost:4000/tags/#mysql" term="mysql" />
+  <category scheme="http://doganzorlu.github.io/tags/#database" term="database" /><category scheme="http://doganzorlu.github.io/tags/#mysql" term="mysql" />
   <content type="html">
   
     &lt;p&gt;Hi all , in this post i am going to show you how to check current mysql database size, below queries are tested on Mysql 5.5.8&lt;/p&gt;
@@ -1604,22 +1625,22 @@ sql_exec&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
 &lt;p&gt;Happy coding.. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/database/2013/12/15/checking-mysql-database-size/&quot;&gt;Checking MySQL Database Size&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on December 15, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/database/2013/12/15/checking-mysql-database-size/&quot;&gt;Checking MySQL Database Size&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on December 15, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Capturing HTTP Header In JAX-RS]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/java/2013/12/10/capturing-http-header-in-JAX-RS/"/>
-  <id>http://localhost:4000/java/2013/12/10/capturing-http-header-in-JAX-RS</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.github.io/java/2013/12/10/capturing-http-header-in-JAX-RS/"/>
+  <id>http://doganzorlu.github.io/java/2013/12/10/capturing-http-header-in-JAX-RS</id>
   <published>2013-12-10T20:30:00+02:00</published>
   <updated>2013-12-10T20:30:00+02:00</updated>
   <author>
     <name>Dogan ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.github.io</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#java" term="java" /><category scheme="http://localhost:4000/tags/#webservices" term="webservices" />
+  <category scheme="http://doganzorlu.github.io/tags/#java" term="java" /><category scheme="http://doganzorlu.github.io/tags/#webservices" term="webservices" />
   <content type="html">
   
     &lt;p&gt;In this post i will explain you how to capture http-request header in JAX-RS.&lt;/p&gt;
@@ -1721,7 +1742,7 @@ sql_exec&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
 &lt;p&gt;Happy Coding .. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/java/2013/12/10/capturing-http-header-in-JAX-RS/&quot;&gt;Capturing HTTP Header In JAX-RS&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DoganZorlu BLOG Site&lt;/a&gt; on December 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.github.io/java/2013/12/10/capturing-http-header-in-JAX-RS/&quot;&gt;Capturing HTTP Header In JAX-RS&lt;/a&gt; was originally published by Dogan ZORLU at &lt;a href=&quot;http://doganzorlu.github.io&quot;&gt;Yet another DoganZorlu blog&lt;/a&gt; on December 10, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
