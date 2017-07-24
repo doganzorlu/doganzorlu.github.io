@@ -1,103 +1,39 @@
 callback([
 
+
   {
-    "text": "Capturing HTTP Header In JAX-RS",
-    "href": "http://doganzorlu.github.io/java/2013/12/10/capturing-http-header-in-JAX-RS/"
+    "text": "TÜRK HALK MÜZİĞİ",
+    "href": "http://localhost:4000/hobi%CC%87/2008/12/28/turk-halk-muzigi/"
   } ,
 
   {
-    "text": "Checking MySQL Database Size",
-    "href": "http://doganzorlu.github.io/database/2013/12/15/checking-mysql-database-size/"
+    "text": "OTİZM",
+    "href": "http://localhost:4000/otizm/2008/12/29/otizm/"
   } ,
 
   {
-    "text": "Using MySQL dump",
-    "href": "http://doganzorlu.github.io/database/2013/12/17/using-mysql-dump/"
+    "text": "SANAL HAVACILIK",
+    "href": "http://localhost:4000/hobi%CC%87/2008/12/29/sanal-havacilik/"
   } ,
 
   {
-    "text": "Functions in shell script",
-    "href": "http://doganzorlu.github.io/linux/2014/01/19/functions-in-shell-script/"
+    "text": "SANALLAŞTIRMA BİLMECESİ",
+    "href": "http://localhost:4000/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi/"
   } ,
 
   {
-    "text": "Killer mailer script in Python",
-    "href": "http://doganzorlu.github.io/python/2014/08/04/killer-mailer/"
+    "text": "WINDOWS 7 GENEL BAKIŞ",
+    "href": "http://localhost:4000/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis/"
   } ,
 
   {
-    "text": "Timezone conversion in python -Easy way",
-    "href": "http://doganzorlu.github.io/python/2014/08/08/python-timezone-convertion/"
+    "text": "NEDEN LINUX",
+    "href": "http://localhost:4000/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux/"
   } ,
 
   {
-    "text": "'N' for NodeJS",
-    "href": "http://doganzorlu.github.io/nodejs/2014/08/17/N-for-Node.js/"
-  } ,
-
-  {
-    "text": "Super awesome automation testing",
-    "href": "http://doganzorlu.github.io/testing/2014/08/30/Super-awesome-automation/"
-  } ,
-
-  {
-    "text": "Javascript - ♥ Attach with events",
-    "href": "http://doganzorlu.github.io/javascript/2014/09/07/javascript-attache-with-events/"
-  } ,
-
-  {
-    "text": "Bang-Bang, Be lazy!!",
-    "href": "http://doganzorlu.github.io/linux/2014/09/14/bang-bang/"
-  } ,
-
-  {
-    "text": "Install lollipop 5.0 to Nexus 4",
-    "href": "http://doganzorlu.github.io/android/2014/11/23/install-lollipop-on-nexus-4/"
-  } ,
-
-  {
-    "text": "Working with GIT patch",
-    "href": "http://doganzorlu.github.io/linux/2014/12/31/working-with-git-patch/"
-  } ,
-
-  {
-    "text": "Alias makes life easy",
-    "href": "http://doganzorlu.github.io/linux/2015/04/01/alias-makes-life-easy/"
-  } ,
-
-  {
-    "text": "Sentiment analysis with R",
-    "href": "http://doganzorlu.github.io/analytics/2015/05/10/sentiment-analysis-with-R/"
-  } ,
-
-  {
-    "text": "RC Plane - Preplan",
-    "href": "http://doganzorlu.github.io/embedded/2015/09/01/rc-plane-pre-planning/"
-  } ,
-
-  {
-    "text": "LM35->Arduino->RPi2",
-    "href": "http://doganzorlu.github.io/embedded/2016/03/20/LM35DZ-Arduino-Rpi2/"
-  } ,
-
-  {
-    "text": "CUDA and Pain with GeForce GT 540M",
-    "href": "http://doganzorlu.github.io/gpu/2016/06/29/CUDA-Pain-GT-540M/"
-  } ,
-
-  {
-    "text": "IoT and nodemcu",
-    "href": "http://doganzorlu.github.io/embedded/2016/10/18/iot-and-nodemcu/"
-  } ,
-
-  {
-    "text": "Core Affinity",
-    "href": "http://doganzorlu.github.io/linux,%20java/2016/12/21/core-affinity/"
-  } ,
-
-  {
-    "text": "Bir Jekyll Hikayesi",
-    "href": "http://doganzorlu.github.io/2017/07/04/bir-jekyll-hikayesi/"
+    "text": "BİR Jekyll HİKAYESİ",
+    "href": "http://localhost:4000/ruby/2017/07/04/bir-jekyll-hikayesi/"
   } 
 
 ])

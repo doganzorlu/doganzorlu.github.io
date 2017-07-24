@@ -1,24 +1,24 @@
-title:            Yet another DoganZorlu blog
+title:            DOĞANZORLU
 description:      "Do or do not. There is no try ...!"
 logo:             logo.png
 disqus_shortname: doganzorlucom
-share:            true
-dropcap:	   true
+share:            false
+dropcap:	        true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	 http://doganzorlu.github.io
+url:        	    http://doganzorlu.github.io
 
 # Owner/author information
 owner:
-  name:           Dogan ZORLU
-  avatar:         ameyjadiye.jpg
+  name:           DOĞAN ZORLU
+  avatar:         doganzorlu.jpg
   email:          doganzorlu@doganzorlu.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Programming is 1% knowledge, 2% ability and 97% getting the ability to work with the knowledge :)
   # Social networking links used in footer. Update and remove as you like.
   twitter:        doganzorlu
-  facebook:       doganzorlu
+  facebook:       dgzorlu
   github:         doganzorlu
   instagram:      doganzorlu
   # For Google Authorship https://plus.google.com/authorship
@@ -39,13 +39,13 @@ links:
     icon: home
   - title: Kategoriler
     url: /categories
-  - title: Hakkında
+  - title: Hakkımda
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Istanbul
 future:      true
-rouge: pygments
+rouge:       pygments
 markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
@@ -58,9 +58,8 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  enable_coderay: false
 
-  coderay:
+  syntax_highliter_opts:
     coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
