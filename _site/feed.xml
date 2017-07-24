@@ -5,29 +5,29 @@
 
 <title type="text">DOĞANZORLU</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2017-07-25T00:10:22+03:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://doganzorlu.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://doganzorlu.com/" />
+<updated>2017-07-25T00:12:17+03:00</updated>
+<id>http://doganzorlu.com/</id>
 <author>
   <name>DOĞAN ZORLU</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://doganzorlu.com/</uri>
   <email>doganzorlu@doganzorlu.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[BİR Jekyll HİKAYESİ]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/ruby/2017/07/04/bir-jekyll-hikayesi/"/>
-  <id>http://localhost:4000/ruby/2017/07/04/bir-jekyll-hikayesi</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.com/ruby/2017/07/04/bir-jekyll-hikayesi/"/>
+  <id>http://doganzorlu.com/ruby/2017/07/04/bir-jekyll-hikayesi</id>
   <published>2017-07-04T20:30:00+03:00</published>
   <updated>2017-07-04T20:30:00+03:00</updated>
   <author>
     <name>DOĞAN ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.com</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#site" term="site" />
+  <category scheme="http://doganzorlu.com/tags/#site" term="site" />
   <content type="html">
   
     &lt;p&gt;Yeni BLOG’a merhaba derken…&lt;/p&gt;
@@ -43,22 +43,22 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Selametle…&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/ruby/2017/07/04/bir-jekyll-hikayesi/&quot;&gt;BİR Jekyll HİKAYESİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DOĞANZORLU&lt;/a&gt; on July 04, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/ruby/2017/07/04/bir-jekyll-hikayesi/&quot;&gt;BİR Jekyll HİKAYESİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on July 04, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[NEDEN LINUX]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux/"/>
-  <id>http://localhost:4000/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux/"/>
+  <id>http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux</id>
   <published>2009-10-15T20:30:00+03:00</published>
   <updated>2009-10-15T20:30:00+03:00</updated>
   <author>
     <name>DOĞAN ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.com</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#LINUX" term="LINUX" />
+  <category scheme="http://doganzorlu.com/tags/#LINUX" term="LINUX" />
   <content type="html">
   
     &lt;p&gt;Aslında bu sorunun cevabı “serbest yazılım” sorusunun cevabıyla aynı. Zira Linux, serbest yazılım felsefesinin en önemli örneklerinden birisidir.&lt;/p&gt;
@@ -88,22 +88,22 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Bilgi: Bilişim konusundaki bilgi kümesi ve bilişim teknolojisi olarak kullanılmıştır.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux/&quot;&gt;NEDEN LINUX&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DOĞANZORLU&lt;/a&gt; on October 15, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux/&quot;&gt;NEDEN LINUX&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on October 15, 2009.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[WINDOWS 7 GENEL BAKIŞ]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis/"/>
-  <id>http://localhost:4000/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis/"/>
+  <id>http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis</id>
   <published>2009-01-25T20:30:00+02:00</published>
   <updated>2009-01-25T20:30:00+02:00</updated>
   <author>
     <name>DOĞAN ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.com</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#Windows%207" term="Windows 7" />
+  <category scheme="http://doganzorlu.com/tags/#Windows%207" term="Windows 7" />
   <content type="html">
   
     &lt;p&gt;Microsoft üretimi işletim sistemi kullanıcılarının oldukça büyük bir bölümü, Vista işletim sisteminin yavaşlık ve uyumsuzluk problemleri nedeni ile  XP işletim sistemi ile yoluna devam etmeyi tercih ediyor.&lt;/p&gt;
@@ -165,22 +165,22 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Windows 7, oluşturduğu kötü şöhreti yüzünden -ki haksız bir şöhret değil- ikinci Windows ME vakası olan Vista’dan sonra Microsoft’u bayağı rahatlatacağa benziyor. Gerek Vista’ya geçmekten korkanlar ve gerekse Vista kullananlar için kısa vadede bile kullanılabilesi bir işletim sistemi olmaya aday olan Windows 7, işletim sistemi dünyasında kendisine iyi bir yer edinebilecek performans ve uyumluluğa sahip.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis/&quot;&gt;WINDOWS 7 GENEL BAKIŞ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DOĞANZORLU&lt;/a&gt; on January 25, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis/&quot;&gt;WINDOWS 7 GENEL BAKIŞ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on January 25, 2009.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[SANALLAŞTIRMA BİLMECESİ]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi/"/>
-  <id>http://localhost:4000/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.com/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi/"/>
+  <id>http://doganzorlu.com/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi</id>
   <published>2009-01-14T20:30:00+02:00</published>
   <updated>2009-01-14T20:30:00+02:00</updated>
   <author>
     <name>DOĞAN ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.com</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#SANALLA%C5%9ETIRMA" term="SANALLAŞTIRMA" />
+  <category scheme="http://doganzorlu.com/tags/#SANALLA%C5%9ETIRMA" term="SANALLAŞTIRMA" />
   <content type="html">
   
     &lt;p&gt;x86 tabanlı sistemlerde sanallaştırma, son dönemde kullanım oranı hızla yükselen bir uygulama. Başlangıçta sadece guest bir işletim sistemini çalıştırabilmek sözkonusu iken, gelinen noktada host bir sistem üzerinde mevcut kaynakları paylaşan birden fazla guest sözkonusudur.&lt;/p&gt;
@@ -196,22 +196,22 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi/&quot;&gt;SANALLAŞTIRMA BİLMECESİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DOĞANZORLU&lt;/a&gt; on January 14, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi/&quot;&gt;SANALLAŞTIRMA BİLMECESİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on January 14, 2009.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[SANAL HAVACILIK]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/hobi%CC%87/2008/12/29/sanal-havacilik/"/>
-  <id>http://localhost:4000/hobi%CC%87/2008/12/29/sanal-havacilik</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.com/hobi%CC%87/2008/12/29/sanal-havacilik/"/>
+  <id>http://doganzorlu.com/hobi%CC%87/2008/12/29/sanal-havacilik</id>
   <published>2008-12-29T20:30:00+02:00</published>
   <updated>2008-12-29T20:30:00+02:00</updated>
   <author>
     <name>DOĞAN ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.com</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#HOB%C4%B0" term="HOBİ" />
+  <category scheme="http://doganzorlu.com/tags/#HOB%C4%B0" term="HOBİ" />
   <content type="html">
   
     &lt;p&gt;Sanal havacılık deyince herkesin aklına değişik şeyler geliyor şüphesiz.&lt;/p&gt;
@@ -253,22 +253,22 @@ Peki hangi havasahası derseniz bu tıpkı BMW mi Mercedes mi sorusu gibi olacak
 &lt;p&gt;Hobi için ayırabilecek vakti olup da havacılık tutkunu arkadaşlar, aramıza hoş geldiniz.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/hobi%CC%87/2008/12/29/sanal-havacilik/&quot;&gt;SANAL HAVACILIK&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DOĞANZORLU&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/hobi%CC%87/2008/12/29/sanal-havacilik/&quot;&gt;SANAL HAVACILIK&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[OTİZM]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/otizm/2008/12/29/otizm/"/>
-  <id>http://localhost:4000/otizm/2008/12/29/otizm</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.com/otizm/2008/12/29/otizm/"/>
+  <id>http://doganzorlu.com/otizm/2008/12/29/otizm</id>
   <published>2008-12-29T20:30:00+02:00</published>
   <updated>2008-12-29T20:30:00+02:00</updated>
   <author>
     <name>DOĞAN ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.com</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#OTIZM" term="OTIZM" />
+  <category scheme="http://doganzorlu.com/tags/#OTIZM" term="OTIZM" />
   <content type="html">
   
     &lt;p&gt;Otizm, kızımda var olduğunu öğreninceye kadar adını bile duymadığım bir engel, bir hastalık (geçmişe not: hastalık değilmiş meğer).&lt;/p&gt;
@@ -296,22 +296,22 @@ Peki hangi havasahası derseniz bu tıpkı BMW mi Mercedes mi sorusu gibi olacak
 &lt;p&gt;Bakalım gelecek bu konuda neler getirecek…&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/otizm/2008/12/29/otizm/&quot;&gt;OTİZM&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DOĞANZORLU&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/otizm/2008/12/29/otizm/&quot;&gt;OTİZM&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[TÜRK HALK MÜZİĞİ]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/hobi%CC%87/2008/12/28/turk-halk-muzigi/"/>
-  <id>http://localhost:4000/hobi%CC%87/2008/12/28/turk-halk-muzigi</id>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.com/hobi%CC%87/2008/12/28/turk-halk-muzigi/"/>
+  <id>http://doganzorlu.com/hobi%CC%87/2008/12/28/turk-halk-muzigi</id>
   <published>2008-12-28T20:30:00+02:00</published>
   <updated>2008-12-28T20:30:00+02:00</updated>
   <author>
     <name>DOĞAN ZORLU</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://doganzorlu.com</uri>
     <email>doganzorlu@doganzorlu.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#HOB%C4%B0" term="HOBİ" />
+  <category scheme="http://doganzorlu.com/tags/#HOB%C4%B0" term="HOBİ" />
   <content type="html">
   
     &lt;p&gt;Yaklaşık 3 yıl önce birdenbire bir bağlama çalma sevdasıyla başladı bende müzik tutkusu.&lt;/p&gt;
@@ -325,7 +325,7 @@ Peki hangi havasahası derseniz bu tıpkı BMW mi Mercedes mi sorusu gibi olacak
 &lt;p&gt;Geç de olsa ucundan yakalamış olmaktan dolayı tarifsiz bir mutluluk duyuyorum.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/hobi%CC%87/2008/12/28/turk-halk-muzigi/&quot;&gt;TÜRK HALK MÜZİĞİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;DOĞANZORLU&lt;/a&gt; on December 28, 2008.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/hobi%CC%87/2008/12/28/turk-halk-muzigi/&quot;&gt;TÜRK HALK MÜZİĞİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on December 28, 2008.&lt;/p&gt;</content>
 </entry>
 
 </feed>

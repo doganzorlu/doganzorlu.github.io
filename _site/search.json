@@ -3,7 +3,7 @@
 		{
 		  "title"      : "BİR Jekyll HİKAYESİ",
 		  "category"   : "Ruby",
-		  "url"        : "http://localhost:4000/ruby/2017/07/04/bir-jekyll-hikayesi/",
+		  "url"        : "http://doganzorlu.com/ruby/2017/07/04/bir-jekyll-hikayesi/",
 		  "date"       : "2017-07-04 20:30:00 +0300",
 		  "shortdate"  : "July 04, 2017"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "NEDEN LINUX",
 		  "category"   : "İŞLETİM SİSTEMİ",
-		  "url"        : "http://localhost:4000/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux/",
+		  "url"        : "http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux/",
 		  "date"       : "2009-10-15 20:30:00 +0300",
 		  "shortdate"  : "October 15, 2009"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "WINDOWS 7 GENEL BAKIŞ",
 		  "category"   : "İŞLETİM SİSTEMİ",
-		  "url"        : "http://localhost:4000/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis/",
+		  "url"        : "http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis/",
 		  "date"       : "2009-01-25 20:30:00 +0200",
 		  "shortdate"  : "January 25, 2009"
 		} ,
@@ -27,7 +27,7 @@
 		{
 		  "title"      : "SANALLAŞTIRMA BİLMECESİ",
 		  "category"   : "SANALLAŞTIRMA",
-		  "url"        : "http://localhost:4000/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi/",
+		  "url"        : "http://doganzorlu.com/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi/",
 		  "date"       : "2009-01-14 20:30:00 +0200",
 		  "shortdate"  : "January 14, 2009"
 		} ,
@@ -35,7 +35,7 @@
 		{
 		  "title"      : "SANAL HAVACILIK",
 		  "category"   : "HOBİ",
-		  "url"        : "http://localhost:4000/hobi%CC%87/2008/12/29/sanal-havacilik/",
+		  "url"        : "http://doganzorlu.com/hobi%CC%87/2008/12/29/sanal-havacilik/",
 		  "date"       : "2008-12-29 20:30:00 +0200",
 		  "shortdate"  : "December 29, 2008"
 		} ,
@@ -43,7 +43,7 @@
 		{
 		  "title"      : "OTİZM",
 		  "category"   : "OTIZM",
-		  "url"        : "http://localhost:4000/otizm/2008/12/29/otizm/",
+		  "url"        : "http://doganzorlu.com/otizm/2008/12/29/otizm/",
 		  "date"       : "2008-12-29 20:30:00 +0200",
 		  "shortdate"  : "December 29, 2008"
 		} ,
@@ -51,7 +51,7 @@
 		{
 		  "title"      : "TÜRK HALK MÜZİĞİ",
 		  "category"   : "HOBİ",
-		  "url"        : "http://localhost:4000/hobi%CC%87/2008/12/28/turk-halk-muzigi/",
+		  "url"        : "http://doganzorlu.com/hobi%CC%87/2008/12/28/turk-halk-muzigi/",
 		  "date"       : "2008-12-28 20:30:00 +0200",
 		  "shortdate"  : "December 28, 2008"
 		} 
