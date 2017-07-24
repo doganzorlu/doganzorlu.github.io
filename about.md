@@ -35,9 +35,7 @@ Hakkımda merak ettikleriniz ...!
 Bu site içerisinde uzun yıllardır bir sürü yerde dağılmış olan bloglarımı toparlayıp bir araya getirdim. Sitede {{ site.categories | size }}
 kategoride
 {{ site.posts | size }}
-gönderi yer alıyor. Siteyi şimdiye kadar
-({{ site.wpm }} WPM)
-ziyaretçi gezmiş ve yaklaşık
+gönderi yer alıyor. Siteyi ziyaret edenler şimdiye kadar yaklaşık
 <span class="time">{{ total_readtime }}</span>
 dakikalarını burada geçirmişler.
 {% if featuredcount != 0 %}
