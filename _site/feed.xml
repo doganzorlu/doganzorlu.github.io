@@ -3,17 +3,130 @@
 
 
 
-<title type="text">DOĞANZORLU</title>
+<title type="text">BT SERÜVENİ</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://doganzorlu.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://doganzorlu.com/" />
-<updated>2017-07-25T00:12:17+03:00</updated>
+<updated>2017-07-25T14:20:05+03:00</updated>
 <id>http://doganzorlu.com/</id>
 <author>
   <name>DOĞAN ZORLU</name>
   <uri>http://doganzorlu.com/</uri>
   <email>doganzorlu@doganzorlu.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Cloud Yasam Becerileri]]></title>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.com/cloud/2017/07/25/cloud-da-yasam-becerileri/"/>
+  <id>http://doganzorlu.com/cloud/2017/07/25/cloud-da-yasam-becerileri</id>
+  <published>2017-07-25T20:30:00+03:00</published>
+  <updated>2017-07-25T20:30:00+03:00</updated>
+  <author>
+    <name>DOĞAN ZORLU</name>
+    <uri>http://doganzorlu.com</uri>
+    <email>doganzorlu@doganzorlu.com</email>
+  </author>
+  <category scheme="http://doganzorlu.com/tags/#Microsoft" term="Microsoft" /><category scheme="http://doganzorlu.com/tags/#Onedrive" term="Onedrive" /><category scheme="http://doganzorlu.com/tags/#Google" term="Google" /><category scheme="http://doganzorlu.com/tags/#Drive" term="Drive" />
+  <content type="html">
+  
+    &lt;p&gt;Cloud üzerinde farkında olsak da olmasak da çok fazla miktarda verimizi depoluyoruz.  Cloud disk alanları tüm çalışma şeklimizi temelden değiştiriyor. Cloud hizmetlerinin büyük kısmı da bu alan üzerine inşa ediliyor.&lt;/p&gt;
+
+&lt;p&gt;Bir sürü insan görüyorum. Hala verilerini bilgisayarlarında saklıyor. Bir kısmı yedek de alıyor taşınabilir cihazlara. Bıkmadan usanmadan hepsine tek tek bu yöntemin güvenilmez olduğunu ve cloud üzerinde çok daha güvenli bir şekilde bunları depolayabileceğini anlatıyorum. Yaşadıkları durumun bir konfor meselesi değil bir gelecek problemi olduğunu anlatmaya çalışıyorum. “Düşünün, bir fidye zararlısı gelip bilgilerinizi rehin alırsa ne yapacaksınız ?” dediğimde çok şaşırıyorlar. Bu makaleyle benzer durumdaki herkese anlattıklarımı yazayım istedim. Konuyla ilgili bir de VLOG hazırlamayı düşünüyorum.&lt;/p&gt;
+
+&lt;h1 id=&quot;cloud-da-yaşam&quot;&gt;Cloud da Yaşam&lt;/h1&gt;
+
+&lt;p&gt;Cloud da veya Cloud’la yaşam artık bir zorunluluk. Üstelik ekonomik olarak çok avantajlı bir zorunluluk. Kurumlar için strateji hazırlayan uzmanlar olmakla birlikte tüketici tarafında maalesef tek başınızasınız. Nereden başlamalı nasıl ilerlemeli diyorsanız bu makalenin ana konusu bunu nasıl gerçekleştireceğiniz.&lt;/p&gt;
+
+&lt;h2 id=&quot;yol-haritası&quot;&gt;Yol Haritası&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Platformu belirle&lt;/li&gt;
+  &lt;li&gt;Tüm diğer platformlardaki dosyalarını bu platforma taşı&lt;/li&gt;
+  &lt;li&gt;Gerekiyorsa dosya dönüşümlerini yap&lt;/li&gt;
+  &lt;li&gt;Erişim yetkilerini gözden geçir&lt;/li&gt;
+  &lt;li&gt;Başka yerlere döküman yükleme&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;şeklinde bir yol haritası başlangıç için iyi olacaktır.&lt;/p&gt;
+
+&lt;h3 id=&quot;platform-seçimi&quot;&gt;Platform Seçimi&lt;/h3&gt;
+
+&lt;p&gt;Ana olarak iki platform üzerinde çalışmanızı öneriyorum. Biri Google tarafından diğeri de Microsoft tarafından sağlanıyor. Her ikisinin de avantajlı ve dezavantajlı yönleri var. Kabaca bir karşılaştırma yapıldığında aşağüıdakine benzer bir tablo ortaya çıkıyo;&lt;/p&gt;
+
+&lt;table style=&quot;margin: auto;&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Özellik&lt;/th&gt;
+      &lt;th&gt;Google Drive&lt;/th&gt;
+      &lt;th&gt;MS OneDrive&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Kapasite (Free)&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;15GB&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;5GB&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Yerleşik Döküman Düzenleyiciler&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;GoogleDocs&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Office Online/&lt;strong&gt;Desktop&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Yerleşik Önizleyiciler&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Tüm multimedia dosyaları&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Ses dosyaları&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Mobil uygulama stabilitesi&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Çok iyi&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Kötü&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Web uygulama stabilitesi&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Çok iyi&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Güvenilmez&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Incremental Dosya Transferi&lt;/td&gt;
+      &lt;td&gt;Yok&lt;/td&gt;
+      &lt;td&gt;Yok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Versiyon kontrol&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Tüm dosya tipleri&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Sadece temel dosya tipleri&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Destek&lt;/td&gt;
+      &lt;td&gt;Çok iyi&lt;/td&gt;
+      &lt;td&gt;Kötü (ilgi iyi, problem çözümleme ile ilgili sıkıntılı)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;taşınma&quot;&gt;Taşınma&lt;/h2&gt;
+
+&lt;p&gt;Bu işlem için harika bir site var. MultiCloud adındaki bu site pekçok cloud sağlayıcısından dosya transfer edebiliyor. Ücretsiz versiyonu 1TB veri kopyalamanıza izin veriyor. Diğer tüm platformlardaki dosyalarınız yeni belirlediğiniz platforma bu araçla taşıyabilirsiniz. Tek sorun dosyalar üzerindeki audit bilgisi ile paylaşım bilgilerinin kaybedilecek olması. Bu kadar köklü bir değişikliğin sancısız olması beklenemez değil mi…&lt;/p&gt;
+
+&lt;h2 id=&quot;dosya-dönüşümleri&quot;&gt;Dosya Dönüşümleri&lt;/h2&gt;
+
+&lt;p&gt;Özellikle OneDrive-GoogleDrive arası geçişlerde dikkatli olamka gerekiyor. Google, inline düenleyici olarak GoogleDocs kullanıyor ve bu dosyalar MS Office formatında indirilebiliyor veya upload edilebiliyor. Eğer çevrimiçi düzenlediğiniz DoogleDocs dosyaları varsa bunları Google’ın arşiv yardımcı aracıyla ofis dosyaları olarak indirip elden karşıya yüklemek gerekecektir. Zira GoogleDocs formatındaki dökümanları MS Office açamıyor. Eğer MS Onedrive veya muadili bir yerden GoogleDrive a geçiyorsanız, geçiş sonrası dosyaları düzenlemek istediğinizde GoogleDocs formatı otomatik oluşturuluyor (Eski dosyaları silebilirsiniz)&lt;/p&gt;
+
+&lt;h2 id=&quot;erişim-yetkileri&quot;&gt;Erişim Yetkileri&lt;/h2&gt;
+
+&lt;p&gt;Taşınma sonrası dökümanlar üzerinden geçip erişim yetkilerini kontrol etmeli ve eğer gerekiyorsa yeniden paylaşım özelliklerini aktive etmelisiniz.&lt;/p&gt;
+
+&lt;h2 id=&quot;sadece-burayı-kullanın&quot;&gt;Sadece Burayı Kullanın&lt;/h2&gt;
+
+&lt;p&gt;Evet, artık taşındınız. Bir daha verilerinizin saçılmasını engellemek adına başka bir platforma yükleme yapmamanız yerinde bir davranış olacaktır.&lt;/p&gt;
+
+&lt;p&gt;Kolay gelsin,&lt;/p&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/cloud/2017/07/25/cloud-da-yasam-becerileri/&quot;&gt;Cloud Yasam Becerileri&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;BT SERÜVENİ&lt;/a&gt; on July 25, 2017.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -43,7 +156,97 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Selametle…&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/ruby/2017/07/04/bir-jekyll-hikayesi/&quot;&gt;BİR Jekyll HİKAYESİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on July 04, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/ruby/2017/07/04/bir-jekyll-hikayesi/&quot;&gt;BİR Jekyll HİKAYESİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;BT SERÜVENİ&lt;/a&gt; on July 04, 2017.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[OFFICE 365'e MERHABA]]></title>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.com/cloud/2017/01/15/subat/"/>
+  <id>http://doganzorlu.com/cloud/2017/01/15/subat</id>
+  <published>2017-01-15T20:30:00+03:00</published>
+  <updated>2017-01-15T20:30:00+03:00</updated>
+  <author>
+    <name>DOĞAN ZORLU</name>
+    <uri>http://doganzorlu.com</uri>
+    <email>doganzorlu@doganzorlu.com</email>
+  </author>
+  <category scheme="http://doganzorlu.com/tags/#Microsoft" term="Microsoft" /><category scheme="http://doganzorlu.com/tags/#Office" term="Office" />
+  <content type="html">
+  
+    &lt;p&gt;Ne var ne yok biraz öğreneyim diye doğrudan kendi domainimi taşıdım office 365’e.&lt;/p&gt;
+
+&lt;p&gt;DNS geçişleri ve ilk kurulumlar oldukça sıkıntısız olmakla birlikte zaman geçtikçe sıkıntılar artıyor.&lt;/p&gt;
+
+&lt;p&gt;Öncelikli sorun destek. Case açtığınızda birileri üstleniyor ama servis sürekli kesik kesik. Birisi arıyor biraz bilgi alıyor. Sonra birilerine danışmak için gidiyor. Bir gün sonra tekrar arıyor, bir şeyler yapmanızı istiyor. Gidiyor bir gün sonra tekrar…. Hasılı acil bir sorun varsa ve panelden düzeltilir bir şey değilse geçmiş olsun.&lt;/p&gt;
+
+&lt;p&gt;İkinci konu servis performanslarının ikide bir kötüleşmesi. Özellikle panel, arıza arası çalışıyor gibi bir durum var.&lt;/p&gt;
+
+&lt;p&gt;Ben office iş ekstra paketini aldım. Paketle;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OWA (Posta, Takvim ve Kişiler)&lt;/li&gt;
+  &lt;li&gt;Yammer&lt;/li&gt;
+  &lt;li&gt;Onedrive&lt;/li&gt;
+  &lt;li&gt;Sharepoint&lt;/li&gt;
+  &lt;li&gt;Planner&lt;/li&gt;
+  &lt;li&gt;Görevler&lt;/li&gt;
+  &lt;li&gt;Power BI Desktop&lt;/li&gt;
+  &lt;li&gt;Delve&lt;/li&gt;
+  &lt;li&gt;Word, Excel ve Powerpoint&lt;/li&gt;
+  &lt;li&gt;Onenote&lt;/li&gt;
+  &lt;li&gt;Sway&lt;/li&gt;
+  &lt;li&gt;Flow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;uygulamaları aktif oldu. Bu ürünlerle ilgili detaylı yazacağım. Fakat özellikle ofis ürünlerinin online versiyonları çok sorunlu. Sıklıkla “Şu anda isteğinizi gerçekleştiremiyoruz” hatası geliyor.&lt;/p&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/cloud/2017/01/15/subat/&quot;&gt;OFFICE 365'e MERHABA&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;BT SERÜVENİ&lt;/a&gt; on January 15, 2017.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[YÖNETİM SİSTEMLERİ]]></title>
+  <link rel="alternate" type="text/html" href="http://doganzorlu.com/y%C3%B6netim%20sistemleri/2017/01/15/yonetim-sistemleri/"/>
+  <id>http://doganzorlu.com/y%C3%B6netim%20sistemleri/2017/01/15/yonetim-sistemleri</id>
+  <published>2017-01-15T20:30:00+03:00</published>
+  <updated>2017-01-15T20:30:00+03:00</updated>
+  <author>
+    <name>DOĞAN ZORLU</name>
+    <uri>http://doganzorlu.com</uri>
+    <email>doganzorlu@doganzorlu.com</email>
+  </author>
+  <category scheme="http://doganzorlu.com/tags/#Y%C3%B6netim%20sistemi" term="Yönetim sistemi" /><category scheme="http://doganzorlu.com/tags/#ISO%209001" term="ISO 9001" /><category scheme="http://doganzorlu.com/tags/#ISO%2027001" term="ISO 27001" />
+  <content type="html">
+  
+    &lt;p&gt;Kabaca bir tarifle yönetim sistemleri bir veya daha fazla kişinin “İŞ” yapması esnasında kullanılan kuralları ve yöntemleri ifade eden sistemlerdir.&lt;/p&gt;
+
+&lt;p&gt;İçinde bulunduğumuz yıl, pek çok işletme için dönüşüm ve farklılaşma yılı olacağa benziyor. Zira temel bazı sistemlerin yeni revizyonlarına geçiş için 2017 son yıl.&lt;/p&gt;
+
+&lt;p&gt;Bir BGYS sistem tasarım uzmanı ve baş denetçisi olarak yeni standartlar beni oldukça heyecanlandırıyor. Yıllardır BİLGİ odaklı olarak uyguladığımız bir sürü süreç, 9001:2015 ve 14001:2015 sürümlerine de montajlanmış durumda.&lt;/p&gt;
+
+&lt;p&gt;Bilindiği üzere risk ve süreç üzerinden yürüyen bir sistem olan BGYS (27001:2013) de olduğu gibi diğer sistemlerde de etkin bir risk yönetimi gelmiş bulunuyor. Bulunuyor bulunmasına ama bunun nasıl yapılacağı “Kurumsal Risk Yönetimi” kavramının sahada nasıl çalışacağı biraz muğlak sanki. Eskiden de bir risk yönetimi söz konusu olmakla birlikte yeni standart bu durumu biraz daha belirginleştiriyor.&lt;/p&gt;
+
+&lt;p&gt;Konunun uzmanı pek çok kişide kurumsal risk yönetimi denince “Risk Tablosu” adı verilen bir tablo ve bu tabloya referans olan bir puanlama metodolojisi akla geliyor. Aslında çok daha detaylı çalışılması gereken bir konu böylelikle bir tabloya hapsediliyor. İş zekasının içinde olmadığı, kendi içinde workflow, proje yönetimi (risk azaltma başlı başına projelere dönüşüyor) ve bildirim sistemleri barındırmayan, coloboration özellikleri barındırmayan sistemlerle bunun yönetilmesinin imkansıza yakın zorlukta olduğunu düşünüyorum.&lt;/p&gt;
+
+&lt;p&gt;Bir diğer baskın unsur ölçme ve değerlendirmede karşımıza çıkıyor. BGYS de SLA ve pekçok otomatik sistem üzerinden takip ettiğimiz performans hedefleri (uptime, recovery window vs) artık bu standartlarda süreçler içinde takip ediliyor olacaktır. Aslında yıllardır söylenen “Proses yaklaşımı” artık hayata geçiriliyor da denilebilir. Eskiden bağımsız olan pek çok şey süreçlerde birleşiyor olacak. Örneğin herhangi bir süreç tasarlanırken;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hedefler: Kalite, Çevre, İş Sağlığı Güvenliği ve BGYS&lt;/li&gt;
+  &lt;li&gt;Riskler: Kalite, Çevre, İş Sağlığı Güvenliği ve BGYS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;açısından birlikte değerlendirilecektir. Örneğin BGYS içinde agresif bir şekilde uygulanan değişiklik yönetimi artık kalite ve çevre için de geçerli olacaktır. Artık herhangi bir süreçte değişiklik yaparken değerlendirme sadece bir sisteme özgü yapılmayıp bileşik olarak yapılacaktır.&lt;/p&gt;
+
+&lt;p&gt;Elbette bu yöntemi tercih etmemek mümkün. Bununla birlikte yönetim sistemlerinin daha basit ve fakat daha etkili yönetilebilmesi için bu oldukça önemli bir konu olarak karşımıza çıkmaktadır.&lt;/p&gt;
+
+&lt;p&gt;Önümüzdeki günlerde biraz daha bu konularda detaylara girip, uygulamalar da yapmayı düşünüyorum. Özellikle risk yönetimi ve değişiklik yönetimi üzerinde uzun uzun çalışmayı gerektiren hususlar. Sürdürülebilirlik ya da iş sürekliliği ki ben ikisinin özdeş olduğunu düşünüyorum neredeyse risk yönetimi üzerinde duruyor diyebilirim.&lt;/p&gt;
+
+&lt;p&gt;Konu ile ilgili sonraki makalelerde görüşmek üzere.&lt;/p&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/y%C3%B6netim%20sistemleri/2017/01/15/yonetim-sistemleri/&quot;&gt;YÖNETİM SİSTEMLERİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;BT SERÜVENİ&lt;/a&gt; on January 15, 2017.&lt;/p&gt;</content>
 </entry>
 
 
@@ -88,7 +291,7 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Bilgi: Bilişim konusundaki bilgi kümesi ve bilişim teknolojisi olarak kullanılmıştır.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux/&quot;&gt;NEDEN LINUX&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on October 15, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux/&quot;&gt;NEDEN LINUX&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;BT SERÜVENİ&lt;/a&gt; on October 15, 2009.&lt;/p&gt;</content>
 </entry>
 
 
@@ -165,7 +368,7 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Windows 7, oluşturduğu kötü şöhreti yüzünden -ki haksız bir şöhret değil- ikinci Windows ME vakası olan Vista’dan sonra Microsoft’u bayağı rahatlatacağa benziyor. Gerek Vista’ya geçmekten korkanlar ve gerekse Vista kullananlar için kısa vadede bile kullanılabilesi bir işletim sistemi olmaya aday olan Windows 7, işletim sistemi dünyasında kendisine iyi bir yer edinebilecek performans ve uyumluluğa sahip.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis/&quot;&gt;WINDOWS 7 GENEL BAKIŞ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on January 25, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis/&quot;&gt;WINDOWS 7 GENEL BAKIŞ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;BT SERÜVENİ&lt;/a&gt; on January 25, 2009.&lt;/p&gt;</content>
 </entry>
 
 
@@ -196,7 +399,7 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi/&quot;&gt;SANALLAŞTIRMA BİLMECESİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on January 14, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi/&quot;&gt;SANALLAŞTIRMA BİLMECESİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;BT SERÜVENİ&lt;/a&gt; on January 14, 2009.&lt;/p&gt;</content>
 </entry>
 
 
@@ -253,7 +456,7 @@ Peki hangi havasahası derseniz bu tıpkı BMW mi Mercedes mi sorusu gibi olacak
 &lt;p&gt;Hobi için ayırabilecek vakti olup da havacılık tutkunu arkadaşlar, aramıza hoş geldiniz.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/hobi%CC%87/2008/12/29/sanal-havacilik/&quot;&gt;SANAL HAVACILIK&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/hobi%CC%87/2008/12/29/sanal-havacilik/&quot;&gt;SANAL HAVACILIK&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;BT SERÜVENİ&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
 </entry>
 
 
@@ -296,7 +499,7 @@ Peki hangi havasahası derseniz bu tıpkı BMW mi Mercedes mi sorusu gibi olacak
 &lt;p&gt;Bakalım gelecek bu konuda neler getirecek…&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/otizm/2008/12/29/otizm/&quot;&gt;OTİZM&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/otizm/2008/12/29/otizm/&quot;&gt;OTİZM&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;BT SERÜVENİ&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
 </entry>
 
 
@@ -325,7 +528,7 @@ Peki hangi havasahası derseniz bu tıpkı BMW mi Mercedes mi sorusu gibi olacak
 &lt;p&gt;Geç de olsa ucundan yakalamış olmaktan dolayı tarifsiz bir mutluluk duyuyorum.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/hobi%CC%87/2008/12/28/turk-halk-muzigi/&quot;&gt;TÜRK HALK MÜZİĞİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;DOĞANZORLU&lt;/a&gt; on December 28, 2008.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://doganzorlu.com/hobi%CC%87/2008/12/28/turk-halk-muzigi/&quot;&gt;TÜRK HALK MÜZİĞİ&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://doganzorlu.com&quot;&gt;BT SERÜVENİ&lt;/a&gt; on December 28, 2008.&lt;/p&gt;</content>
 </entry>
 
 </feed>

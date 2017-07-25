@@ -1,11 +1,35 @@
 [
 	
 		{
+		  "title"      : "Cloud Yasam Becerileri",
+		  "category"   : "Cloud",
+		  "url"        : "http://doganzorlu.com/cloud/2017/07/25/cloud-da-yasam-becerileri/",
+		  "date"       : "2017-07-25 20:30:00 +0300",
+		  "shortdate"  : "July 25, 2017"
+		} ,
+	
+		{
 		  "title"      : "BİR Jekyll HİKAYESİ",
 		  "category"   : "Ruby",
 		  "url"        : "http://doganzorlu.com/ruby/2017/07/04/bir-jekyll-hikayesi/",
 		  "date"       : "2017-07-04 20:30:00 +0300",
 		  "shortdate"  : "July 04, 2017"
+		} ,
+	
+		{
+		  "title"      : "OFFICE 365&#39;e MERHABA",
+		  "category"   : "Cloud",
+		  "url"        : "http://doganzorlu.com/cloud/2017/01/15/subat/",
+		  "date"       : "2017-01-15 20:30:00 +0300",
+		  "shortdate"  : "January 15, 2017"
+		} ,
+	
+		{
+		  "title"      : "YÖNETİM SİSTEMLERİ",
+		  "category"   : "Yönetim Sistemleri",
+		  "url"        : "http://doganzorlu.com/y%C3%B6netim%20sistemleri/2017/01/15/yonetim-sistemleri/",
+		  "date"       : "2017-01-15 20:30:00 +0300",
+		  "shortdate"  : "January 15, 2017"
 		} ,
 	
 		{
