@@ -1,7 +1,7 @@
 ---
 author: doganzorlu
 layout: post
-title: "YÖNETİM SİSTEMLERİ"
+title: Yönetim Sistemleri
 date: 2017-01-15 20:30
 comments: true
 category: Yönetim Sistemleri
@@ -9,6 +9,8 @@ tags:
 - Yönetim sistemi
 - ISO 9001
 - ISO 27001
+- ISO 14001
+- ISO 18001
 ---
 
 Kabaca bir tarifle yönetim sistemleri bir veya daha fazla kişinin "İŞ" yapması esnasında kullanılan kuralları ve yöntemleri ifade eden sistemlerdir.

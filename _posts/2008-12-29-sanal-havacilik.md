@@ -1,12 +1,12 @@
 ---
 author: doganzorlu
 layout: post
-title: "SANAL HAVACILIK"
+title: Sanal Havacılık
 date: 2008-12-29 20:30
 comments: false
-category: HOBİ
+category: Hobi
 tags:
-- HOBİ
+- Hobi
 ---
 
 Sanal havacılık deyince herkesin aklına değişik şeyler geliyor şüphesiz.

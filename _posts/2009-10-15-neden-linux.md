@@ -1,12 +1,13 @@
 ---
 author: doganzorlu
 layout: post
-title: "NEDEN LINUX"
+title: Neden Linux ?
 date: 2009-10-15 20:30
 comments: false
-category: İŞLETİM SİSTEMİ
+category: İşletim Sistemleri
 tags:
-- LINUX
+- Linux
+- OpenSouce
 ---
 
 Aslında bu sorunun cevabı “serbest yazılım” sorusunun cevabıyla aynı. Zira Linux, serbest yazılım felsefesinin en önemli örneklerinden birisidir.

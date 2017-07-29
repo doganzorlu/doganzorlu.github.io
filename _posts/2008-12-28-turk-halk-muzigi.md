@@ -1,12 +1,12 @@
 ---
 author: doganzorlu
 layout: post
-title: "TÜRK HALK MÜZİĞİ"
+title: Türk Halk Müziği
 date: 2008-12-28 20:30
 comments: false
-category: HOBİ
+category: Hobi
 tags:
-- HOBİ
+- Hobi
 ---
 
 Yaklaşık 3 yıl önce birdenbire bir bağlama çalma sevdasıyla başladı bende müzik tutkusu.

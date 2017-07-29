@@ -1,12 +1,14 @@
 ---
 author: doganzorlu
 layout: post
-title: "BİR Jekyll HİKAYESİ"
+title: "Bir Jekyll Hikayesi"
 date: 2017-07-04 20:30
 comments: true
 category: Ruby
 tags:
 - site
+- jekyll
+- ruby
 ---
 
 Yeni BLOG'a merhaba derken...

@@ -1,81 +1,89 @@
 [
 	
 		{
+		  "title"      : "Linux Üzerinde PacketTracer",
+		  "category"   : "İşletim Sistemleri",
+		  "url"        : "http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/",
+		  "date"       : "2017-07-26 20:30:00 +0300",
+		  "shortdate"  : "July 26, 2017"
+		} ,
+	
+		{
 		  "title"      : "Cloud Yasam Becerileri",
 		  "category"   : "Cloud",
-		  "url"        : "http://doganzorlu.com/cloud/2017/07/25/cloud-da-yasam-becerileri/",
+		  "url"        : "http://localhost:4000/cloud/2017/07/25/cloud-da-yasam-becerileri/",
 		  "date"       : "2017-07-25 20:30:00 +0300",
 		  "shortdate"  : "July 25, 2017"
 		} ,
 	
 		{
-		  "title"      : "BİR Jekyll HİKAYESİ",
+		  "title"      : "Bir Jekyll Hikayesi",
 		  "category"   : "Ruby",
-		  "url"        : "http://doganzorlu.com/ruby/2017/07/04/bir-jekyll-hikayesi/",
+		  "url"        : "http://localhost:4000/ruby/2017/07/04/bir-jekyll-hikayesi/",
 		  "date"       : "2017-07-04 20:30:00 +0300",
 		  "shortdate"  : "July 04, 2017"
 		} ,
 	
 		{
-		  "title"      : "OFFICE 365&#39;e MERHABA",
+		  "title"      : "Office 365&#39;e Merhaba",
 		  "category"   : "Cloud",
-		  "url"        : "http://doganzorlu.com/cloud/2017/01/15/subat/",
+		  "url"        : "http://localhost:4000/cloud/2017/01/15/subat/",
 		  "date"       : "2017-01-15 20:30:00 +0300",
 		  "shortdate"  : "January 15, 2017"
 		} ,
 	
 		{
-		  "title"      : "YÖNETİM SİSTEMLERİ",
+		  "title"      : "Yönetim Sistemleri",
 		  "category"   : "Yönetim Sistemleri",
-		  "url"        : "http://doganzorlu.com/y%C3%B6netim%20sistemleri/2017/01/15/yonetim-sistemleri/",
+		  "url"        : "http://localhost:4000/y%C3%B6netim%20sistemleri/2017/01/15/yonetim-sistemleri/",
 		  "date"       : "2017-01-15 20:30:00 +0300",
 		  "shortdate"  : "January 15, 2017"
 		} ,
 	
 		{
-		  "title"      : "NEDEN LINUX",
-		  "category"   : "İŞLETİM SİSTEMİ",
-		  "url"        : "http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux/",
+		  "title"      : "Neden Linux ?",
+		  "category"   : "İşletim Sistemleri",
+		  "url"        : "http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/10/15/neden-linux/",
 		  "date"       : "2009-10-15 20:30:00 +0300",
 		  "shortdate"  : "October 15, 2009"
 		} ,
 	
 		{
-		  "title"      : "WINDOWS 7 GENEL BAKIŞ",
-		  "category"   : "İŞLETİM SİSTEMİ",
-		  "url"        : "http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis/",
+		  "title"      : "Windows 7 Genel Bakış",
+		  "category"   : "İşletim Sistemleri",
+		  "url"        : "http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis/",
 		  "date"       : "2009-01-25 20:30:00 +0200",
 		  "shortdate"  : "January 25, 2009"
 		} ,
 	
 		{
-		  "title"      : "SANALLAŞTIRMA BİLMECESİ",
-		  "category"   : "SANALLAŞTIRMA",
-		  "url"        : "http://doganzorlu.com/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi/",
+		  "title"      : "Sanallaştırma Bilmecesi",
+		  "category"   : "Sanallaştırma",
+		  "url"        : "http://localhost:4000/sanalla%C5%9Ft%C4%B1rma/2009/01/14/sanallastirma-bilmecesi/",
 		  "date"       : "2009-01-14 20:30:00 +0200",
 		  "shortdate"  : "January 14, 2009"
 		} ,
 	
 		{
-		  "title"      : "SANAL HAVACILIK",
-		  "category"   : "HOBİ",
-		  "url"        : "http://doganzorlu.com/hobi%CC%87/2008/12/29/sanal-havacilik/",
+		  "title"      : "Sanal Havacılık",
+		  "category"   : "Hobi",
+		  "url"        : "http://localhost:4000/hobi/2008/12/29/sanal-havacilik/",
 		  "date"       : "2008-12-29 20:30:00 +0200",
 		  "shortdate"  : "December 29, 2008"
 		} ,
 	
 		{
-		  "title"      : "OTİZM",
-		  "category"   : "OTIZM",
-		  "url"        : "http://doganzorlu.com/otizm/2008/12/29/otizm/",
+		  "title"      : "Otizm",
+		  "category"   : "Otizm",
+		  "url"        : "http://localhost:4000/otizm/2008/12/29/otizm/",
 		  "date"       : "2008-12-29 20:30:00 +0200",
 		  "shortdate"  : "December 29, 2008"
 		} ,
 	
 		{
-		  "title"      : "TÜRK HALK MÜZİĞİ",
-		  "category"   : "HOBİ",
-		  "url"        : "http://doganzorlu.com/hobi%CC%87/2008/12/28/turk-halk-muzigi/",
+		  "title"      : "Türk Halk Müziği",
+		  "category"   : "Hobi",
+		  "url"        : "http://localhost:4000/hobi/2008/12/28/turk-halk-muzigi/",
 		  "date"       : "2008-12-28 20:30:00 +0200",
 		  "shortdate"  : "December 28, 2008"
 		} 

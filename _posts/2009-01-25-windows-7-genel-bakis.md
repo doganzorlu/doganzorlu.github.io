@@ -1,10 +1,10 @@
 ---
 author: doganzorlu
 layout: post
-title: "WINDOWS 7 GENEL BAKIŞ"
+title: "Windows 7 Genel Bakış"
 date: 2009-01-25 20:30
 comments: false
-category: İŞLETİM SİSTEMİ
+category: İşletim Sistemleri
 tags:
 - Windows 7
 ---

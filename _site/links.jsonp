@@ -2,53 +2,58 @@ callback([
 
 
   {
-    "text": "TÜRK HALK MÜZİĞİ",
-    "href": "http://doganzorlu.com/hobi%CC%87/2008/12/28/turk-halk-muzigi/"
+    "text": "Türk Halk Müziği",
+    "href": "http://localhost:4000/hobi/2008/12/28/turk-halk-muzigi/"
   } ,
 
   {
-    "text": "OTİZM",
-    "href": "http://doganzorlu.com/otizm/2008/12/29/otizm/"
+    "text": "Otizm",
+    "href": "http://localhost:4000/otizm/2008/12/29/otizm/"
   } ,
 
   {
-    "text": "SANAL HAVACILIK",
-    "href": "http://doganzorlu.com/hobi%CC%87/2008/12/29/sanal-havacilik/"
+    "text": "Sanal Havacılık",
+    "href": "http://localhost:4000/hobi/2008/12/29/sanal-havacilik/"
   } ,
 
   {
-    "text": "SANALLAŞTIRMA BİLMECESİ",
-    "href": "http://doganzorlu.com/sanalla%C5%9Ftirma/2009/01/14/sanallastirma-bilmecesi/"
+    "text": "Sanallaştırma Bilmecesi",
+    "href": "http://localhost:4000/sanalla%C5%9Ft%C4%B1rma/2009/01/14/sanallastirma-bilmecesi/"
   } ,
 
   {
-    "text": "WINDOWS 7 GENEL BAKIŞ",
-    "href": "http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/01/25/windows-7-genel-bakis/"
+    "text": "Windows 7 Genel Bakış",
+    "href": "http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis/"
   } ,
 
   {
-    "text": "NEDEN LINUX",
-    "href": "http://doganzorlu.com/i%CC%87%C5%9Fleti%CC%87m%20si%CC%87stemi%CC%87/2009/10/15/neden-linux/"
+    "text": "Neden Linux ?",
+    "href": "http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/10/15/neden-linux/"
   } ,
 
   {
-    "text": "YÖNETİM SİSTEMLERİ",
-    "href": "http://doganzorlu.com/y%C3%B6netim%20sistemleri/2017/01/15/yonetim-sistemleri/"
+    "text": "Yönetim Sistemleri",
+    "href": "http://localhost:4000/y%C3%B6netim%20sistemleri/2017/01/15/yonetim-sistemleri/"
   } ,
 
   {
-    "text": "OFFICE 365'e MERHABA",
-    "href": "http://doganzorlu.com/cloud/2017/01/15/subat/"
+    "text": "Office 365'e Merhaba",
+    "href": "http://localhost:4000/cloud/2017/01/15/subat/"
   } ,
 
   {
-    "text": "BİR Jekyll HİKAYESİ",
-    "href": "http://doganzorlu.com/ruby/2017/07/04/bir-jekyll-hikayesi/"
+    "text": "Bir Jekyll Hikayesi",
+    "href": "http://localhost:4000/ruby/2017/07/04/bir-jekyll-hikayesi/"
   } ,
 
   {
     "text": "Cloud Yasam Becerileri",
-    "href": "http://doganzorlu.com/cloud/2017/07/25/cloud-da-yasam-becerileri/"
+    "href": "http://localhost:4000/cloud/2017/07/25/cloud-da-yasam-becerileri/"
+  } ,
+
+  {
+    "text": "Linux Üzerinde PacketTracer",
+    "href": "http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/"
   } 
 
 ])

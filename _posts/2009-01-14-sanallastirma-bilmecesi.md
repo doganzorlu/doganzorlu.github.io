@@ -1,12 +1,14 @@
 ---
 author: doganzorlu
 layout: post
-title: "SANALLAŞTIRMA BİLMECESİ"
+title: Sanallaştırma Bilmecesi
 date: 2009-01-14 20:30
 comments: false
-category: SANALLAŞTIRMA
+category: Sanallaştırma
 tags:
-- SANALLAŞTIRMA
+- Sanallaştırma
+- VMWare
+- KVM
 ---
 
 x86 tabanlı sistemlerde sanallaştırma, son dönemde kullanım oranı hızla yükselen bir uygulama. Başlangıçta sadece guest bir işletim sistemini çalıştırabilmek sözkonusu iken, gelinen noktada host bir sistem üzerinde mevcut kaynakları paylaşan birden fazla guest sözkonusudur.
