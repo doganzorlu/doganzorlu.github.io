@@ -24,6 +24,8 @@ Yine toplantıda çok enteresan bir bilgi olarak USA de bir üniversitede IoT bl
 
 Bu arada yeni gelen bir haber de konuşuldu; "VMWARE Desktop Zaafiyeti". VMWare desktop yaygın bir şekilde kullanılan bir sanallaştırma platformu ve yetkili kullanıcı haklarına erişilebileek bir zaafiyeti olduğu ortaya çıktı. Genel olarak VMWare zaafiyetleri ile ilgili bilgilere; [WMWare Security Advisories](https://www.vmware.com/security/advisories.html) adresinden ulaşılabilir.
 
+Bir başka konu Amerikan hükümetinin baskıları sonucunda bazı antivirus yazılımlarının Windows üzerinde çalışırken sorun yaşamaya başlamalarıydı. Bu konuda en bariz örnek olarak Kaspersk nin Windows defender tarafından zararlı yazılım olarak algılanmaya başlaması gibi bir durumdan bahsedildi. Açıkçası gözlerimle görmedim ama bunun mümkün olabileceğini düşünüyorum. Artık herkes birbirini veri çalmakla suçlayıp duruyor neredeyse.
+
 Son olarakda önümüzdeki dönem eğitim ve etkinliklerinden bahsedildi.
 
 Bu etkinlikleri düzenleyip sürmesi için gayret gösteren **"Çağrı POLAT"** kardeşime de ayrıca teşekkür ediyorum.
