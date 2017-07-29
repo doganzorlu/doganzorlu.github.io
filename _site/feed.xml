@@ -7,13 +7,48 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2017-07-26T18:35:15+03:00</updated>
+<updated>2017-07-30T00:42:51+03:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>DOĞAN ZORLU</name>
   <uri>http://localhost:4000/</uri>
   <email>doganzorlu@doganzorlu.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[11. Ege Bilgi Güvenliği Toplantısı]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/07/29/onbirinci-bilgi-guvenligi/"/>
+  <id>http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/07/29/onbirinci-bilgi-guvenligi</id>
+  <published>2017-07-29T20:30:00+03:00</published>
+  <updated>2017-07-29T20:30:00+03:00</updated>
+  <author>
+    <name>DOĞAN ZORLU</name>
+    <uri>http://localhost:4000</uri>
+    <email>doganzorlu@doganzorlu.com</email>
+  </author>
+  <category scheme="http://localhost:4000/tags/#%C4%B0zmir" term="İzmir" /><category scheme="http://localhost:4000/tags/#Bilgi%20G%C3%BCvenli%C4%9Fi" term="Bilgi Güvenliği" /><category scheme="http://localhost:4000/tags/#KVKK" term="KVKK" /><category scheme="http://localhost:4000/tags/#Petya" term="Petya" />
+  <content type="html">
+  
+    &lt;p&gt;Düzenli bir şekilde sürdürülen &lt;strong&gt;“Ege Bilgi Güvenliği”&lt;/strong&gt; toplantılarının 11. si TEMA VAKFI İZMİR ŞUBESİ salonunda gerçekleştirildi.&lt;/p&gt;
+
+&lt;p&gt;Bu toplantıları organize eden ve aynı zamanda liderliğini de üstlenen &lt;strong&gt;Çağrı POLAT”&lt;/strong&gt;, toplantı gündemini özellikle son 4 haftada meydana gelen gelişmelerden oluşturmuş.&lt;/p&gt;
+
+&lt;p&gt;Toplantıda genişçe bir konu olarak ransomware ve özellikle Petya konusu görüşüldü. Genellikle alınabilecek önlemler konuşulsa da, Petya özelinde şifrelenmiş sistemleri çözmek için ulaşılabilecek biryer olmamasından hareketle, hedefin rehine değil hasar vermek amaçlı olduğu değerlendirildi. Ben de bu konuda aynı fikirdeyim. Zira eğer rehine durumu olsa, rehineciler bir şekilde erişilebilir olmak isterlerdi diye düşünüyorum. Ayrıca bir değerlendirme olarak MS17-010 (Son dönem ransomware ler bu açığı kullanarak aynı zamanda ağda da yayılıyorlar) zaafiyetinin martta açıklanmasına rağmen hala patch lenmemiş sistemlerin varlığı, dünya genelinde bir patch yönetimi zaafiyeti olduğu şeklinde bir kanaat oluşturuyor.&lt;/p&gt;
+
+&lt;p&gt;6698 sayılı kanunla hayatımızda yer etmeye başlayan &lt;strong&gt;“Kişisel verilerin korunması”&lt;/strong&gt; konusu ise yine toplantıda uzunca konuşuldu. Bir roadmap yada generic bir framework çalışması yapılsa ne güzel olur diye düşündüğümü belirttim. Bilindiği gibi &lt;strong&gt;“DIRECTIVE 95/46/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL”&lt;/strong&gt; ile Avrupa’da mevcut mevzuata uyum için ülkemizde de 6698 sayılı kanun çıkarıldı. Şu anda yönetmelikleri görüşe sunulmuş durumda olan kanunla işyerleri için ciddi ödevler geliyor. Genel olarak şu anda Avrupa’da da bir best practise bulamadım henüz. Özellikle verinin anonimleştirilmesi mevcut veri koruma politikaları nedeni ile neredeyse imkansız gibi. Hem uygulama yazılımlarının, hem veritabanlarının ve hem de yedekleme sistemlerinin bu yeni duruma göre yeniden uyarlanması gerekiyor.&lt;/p&gt;
+
+&lt;p&gt;Yine toplantıda çok enteresan bir bilgi olarak USA de bir üniversitede IoT blümünün açıldığı bilgisi geldi. IoT güncel ortamlarda hızla yayılıyor ve güvenliğinin sağlanması başlı başına bir bela. Tüm uç noktaların yönetilebilir olacağüı bir altyapı kurmak, uçların çeşitliliği nedeni ile çok mümkün görünmüyor.&lt;/p&gt;
+
+&lt;p&gt;Bu arada yeni gelen bir haber de konuşuldu; “VMWARE Desktop Zaafiyeti”. VMWare desktop yaygın bir şekilde kullanılan bir sanallaştırma platformu ve yetkili kullanıcı haklarına erişilebileek bir zaafiyeti olduğu ortaya çıktı. Genel olarak VMWare zaafiyetleri ile ilgili bilgilere; &lt;a href=&quot;https://www.vmware.com/security/advisories.html&quot;&gt;WMWare Security Advisories&lt;/a&gt; adresinden ulaşılabilir.&lt;/p&gt;
+
+&lt;p&gt;Son olarakda önümüzdeki dönem eğitim ve etkinliklerinden bahsedildi.&lt;/p&gt;
+
+&lt;p&gt;Bu etkinlikleri düzenleyip sürmesi için gayret gösteren &lt;strong&gt;“Çağrı POLAT”&lt;/strong&gt; kardeşime de ayrıca teşekkür ediyorum.&lt;/p&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/07/29/onbirinci-bilgi-guvenligi/&quot;&gt;11. Ege Bilgi Güvenliği Toplantısı&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on July 29, 2017.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>

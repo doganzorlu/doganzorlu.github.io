@@ -54,6 +54,11 @@ callback([
   {
     "text": "Linux Üzerinde PacketTracer",
     "href": "http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/"
+  } ,
+
+  {
+    "text": "11. Ege Bilgi Güvenliği Toplantısı",
+    "href": "http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/07/29/onbirinci-bilgi-guvenligi/"
   } 
 
 ])

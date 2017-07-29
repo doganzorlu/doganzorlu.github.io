@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "11. Ege Bilgi Güvenliği Toplantısı",
+		  "category"   : "Bilgi Güvenliği",
+		  "url"        : "http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/07/29/onbirinci-bilgi-guvenligi/",
+		  "date"       : "2017-07-29 20:30:00 +0300",
+		  "shortdate"  : "July 29, 2017"
+		} ,
+	
+		{
 		  "title"      : "Linux Üzerinde PacketTracer",
 		  "category"   : "İşletim Sistemleri",
 		  "url"        : "http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/",
