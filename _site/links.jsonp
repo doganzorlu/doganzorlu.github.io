@@ -59,6 +59,11 @@ callback([
   {
     "text": "11. Ege Bilgi Güvenliği Toplantısı",
     "href": "http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/07/29/onbirinci-bilgi-guvenligi/"
+  } ,
+
+  {
+    "text": "12. Ege Bilgi Güvenliği Toplantısı",
+    "href": "http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/09/16/onikinci-bilgi-guvenligi/"
   } 
 
 ])

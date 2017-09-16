@@ -23,7 +23,7 @@ Bilindiği üzere risk ve süreç üzerinden yürüyen bir sistem olan BGYS (270
 
 Konunun uzmanı pek çok kişide kurumsal risk yönetimi denince "Risk Tablosu" adı verilen bir tablo ve bu tabloya referans olan bir puanlama metodolojisi akla geliyor. Aslında çok daha detaylı çalışılması gereken bir konu böylelikle bir tabloya hapsediliyor. İş zekasının içinde olmadığı, kendi içinde workflow, proje yönetimi (risk azaltma başlı başına projelere dönüşüyor) ve bildirim sistemleri barındırmayan, coloboration özellikleri barındırmayan sistemlerle bunun yönetilmesinin imkansıza yakın zorlukta olduğunu düşünüyorum.
 
-Bir diğer baskın unsur ölçme ve değerlendirmede karşımıza çıkıyor. BGYS de SLA ve pekçok otomatik sistem üzerinden takip ettiğimiz performans hedefleri (uptime, recovery window vs) artık bu standartlarda süreçler içinde takip ediliyor olacaktır. Aslında yıllardır söylenen "Proses yaklaşımı" artık hayata geçiriliyor da denilebilir. Eskiden bağımsız olan pek çok şey süreçlerde birleşiyor olacak. Örneğin herhangi bir süreç tasarlanırken;
+Bir diğer baskın unsur ölçme ve değerlendirmede karşımıza çıkıyor. BGYS de SLA ve pek çok otomatik sistem üzerinden takip ettiğimiz performans hedefleri (uptime, recovery window vs) artık bu standartlarda süreçler içinde takip ediliyor olacaktır. Aslında yıllardır söylenen "Proses yaklaşımı" artık hayata geçiriliyor da denilebilir. Eskiden bağımsız olan pek çok şey süreçlerde birleşiyor olacak. Örneğin herhangi bir süreç tasarlanırken;
 
 * Hedefler: Kalite, Çevre, İş Sağlığı Güvenliği ve BGYS
 * Riskler: Kalite, Çevre, İş Sağlığı Güvenliği ve BGYS

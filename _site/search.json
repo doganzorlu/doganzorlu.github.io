@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "12. Ege Bilgi Güvenliği Toplantısı",
+		  "category"   : "Bilgi Güvenliği",
+		  "url"        : "http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/09/16/onikinci-bilgi-guvenligi/",
+		  "date"       : "2017-09-16 20:30:00 +0300",
+		  "shortdate"  : "September 16, 2017"
+		} ,
+	
+		{
 		  "title"      : "11. Ege Bilgi Güvenliği Toplantısı",
 		  "category"   : "Bilgi Güvenliği",
 		  "url"        : "http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/07/29/onbirinci-bilgi-guvenligi/",

@@ -14,7 +14,7 @@ tags:
 
 Düzenli bir şekilde sürdürülen **"Ege Bilgi Güvenliği"** toplantılarının 11. si TEMA VAKFI İZMİR ŞUBESİ salonunda gerçekleştirildi.
 
-Bu toplantıları organize eden ve aynı zamanda liderliğini de üstlenen **Çağrı POLAT"**, toplantı gündemini özellikle son 4 haftada meydana gelen gelişmelerden oluşturmuş.
+Bu toplantıları organize eden ve aynı zamanda liderliğini de üstlenen **"Çağrı POLAT"**, toplantı gündemini özellikle son 4 haftada meydana gelen gelişmelerden oluşturmuş.
 
 Toplantıda genişçe bir konu olarak ransomware ve özellikle Petya konusu görüşüldü. Genellikle alınabilecek önlemler konuşulsa da, Petya özelinde şifrelenmiş sistemleri çözmek için ulaşılabilecek biryer olmamasından hareketle, hedefin rehine değil hasar vermek amaçlı olduğu değerlendirildi. Ben de bu konuda aynı fikirdeyim. Zira eğer rehine durumu olsa, rehineciler bir şekilde erişilebilir olmak isterlerdi diye düşünüyorum. Ayrıca bir değerlendirme olarak MS17-010 (Son dönem ransomware ler bu açığı kullanarak aynı zamanda ağda da yayılıyorlar) zaafiyetinin martta açıklanmasına rağmen hala patch lenmemiş sistemlerin varlığı, dünya genelinde bir patch yönetimi zaafiyeti olduğu şeklinde bir kanaat oluşturuyor.
 
@@ -26,6 +26,6 @@ Bu arada yeni gelen bir haber de konuşuldu; "VMWARE Desktop Zaafiyeti". VMWare 
 
 Bir başka konu Amerikan hükümetinin baskıları sonucunda bazı antivirus yazılımlarının Windows üzerinde çalışırken sorun yaşamaya başlamalarıydı. Bu konuda en bariz örnek olarak Kaspersk nin Windows defender tarafından zararlı yazılım olarak algılanmaya başlaması gibi bir durumdan bahsedildi. Açıkçası gözlerimle görmedim ama bunun mümkün olabileceğini düşünüyorum. Artık herkes birbirini veri çalmakla suçlayıp duruyor neredeyse.
 
-Son olarakda önümüzdeki dönem eğitim ve etkinliklerinden bahsedildi.
+Son olarak önümüzdeki dönem eğitim ve etkinliklerinden bahsedildi.
 
 Bu etkinlikleri düzenleyip sürmesi için gayret gösteren **"Çağrı POLAT"** kardeşime de ayrıca teşekkür ediyorum.
