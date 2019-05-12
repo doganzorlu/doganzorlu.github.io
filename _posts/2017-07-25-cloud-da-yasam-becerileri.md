@@ -52,7 +52,7 @@ Bu işlem için harika bir site var. MultiCloud adındaki bu site pekçok cloud 
 
 ## Dosya Dönüşümleri
 
-Özellikle OneDrive-GoogleDrive arası geçişlerde dikkatli olamka gerekiyor. Google, inline düenleyici olarak GoogleDocs kullanıyor ve bu dosyalar MS Office formatında indirilebiliyor veya upload edilebiliyor. Eğer çevrimiçi düzenlediğiniz DoogleDocs dosyaları varsa bunları Google'ın arşiv yardımcı aracıyla ofis dosyaları olarak indirip elden karşıya yüklemek gerekecektir. Zira GoogleDocs formatındaki dökümanları MS Office açamıyor. Eğer MS Onedrive veya muadili bir yerden GoogleDrive a geçiyorsanız, geçiş sonrası dosyaları düzenlemek istediğinizde GoogleDocs formatı otomatik oluşturuluyor (Eski dosyaları silebilirsiniz)
+Özellikle OneDrive-GoogleDrive arası geçişlerde dikkatli olmak gerekiyor. Google, inline düenleyici olarak GoogleDocs kullanıyor ve bu dosyalar MS Office formatında indirilebiliyor veya upload edilebiliyor. Eğer çevrimiçi düzenlediğiniz DoogleDocs dosyaları varsa bunları Google'ın arşiv yardımcı aracıyla ofis dosyaları olarak indirip elden karşıya yüklemek gerekecektir. Zira GoogleDocs formatındaki dökümanları MS Office açamıyor. Eğer MS Onedrive veya muadili bir yerden GoogleDrive a geçiyorsanız, geçiş sonrası dosyaları düzenlemek istediğinizde GoogleDocs formatı otomatik oluşturuluyor (Eski dosyaları silebilirsiniz)
 
 ## Erişim Yetkileri
 
