@@ -126,7 +126,7 @@
 
 <figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nb">sudo </span>add-apt-repository ppa:phablet-team/tools
 <span class="nb">sudo </span>apt-get update
-<span class="nb">sudo </span>apt-get install android-tools-adb android-tools-fastboot</code></pre></figure>
+<span class="nb">sudo </span>apt-get <span class="nb">install </span>android-tools-adb android-tools-fastboot</code></pre></figure>
 
 <ul>
   <li>Now connect  Nexus 4 to your machine via USB, make sure you enable your USB debugging ON, so start USB Debugging go to Settings » Developer Options » USB debugging. (If you dont have Developer Options go to Settings » About Phone » Build number and tap on Build number until you become developer).</li>
@@ -165,7 +165,7 @@ unzip it</li>
 </ul>
 
 <figure class="highlight"><pre><code class="language-bash" data-lang="bash">adb reboot-bootloader
-sleep 15
+<span class="nb">sleep </span>15
 <span class="nb">sudo</span> ./flash-all.sh</code></pre></figure>
 
 <p>This command will  generate following logs on your terminal, put your password if prompted, your phone may be rebooted few times.</p>
@@ -233,7 +233,7 @@ Inode size: 256
 Journal blocks: 32768
 Label: 
 Blocks: 3449600
-Block groups: 106
+Block <span class="nb">groups</span>: 106
 Reserved block group size: 847
 Created filesystem with 11/863264 inodes and 95427/3449600 blocks
 sending <span class="s1">'userdata'</span> <span class="o">(</span>137438 KB<span class="o">)</span>...
@@ -251,7 +251,7 @@ Inode size: 256
 Journal blocks: 2240
 Label: 
 Blocks: 143360
-Block groups: 5
+Block <span class="nb">groups</span>: 5
 Reserved block group size: 39
 Created filesystem with 11/35840 inodes and 4616/143360 blocks
 sending <span class="s1">'cache'</span> <span class="o">(</span>10984 KB<span class="o">)</span>...
