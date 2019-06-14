@@ -69,3 +69,5 @@ kramdown:
 plugins:
 - jemoji
 - jekyll-paginate
+
+theme: jekyll-theme-midnight

@@ -15,7 +15,7 @@ tags:
 
 Düzenli bir şekilde sürdürülen **"Ege Bilgi Güvenliği"** toplantılarının 12. si TEMA VAKFI İZMİR ŞUBESİ salonunda yogun bir katılımla gerçekleştirildi.
 
-![](/images/14_bg_meeting.jpeg){: width:100%; class="notepad-post-content post tag-simple"}
+![Download](/images/14_bg_meeting.jpeg){: width:100%; class="notepad-post-content post tag-simple"}
 Toplantı oldukça zengin bir içeriğe sahipti. Bazı konular daha önceki toplantıdan devam eden konuları da içeriyordu. Bu toplantıdaki özel bölüm **Incident Response** olarak seçilmişti.
 
 Toplantıda dikkatimi çeken ve sizlerle de paylaşmak istediğim konuları aşağıda bulabilirsiniz. Şayet **"Bilgi Güvenliği"** ilginizi çekiyorsa gruba katılabilir ve toplantıları izleyebilirsiniz. Bunun için;

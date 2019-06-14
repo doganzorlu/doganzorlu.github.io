@@ -7,13 +7,119 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2017-09-17T14:23:24+03:00</updated>
+<updated>2019-06-14T16:55:03+03:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>DOĞAN ZORLU</name>
   <uri>http://localhost:4000/</uri>
   <email>doganzorlu@doganzorlu.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[YAZILIM GELİŞTİRME]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/e%C4%9Fitim/2019/05/01/yazilim-gelistirme/"/>
+  <id>http://localhost:4000/e%C4%9Fitim/2019/05/01/yazilim-gelistirme</id>
+  <published>2019-05-01T20:30:00+03:00</published>
+  <updated>2019-05-01T20:30:00+03:00</updated>
+  <author>
+    <name>DOĞAN ZORLU</name>
+    <uri>http://localhost:4000</uri>
+    <email>doganzorlu@doganzorlu.com</email>
+  </author>
+  <category scheme="http://localhost:4000/tags/#Manisa" term="Manisa" /><category scheme="http://localhost:4000/tags/#Manisaip" term="Manisaip" /><category scheme="http://localhost:4000/tags/#Development" term="Development" /><category scheme="http://localhost:4000/tags/#E%C4%9Fitim" term="Eğitim" /><category scheme="http://localhost:4000/tags/#IoT" term="IoT" />
+  <content type="html">
+  
+    &lt;h1 id=&quot;baŞlarken&quot;&gt;BAŞLARKEN&lt;/h1&gt;
+
+&lt;p&gt;Bu makale ile &lt;strong&gt;“Yazılım Geliştirme”&lt;/strong&gt; konusunda çalışanların sıfırdan bir geliştirme ortamı nasıl oluşturabileceğini anlatmaya çalışacağım.&lt;/p&gt;
+
+&lt;p&gt;Temel olarak;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SCM&lt;/li&gt;
+  &lt;li&gt;IDE (Faydalı Pluginleri)&lt;/li&gt;
+  &lt;li&gt;Python (Çok işe yarayan kütüphaneleri)&lt;/li&gt;
+  &lt;li&gt;Docker&lt;/li&gt;
+  &lt;li&gt;Geliştirici DevOps araçları&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;için kurulum tarif ediyor olacağım.&lt;/p&gt;
+
+&lt;h1 id=&quot;İÇİndekİler&quot;&gt;İÇİNDEKİLER&lt;/h1&gt;
+
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#baŞlarken&quot; id=&quot;markdown-toc-baŞlarken&quot;&gt;BAŞLARKEN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#İÇİndekİler&quot; id=&quot;markdown-toc-İÇİndekİler&quot;&gt;İÇİNDEKİLER&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#platform-seÇİmİ&quot; id=&quot;markdown-toc-platform-seÇİmİ&quot;&gt;PLATFORM SEÇİMİ&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#scm&quot; id=&quot;markdown-toc-scm&quot;&gt;SCM&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#nedir-&quot; id=&quot;markdown-toc-nedir-&quot;&gt;Nedir ?&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;platform-seÇİmİ&quot;&gt;PLATFORM SEÇİMİ&lt;/h1&gt;
+
+&lt;p&gt;Yazılım geliştirme işi neredeyse sürekli olarak devam eden bir iştir. Bu nedenle geliştirme yapılacak platformun;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hızlı kapanıp açılabilmesi ve mümkünse bunu her durumda yapabilmesi&lt;/li&gt;
+  &lt;li&gt;İyi bir pil ömrüne sahip olması, pilin ansızın bitmemesi ve idle durumda minimum enerji harcayabilmesi&lt;/li&gt;
+  &lt;li&gt;Cep telefonu kadar hızlı erişebilir olması&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;uzun günler ve geceler boyu çalışacak geliştiriciler için çok ciddi zaman kazandıracaktır. Şahsi olarak sırf donanım stabilitesi nedeni ile Macbook Pro kullanıyorum. Aslında en sevdiğim platform Linux MINT dağıtımının KDE masaüstü sürümü fakat normal notebook platformlarında istediğim performansta bir cihaz bulamadım. (Bir sürü book lar – Microsoft, Lenovo vs – da denedim bu arada) Bu tarafta en iyi seçenek &lt;abbr title=&quot;Solid State Disk&quot;&gt;SSD&lt;/abbr&gt; takılı bir Windows 10 64bit makine gibi görünüyor.&lt;/p&gt;
+
+&lt;p&gt;Her ne kadar kendim Macos kullanıyor olsamda yaygın bir şekilde kullanıldığı için windows makine üzerinde kurulum yapılmasını anlatıyor olacağım. Zaman bulabilirsem eğer Mac ve Linux için de hazırlayabilirim. This is a text with a footnote&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;bs-callout bs-callout-danger&quot;&gt;
+  &lt;h4&gt;WARNING&lt;/h4&gt;
+  &lt;p&gt;&lt;b&gt;Early-adopters&lt;/b&gt;: the following steps will &lt;b&gt;NOT&lt;/b&gt; work with the currently released Rhinoceros (5.x.x).  You will need to use WIP version of Rhinoceros.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. KURULUM
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Elimizde temiz kurulmuş, firewall ı aktif, en az bir tane antivirus yüklü ve tüm güncellemeleri yapılmış Windows işletim sistemi olduğu varsayımı ile başlıyoruz. Bu saydıklarım neden önemli ? Geliştiricinin ürettiği kodlar biriciktir. Kaybolması durumunda bir yerden parasıyla bile olsa almak mümkün değildir. Bu nedenle kaybına ya da varsa gizliliğine bir halel gelmesine tahammül edilmez, edilemez.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    1. İNDİRME LİSTESİ
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Kurulum için gerekli olan yazılımların tam listesi burda&lt;/p&gt;
+
+&lt;h2 id=&quot;scm&quot;&gt;SCM&lt;/h2&gt;
+
+&lt;p&gt;Bu makale ve takip eden tüm yazılım geliştirme ile ilgili yazılarımda SCM den bahsettiğimde bunu lütfen git olarak okuyun. Uzun yıllar SVN kullanmış birisi olarak git in dağıtık mimarisi ve hızı nedeni ile size de önerim bu olacaktır.&lt;/p&gt;
+
+&lt;h3 id=&quot;nedir-&quot;&gt;Nedir ?&lt;/h3&gt;
+
+&lt;p&gt;SCM, en basit tabiri ile kaynak kod yönetimi yaptığımız yazılımın adıdır. Genellikle bir sunucu ve buna bağlanan işlemciler üzerinden çalışır. Görevi üretilen herbir satır kodu korumak ve tüm ekip tarafından ortak bir çalışma ortamı oluşturmaktır.&lt;/p&gt;
+
+&lt;p&gt;İşte download edebileceğiniz yer: &lt;img src=&quot;/images/monitor-symbol-with-download-down-arrow.png&quot; alt=&quot;Download&quot; height=&quot;24px&quot; width=&quot;24px&quot; /&gt; &lt;a href=&quot;https://git-scm.com/downloads&quot;&gt;GIT Web Sitesi&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;doganzorlu# &lt;span class=&quot;nb&quot;&gt;ls&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-lah&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;aa&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Test Drive&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Foot note 1 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/e%C4%9Fitim/2019/05/01/yazilim-gelistirme/&quot;&gt;YAZILIM GELİŞTİRME&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on May 01, 2019.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -32,7 +138,7 @@
   
     &lt;p&gt;Düzenli bir şekilde sürdürülen &lt;strong&gt;“Ege Bilgi Güvenliği”&lt;/strong&gt; toplantılarının 12. si TEMA VAKFI İZMİR ŞUBESİ salonunda yogun bir katılımla gerçekleştirildi.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/14_bg_meeting.jpeg&quot; alt=&quot;&quot; class=&quot;notepad-post-content post tag-simple&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/14_bg_meeting.jpeg&quot; alt=&quot;Download&quot; class=&quot;notepad-post-content post tag-simple&quot; /&gt;
 Toplantı oldukça zengin bir içeriğe sahipti. Bazı konular daha önceki toplantıdan devam eden konuları da içeriyordu. Bu toplantıdaki özel bölüm &lt;strong&gt;Incident Response&lt;/strong&gt; olarak seçilmişti.&lt;/p&gt;
 
 &lt;p&gt;Toplantıda dikkatimi çeken ve sizlerle de paylaşmak istediğim konuları aşağıda bulabilirsiniz. Şayet &lt;strong&gt;“Bilgi Güvenliği”&lt;/strong&gt; ilginizi çekiyorsa gruba katılabilir ve toplantıları izleyebilirsiniz. Bunun için;&lt;/p&gt;
@@ -164,8 +270,8 @@ Toplantı oldukça zengin bir içeriğe sahipti. Bazı konular daha önceki topl
 
 <entry>
   <title type="html"><![CDATA[Linux Üzerinde PacketTracer]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/"/>
-  <id>http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/"/>
+  <id>http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux</id>
   <published>2017-07-26T20:30:00+03:00</published>
   <updated>2017-07-26T20:30:00+03:00</updated>
   <author>
@@ -194,7 +300,7 @@ cp /opt/pt/lib/libQTWebkit.so /opt/pt/libQTWebkit&lt;/code&gt;&lt;/pre&gt;&lt;/f
 &lt;p&gt;Not: Bu uygulama Linux MINT 18 KDE distro’sunda gerçeklenmiştir. Ubuntu dağıtımlarında da işe yarayacaktır.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/&quot;&gt;Linux Üzerinde PacketTracer&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on July 26, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/&quot;&gt;Linux Üzerinde PacketTracer&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on July 26, 2017.&lt;/p&gt;</content>
 </entry>
 
 
@@ -294,7 +400,7 @@ cp /opt/pt/lib/libQTWebkit.so /opt/pt/libQTWebkit&lt;/code&gt;&lt;/pre&gt;&lt;/f
 
 &lt;h2 id=&quot;dosya-dönüşümleri&quot;&gt;Dosya Dönüşümleri&lt;/h2&gt;
 
-&lt;p&gt;Özellikle OneDrive-GoogleDrive arası geçişlerde dikkatli olamka gerekiyor. Google, inline düenleyici olarak GoogleDocs kullanıyor ve bu dosyalar MS Office formatında indirilebiliyor veya upload edilebiliyor. Eğer çevrimiçi düzenlediğiniz DoogleDocs dosyaları varsa bunları Google’ın arşiv yardımcı aracıyla ofis dosyaları olarak indirip elden karşıya yüklemek gerekecektir. Zira GoogleDocs formatındaki dökümanları MS Office açamıyor. Eğer MS Onedrive veya muadili bir yerden GoogleDrive a geçiyorsanız, geçiş sonrası dosyaları düzenlemek istediğinizde GoogleDocs formatı otomatik oluşturuluyor (Eski dosyaları silebilirsiniz)&lt;/p&gt;
+&lt;p&gt;Özellikle OneDrive-GoogleDrive arası geçişlerde dikkatli olmak gerekiyor. Google, inline düenleyici olarak GoogleDocs kullanıyor ve bu dosyalar MS Office formatında indirilebiliyor veya upload edilebiliyor. Eğer çevrimiçi düzenlediğiniz DoogleDocs dosyaları varsa bunları Google’ın arşiv yardımcı aracıyla ofis dosyaları olarak indirip elden karşıya yüklemek gerekecektir. Zira GoogleDocs formatındaki dökümanları MS Office açamıyor. Eğer MS Onedrive veya muadili bir yerden GoogleDrive a geçiyorsanız, geçiş sonrası dosyaları düzenlemek istediğinizde GoogleDocs formatı otomatik oluşturuluyor (Eski dosyaları silebilirsiniz)&lt;/p&gt;
 
 &lt;h2 id=&quot;erişim-yetkileri&quot;&gt;Erişim Yetkileri&lt;/h2&gt;
 
@@ -434,8 +540,8 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Neden Linux ?]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/10/15/neden-linux/"/>
-  <id>http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/10/15/neden-linux</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/10/15/neden-linux/"/>
+  <id>http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/10/15/neden-linux</id>
   <published>2009-10-15T20:30:00+03:00</published>
   <updated>2009-10-15T20:30:00+03:00</updated>
   <author>
@@ -473,14 +579,14 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Bilgi: Bilişim konusundaki bilgi kümesi ve bilişim teknolojisi olarak kullanılmıştır.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/10/15/neden-linux/&quot;&gt;Neden Linux ?&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on October 15, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/10/15/neden-linux/&quot;&gt;Neden Linux ?&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on October 15, 2009.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Windows 7 Genel Bakış]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis/"/>
-  <id>http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis/"/>
+  <id>http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis</id>
   <published>2009-01-25T20:30:00+02:00</published>
   <updated>2009-01-25T20:30:00+02:00</updated>
   <author>
@@ -550,7 +656,7 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Windows 7, oluşturduğu kötü şöhreti yüzünden -ki haksız bir şöhret değil- ikinci Windows ME vakası olan Vista’dan sonra Microsoft’u bayağı rahatlatacağa benziyor. Gerek Vista’ya geçmekten korkanlar ve gerekse Vista kullananlar için kısa vadede bile kullanılabilesi bir işletim sistemi olmaya aday olan Windows 7, işletim sistemi dünyasında kendisine iyi bir yer edinebilecek performans ve uyumluluğa sahip.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis/&quot;&gt;Windows 7 Genel Bakış&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on January 25, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis/&quot;&gt;Windows 7 Genel Bakış&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on January 25, 2009.&lt;/p&gt;</content>
 </entry>
 
 

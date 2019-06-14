@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "YAZILIM GELİŞTİRME",
+		  "category"   : "Eğitim",
+		  "url"        : "http://localhost:4000/e%C4%9Fitim/2019/05/01/yazilim-gelistirme/",
+		  "date"       : "2019-05-01 20:30:00 +0300",
+		  "shortdate"  : "May 01, 2019"
+		} ,
+	
+		{
 		  "title"      : "12. Ege Bilgi Güvenliği Toplantısı",
 		  "category"   : "Bilgi Güvenliği",
 		  "url"        : "http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/09/16/onikinci-bilgi-guvenligi/",
@@ -19,7 +27,7 @@
 		{
 		  "title"      : "Linux Üzerinde PacketTracer",
 		  "category"   : "İşletim Sistemleri",
-		  "url"        : "http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/",
+		  "url"        : "http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/",
 		  "date"       : "2017-07-26 20:30:00 +0300",
 		  "shortdate"  : "July 26, 2017"
 		} ,
@@ -59,7 +67,7 @@
 		{
 		  "title"      : "Neden Linux ?",
 		  "category"   : "İşletim Sistemleri",
-		  "url"        : "http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/10/15/neden-linux/",
+		  "url"        : "http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/10/15/neden-linux/",
 		  "date"       : "2009-10-15 20:30:00 +0300",
 		  "shortdate"  : "October 15, 2009"
 		} ,
@@ -67,7 +75,7 @@
 		{
 		  "title"      : "Windows 7 Genel Bakış",
 		  "category"   : "İşletim Sistemleri",
-		  "url"        : "http://localhost:4000/i%CC%87%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis/",
+		  "url"        : "http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis/",
 		  "date"       : "2009-01-25 20:30:00 +0200",
 		  "shortdate"  : "January 25, 2009"
 		} ,
