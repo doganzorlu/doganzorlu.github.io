@@ -69,4 +69,4 @@ kramdown:
 plugins:
 - jemoji
 - jekyll-paginate
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
