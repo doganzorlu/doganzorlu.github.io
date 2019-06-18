@@ -121,10 +121,10 @@ Python içerisinde güzel bir kütüphane yönetim aracı geliyor **PIP**.
 Packet installer for python adından mülhem bu araçla çok kolay şekilde bir kütüphane kurulup kaldırılabilir. Bir paket kurulacağı zaman;
 
 ~~~~ bash
-$ pip install Paket
-$ pip install Paket==1.1.1
-$ pip install Paket>=1.0.0 
-$ pip install -r prerequisities.txt
+C:\Project> pip install Paket
+C:\Project> pip install Paket==1.1.1
+C:\Project> pip install Paket>=1.0.0 
+C:\Project> pip install -r prerequisities.txt
 ~~~~
 
 şeklinde kullanılabilir. İlk paket in son versiyonunu, ikincisi belirtilen versiyonunu ve üçüncüsü ise en düşük kurulabilir paket sürümünü kullanarak kurulum yapacaktır. Dördüncü seçenek ise prerequisities.txt dosyası içinde yazılı paketleri kuracaktır.
@@ -133,19 +133,19 @@ Birkaç komut örneği vermek gerekirse;
 
 **Arama yapmak için:**
 ~~~~ bash
-$ git search "query"
+C:\Project> pip search "query"
 ~~~~
-query örnekleri için [git search](https://pip.pypa.io/en/stable/reference/pip_search/#pip-search) bakılabilir.
+query örnekleri için [pip search](https://pip.pypa.io/en/stable/reference/pip_search/#pip-search) bakılabilir.
 
 **Paket listesi için:**
 ~~~~ bash
-$ pip list
+C:\Project> pip list
 urllib3                       1.24.1    
 virtualenv                    16.2.0    
 webencodings                  0.5.1     
 wheel                         0.33.1
 
-$ pip show kivy
+C:\Project>pip show kivy
 Name: Kivy
 Version: 1.10.1
 Summary: A software library for rapid development of hardware-accelerated multitouch applications.
@@ -153,7 +153,7 @@ Home-page: http://kivy.org
 Author: Kivy Team and other contributors
 Author-email: kivy-dev@googlegroups.com
 License: MIT
-Location: /usr/local/lib/python2.7/site-packages
+Location: c:\python\lib\site-packages
 Requires: pygments, Kivy-Garden, docutils
 Required-by:
 ~~~~
@@ -166,8 +166,8 @@ VirtualEnv projenin çalışması için gereken tüm gereksinimlerin depolanaca�
 
 ~~~~bash
 virtualenv App1
-Using base prefix '/Users/user/anaconda3'
-New python executable in /Users/user/tmp/App1/bin/python
+Using base prefix 'c:\python'
+New python executable in C:\Project\App1\Scripts\python.exe
 Installing setuptools, pip, wheel...
 done.
 ~~~~
@@ -175,20 +175,23 @@ done.
 Görüleceği üzere yeni bir folder oluşturulup içerisinde;
 
 ~~~~bash
-$ ls App1
-bin	include	lib
+C:\Project> dir App1
+Include
+Lib
+Scripts
+tcl
 ~~~~
 klasörlerini oluşturdu. Bu projeyi aktive etmek gerektiğinde;
 
 ~~~~bash
-$ source App1/bin/activate
-(App1) devmachine:App1 user$
+C:\Project> App1\Scripts\activate
+(App1) C:\Project> 
 ~~~~
 şeklinde prompt projeyi gösterecek şekilde değişecektir. Windows sistemlerde ise doğrudan proje dizininde Scripts\activate betiği kullanılabilir. Bu aşamadan sonra **pip** ile kurulan paketler tüm sistem geneline değil, proje klasörüne kurulacaktır.
 
 Projeden çıkmak için ise;
 ~~~~bash
-$ deactivate
+C:\Project> deactivate
 ~~~~
 
 komutu yeterli olacaktır.
@@ -204,7 +207,7 @@ Docker oldukça popüler bir container platformudur. Windows ve *nix ler için c
 Docker kurulumu için gereken windows özellikleri otomatik olarak etkinleştirecektir. Kurulum aşamasında birkaç kez restart gerekebilir. Kurulum sonrası;
 
 ~~~~bash
-$ docker version
+C:\Project> docker version
 Client: Docker Engine - Community
  Version:           18.09.2
  API version:       1.39
