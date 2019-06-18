@@ -184,7 +184,7 @@ klasörlerini oluşturdu. Bu projeyi aktive etmek gerektiğinde;
 $ source App1/bin/activate
 (App1) devmachine:App1 user$
 ~~~~
-şeklinde prompt projeyi gösterecek şekilde değişecektir. Bu aşamadan sonra **pip** ile kurulan paketler tüm sistem geneline değil, proje klasörüne kurulacaktır.
+şeklinde prompt projeyi gösterecek şekilde değişecektir. Windows sistemlerde ise doğrudan proje dizininde Scripts\activate betiği kullanılabilir. Bu aşamadan sonra **pip** ile kurulan paketler tüm sistem geneline değil, proje klasörüne kurulacaktır.
 
 Projeden çıkmak için ise;
 ~~~~bash
