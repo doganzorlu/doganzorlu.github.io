@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2019-06-14T17:40:40+03:00</updated>
+<updated>2019-06-18T13:44:25+03:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>DOĞAN ZORLU</name>
@@ -51,16 +51,20 @@
 &lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#baŞlarken&quot; id=&quot;markdown-toc-baŞlarken&quot;&gt;BAŞLARKEN&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#İÇİndekİler&quot; id=&quot;markdown-toc-İÇİndekİler&quot;&gt;İÇİNDEKİLER&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#platform-seÇİmİ&quot; id=&quot;markdown-toc-platform-seÇİmİ&quot;&gt;PLATFORM SEÇİMİ&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#scm&quot; id=&quot;markdown-toc-scm&quot;&gt;SCM&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#nedir-&quot; id=&quot;markdown-toc-nedir-&quot;&gt;Nedir ?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#platform&quot; id=&quot;markdown-toc-platform&quot;&gt;PLATFORM&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#kurulum&quot; id=&quot;markdown-toc-kurulum&quot;&gt;KURULUM&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#İndİrme-lİstesİ&quot; id=&quot;markdown-toc-İndİrme-lİstesİ&quot;&gt;İNDİRME LİSTESİ&lt;/a&gt;&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#scm&quot; id=&quot;markdown-toc-scm&quot;&gt;SCM&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ide&quot; id=&quot;markdown-toc-ide&quot;&gt;IDE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#python&quot; id=&quot;markdown-toc-python&quot;&gt;PYTHON&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#docker&quot; id=&quot;markdown-toc-docker&quot;&gt;DOCKER&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h1 id=&quot;platform-seÇİmİ&quot;&gt;PLATFORM SEÇİMİ&lt;/h1&gt;
+&lt;h1 id=&quot;platform&quot;&gt;PLATFORM&lt;/h1&gt;
 
 &lt;p&gt;Yazılım geliştirme işi neredeyse sürekli olarak devam eden bir iştir. Bu nedenle geliştirme yapılacak platformun;&lt;/p&gt;
 
@@ -72,47 +76,239 @@
 
 &lt;p&gt;uzun günler ve geceler boyu çalışacak geliştiriciler için çok ciddi zaman kazandıracaktır. Şahsi olarak sırf donanım stabilitesi nedeni ile Macbook Pro kullanıyorum. Aslında en sevdiğim platform Linux MINT dağıtımının KDE masaüstü sürümü fakat normal notebook platformlarında istediğim performansta bir cihaz bulamadım. (Bir sürü book lar – Microsoft, Lenovo vs – da denedim bu arada) Bu tarafta en iyi seçenek &lt;abbr title=&quot;Solid State Disk&quot;&gt;SSD&lt;/abbr&gt; takılı bir Windows 10 64bit makine gibi görünüyor.&lt;/p&gt;
 
-&lt;p&gt;Her ne kadar kendim Macos kullanıyor olsamda yaygın bir şekilde kullanıldığı için windows makine üzerinde kurulum yapılmasını anlatıyor olacağım. Zaman bulabilirsem eğer Mac ve Linux için de hazırlayabilirim. This is a text with a footnote&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Her ne kadar kendim Macos kullanıyor olsamda yaygın bir şekilde kullanıldığı için windows makine üzerinde kurulum yapılmasını anlatıyor olacağım. Zaman bulabilirsem eğer Mac ve Linux için de hazırlayabilirim&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
-&lt;div class=&quot;bs-callout bs-callout-danger&quot;&gt;
-  &lt;h4&gt;WARNING&lt;/h4&gt;
-  &lt;p&gt;&lt;b&gt;Early-adopters&lt;/b&gt;: the following steps will &lt;b&gt;NOT&lt;/b&gt; work with the currently released Rhinoceros (5.x.x).  You will need to use WIP version of Rhinoceros.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. KURULUM
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;kurulum&quot;&gt;KURULUM&lt;/h2&gt;
 
 &lt;p&gt;Elimizde temiz kurulmuş, firewall ı aktif, en az bir tane antivirus yüklü ve tüm güncellemeleri yapılmış Windows işletim sistemi olduğu varsayımı ile başlıyoruz. Bu saydıklarım neden önemli ? Geliştiricinin ürettiği kodlar biriciktir. Kaybolması durumunda bir yerden parasıyla bile olsa almak mümkün değildir. Bu nedenle kaybına ya da varsa gizliliğine bir halel gelmesine tahammül edilmez, edilemez.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    1. İNDİRME LİSTESİ
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&quot;İndİrme-lİstesİ&quot;&gt;İNDİRME LİSTESİ&lt;/h3&gt;
 
-&lt;p&gt;Kurulum için gerekli olan yazılımların tam listesi burda&lt;/p&gt;
+&lt;p&gt;Kurulum için gerekli olan yazılımların tam listesi burada;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/downloads&quot; target=&quot;_blank&quot;&gt;GIT&lt;/a&gt; - Git SCM&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com&quot; target=&quot;_blank&quot;&gt;VSCODE&lt;/a&gt; - VSCode Editör&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org/&quot; target=&quot;_blank&quot;&gt;PYTHON&lt;/a&gt; - Python Interpreter&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.docker.com/get-started&quot; target=&quot;_blank&quot;&gt;DOCKER&lt;/a&gt; - Docker Container&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&quot;scm&quot;&gt;SCM&lt;/h2&gt;
 
 &lt;p&gt;Bu makale ve takip eden tüm yazılım geliştirme ile ilgili yazılarımda SCM den bahsettiğimde bunu lütfen git olarak okuyun. Uzun yıllar SVN kullanmış birisi olarak git in dağıtık mimarisi ve hızı nedeni ile size de önerim bu olacaktır.&lt;/p&gt;
 
-&lt;h3 id=&quot;nedir-&quot;&gt;Nedir ?&lt;/h3&gt;
-
 &lt;p&gt;SCM, en basit tabiri ile kaynak kod yönetimi yaptığımız yazılımın adıdır. Genellikle bir sunucu ve buna bağlanan işlemciler üzerinden çalışır. Görevi üretilen herbir satır kodu korumak ve tüm ekip tarafından ortak bir çalışma ortamı oluşturmaktır.&lt;/p&gt;
 
-&lt;p&gt;İşte download edebileceğiniz yer: &lt;img src=&quot;/images/monitor-symbol-with-download-down-arrow.png&quot; alt=&quot;Download&quot; height=&quot;24px&quot; width=&quot;24px&quot; /&gt; &lt;a href=&quot;https://git-scm.com/downloads&quot;&gt;GIT Web Sitesi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;İşte download edebileceğiniz yer: &lt;a href=&quot;https://git-scm.com/downloads&quot; target=&quot;_blank&quot;&gt;GIT Web Sitesi&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;doganzorlu# &lt;span class=&quot;nb&quot;&gt;ls&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-lah&lt;/span&gt;
+&lt;p&gt;Bu bağlantıdan sisteminize uygun kurulumu yapabilirsiniz. *nix işletim sistemlerinin çoğunda yerleşik olarak geliyor. İndirme sonrası normal bir windows uygulaması kurulumu gibi kurmak yeterli olacaktır. Kurulum uygulaması kendi kendini ortam değişkenlerinden &lt;strong&gt;PATH&lt;/strong&gt; içine ekleyecektir. Bu sayede komut satırımdan kullanabilmek için ekstra bir işlem yapılması gerekmemektedir.&lt;/p&gt;
+
+&lt;p&gt;Temel birkaç git komutu örneği;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-cmd&quot;&gt;Microsoft Windows [Version 10.0.17134.590]
+(c) 2018 Microsoft Corporation. Tüm hakları saklıdır.
+
+C:\Users\Dev01&amp;gt; git clone -b https://github.com/doganzorlu/python-course-basic.git
+C:\Users\Dev01&amp;gt; git push
+C:\Users\Dev01&amp;gt; git pull
+C:\Users\Dev01&amp;gt; git add .
+C:\Users\Dev01&amp;gt; git commit -m &quot;Test Drive&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Kullanım ile ilgili detaylara topluluk sitesinin &lt;a href=&quot;https://git-scm.com/doc&quot;&gt;Dökümanlar&lt;/a&gt; bölümünden ulaşarak detaylı bilgi alınabilir.&lt;/p&gt;
+
+&lt;h1 id=&quot;ide&quot;&gt;IDE&lt;/h1&gt;
+
+&lt;p&gt;Entegre geliştirme ortamı olarak VSCode oldukça popüler ve kullanışlı. Alternatif olarak çok beğendiğim atom da kullanılabilir.&lt;/p&gt;
+
+&lt;p&gt;İşte download edebileceğiniz yer: &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;VSCode Web Sitesi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/vscode.jpg&quot; alt=&quot;VSCode Web Site Capture&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;VSCode oldukça yaygın plugin seti ile birlikte kullanılabiliyor. Pluginler ide nin extensions bölümünden eklenip kaldırılabilir. Benim en çok kullandığım pluginleri;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;GitLens&lt;/li&gt;
+  &lt;li&gt;Angular Console&lt;/li&gt;
+  &lt;li&gt;Angular Essential&lt;/li&gt;
+  &lt;li&gt;KvLang&lt;/li&gt;
+  &lt;li&gt;Python&lt;/li&gt;
+  &lt;li&gt;Vetur&lt;/li&gt;
+  &lt;li&gt;vue&lt;/li&gt;
+  &lt;li&gt;YAML&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Daha çok üzerinde çalıştığınız projeye bağlı olarak plugin seti değişiyor diyebilirim.&lt;/p&gt;
+
+&lt;h1 id=&quot;python&quot;&gt;PYTHON&lt;/h1&gt;
+
+&lt;p&gt;Development araçları çalışılan projeye, platforma ve yapılacak işe göre seçilmekle beraber bu dökümanda python örneği verilmiştir.&lt;/p&gt;
+
+&lt;p&gt;İşte download edebileceğiniz yer: &lt;a href=&quot;https://www.python.org/&quot;&gt;Python Web Sitesi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/python.png&quot; alt=&quot;Python&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Python çok amaçlı kullanılabileceği oldukça yaygın bir framework ve kütüphane ağına sahiptir. Birkaç örnek vermek gerekirse;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;django&lt;/li&gt;
+  &lt;li&gt;kivy&lt;/li&gt;
+  &lt;li&gt;matplotlib&lt;/li&gt;
+  &lt;li&gt;pony&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Python içerisinde güzel bir kütüphane yönetim aracı geliyor &lt;strong&gt;PIP&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Packet installer for python adından mülhem bu araçla çok kolay şekilde bir kütüphane kurulup kaldırılabilir. Bir paket kurulacağı zaman;&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;pip &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;Paket
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;pip &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Paket&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;1.1.1
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;pip &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;Paket&amp;gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1.0.0 
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;pip &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-r&lt;/span&gt; prerequisities.txt
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;aa&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Test Drive&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;p&gt;şeklinde kullanılabilir. İlk paket in son versiyonunu, ikincisi belirtilen versiyonunu ve üçüncüsü ise en düşük kurulabilir paket sürümünü kullanarak kurulum yapacaktır. Dördüncü seçenek ise prerequisities.txt dosyası içinde yazılı paketleri kuracaktır.&lt;/p&gt;
 
+&lt;p&gt;Birkaç komut örneği vermek gerekirse;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arama yapmak için:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git search &lt;span class=&quot;s2&quot;&gt;&quot;query&quot;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;query örnekleri için &lt;a href=&quot;https://pip.pypa.io/en/stable/reference/pip_search/#pip-search&quot;&gt;git search&lt;/a&gt; bakılabilir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Paket listesi için:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;pip list
+urllib3                       1.24.1    
+virtualenv                    16.2.0    
+webencodings                  0.5.1     
+wheel                         0.33.1
+
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;pip show kivy
+Name: Kivy
+Version: 1.10.1
+Summary: A software library &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;rapid development of hardware-accelerated multitouch applications.
+Home-page: http://kivy.org
+Author: Kivy Team and other contributors
+Author-email: kivy-dev@googlegroups.com
+License: MIT
+Location: /usr/local/lib/python2.7/site-packages
+Requires: pygments, Kivy-Garden, docutils
+Required-by:
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;kullanılabilir. Örnekler için &lt;a href=&quot;https://pip.pypa.io/en/stable/reference/pip_list/#pip-list&quot;&gt;pip list&lt;/a&gt; be &lt;a href=&quot;https://pip.pypa.io/en/stable/reference/pip_show/#pip-show&quot;&gt;pip show&lt;/a&gt; bölümlerine bakılabilir.&lt;/p&gt;
+
+&lt;h1 id=&quot;docker&quot;&gt;DOCKER&lt;/h1&gt;
+
+&lt;p&gt;Docker oldukça popüler bir container platformudur. Windows ve *nix ler için container ları ve/veya platformları desteklemektedir. Orkestrasyon için oldukça gelişmiş araçlar da bu alanda yer bulmaktadır. Örneğin swarm ve çok daha yetenekli kubernates gibi. Standalone bir kurulum acayip kolay olmaktadır.&lt;/p&gt;
+
+&lt;p&gt;İşte download edebileceğiniz yer: &lt;a href=&quot;https://hub.docker.com/&quot;&gt;Dockerhub Web Sitesi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/docker.png&quot; alt=&quot;Docker&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Docker kurulumu için gereken windows özellikleri otomatik olarak etkinleştirecektir. Kurulum aşamasında birkaç kez restart gerekebilir. Kurulum sonrası;&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;docker version
+Client: Docker Engine - Community
+ Version:           18.09.2
+ API version:       1.39
+ Go version:        go1.10.8
+ Git commit:        6247962
+ Built:             Sun Feb 10 04:12:39 2019
+ OS/Arch:           darwin/amd64
+ Experimental:      &lt;span class=&quot;nb&quot;&gt;false
+
+&lt;/span&gt;Server: Docker Engine - Community
+ Engine:
+  Version:          18.09.2
+  API version:      1.39 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;minimum version 1.12&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+  Go version:       go1.10.6
+  Git commit:       6247962
+  Built:            Sun Feb 10 04:13:06 2019
+  OS/Arch:          linux/amd64
+  Experimental:     &lt;span class=&quot;nb&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;komutu ile kurulum teyit edilebilir.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;docker ps
+CONTAINER ID        IMAGE                COMMAND                  CREATED             STATUS              PORTS                                         NAMES
+6f564bf9a488        gitea/gitea:latest   &lt;span class=&quot;s2&quot;&gt;&quot;/usr/bin/entrypoint…&quot;&lt;/span&gt;   3 weeks ago         Up 2 weeks          0.0.0.0:3000-&amp;gt;3000/tcp, 0.0.0.0:222-&amp;gt;22/tcp   gitea_server_1
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;yukarıdaki komut ile çalışan container lar görülebilir. Pekçok container bir grup application group olarak çalıştığı için temel docker-compose aracı oldukça işe yaramaktadır.&lt;/p&gt;
+
+&lt;p&gt;İşte download edebileceğiniz yer: &lt;a href=&quot;https://docs.docker.com/compose/install/&quot;&gt;Docker-compose download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/docker-compose.png&quot; alt=&quot;Docker-compose&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;bu araç ile oluşturulan konfigürasyon dosyaları ile bir grup konteyner, bunlar arasındaki ağlar ve volume bağlantıları otomatik gerçekleştirilebilir. Örnek bir compose dosyası vermek gerekirse;&lt;/p&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;err&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;3.3&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;services&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+   &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+     &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;mysql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;5.7&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+     &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;volumes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+       &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;db_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/var/lib/mysql&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+     &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;restart&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;always&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+     &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;environment&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+       &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;MYSQL_ROOT_PASSWORD&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;somewordpress&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+       &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;MYSQL_DATABASE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;wordpress&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+       &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;MYSQL_USER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;wordpress&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+       &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;MYSQL_PASSWORD&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;wordpress&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+   &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;wordpress&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+     &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;depends_on&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+       &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+     &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;wordpress&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;latest&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+     &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;ports&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+       &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;8000:80&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+     &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;restart&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;always&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+     &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;environment&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+       &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;WORDPRESS_DB_HOST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3306&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+       &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;WORDPRESS_DB_USER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;wordpress&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+       &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;WORDPRESS_DB_PASSWORD&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;wordpress&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+       &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;WORDPRESS_DB_NAME&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;wordpress&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;volumes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;db_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;yukarıdaki örnek dosya çalıştırılacak olursa;&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;docker-compose up &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt;
+Creating network &lt;span class=&quot;s2&quot;&gt;&quot;my_wordpress_default&quot;&lt;/span&gt; with the default driver
+Pulling db &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;mysql:5.7&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;...
+5.7: Pulling from library/mysql
+efd26ecc9548: Pull &lt;span class=&quot;nb&quot;&gt;complete
+&lt;/span&gt;a3ed95caeb02: Pull &lt;span class=&quot;nb&quot;&gt;complete&lt;/span&gt;
+...
+Digest: sha256:34a0aca88e85f2efa5edff1cea77cf5d3147ad93545dbec99cfe705b03c520de
+Status: Downloaded newer image &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;mysql:5.7
+Pulling wordpress &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;wordpress:latest&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;...
+latest: Pulling from library/wordpress
+efd26ecc9548: Already exists
+a3ed95caeb02: Pull &lt;span class=&quot;nb&quot;&gt;complete
+&lt;/span&gt;589a9d9a7c64: Pull &lt;span class=&quot;nb&quot;&gt;complete&lt;/span&gt;
+...
+Digest: sha256:ed28506ae44d5def89075fd5c01456610cd6c64006addfe5210b8c675881aff6
+Status: Downloaded newer image &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;wordpress:latest
+Creating my_wordpress_db_1
+Creating my_wordpress_wordpress_1
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;benzeri bir sonuç elde edilecektir. Container image leri hub dan indirilip deploy edilmiş olacaktır.&lt;/p&gt;
+
+&lt;p&gt;Yazarak anlatmak oldukça zor ve yetersiz. Bununla birlikte base bir kurulum gerçekleştirdik. Artık kodlarımızı yönetebilir ve birer sontainer olarak hazırlayıp deliver edebiliriz.&lt;/p&gt;
+
+&lt;p&gt;Bu başlıkların her birinin detaylı kullanımını önümüzdeki günlerde ayrı birer makale olarak hazırlamayı düşünüyorum.&lt;/p&gt;
+
+&lt;p&gt;Kalın sağlıcakla…&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Foot note 1 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Kurulumlar birbirine oldukça yakın. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;

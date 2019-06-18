@@ -135,16 +135,20 @@
 <ol id="markdown-toc">
   <li><a href="#baŞlarken" id="markdown-toc-baŞlarken">BAŞLARKEN</a></li>
   <li><a href="#İÇİndekİler" id="markdown-toc-İÇİndekİler">İÇİNDEKİLER</a></li>
-  <li><a href="#platform-seÇİmİ" id="markdown-toc-platform-seÇİmİ">PLATFORM SEÇİMİ</a>    <ol>
-      <li><a href="#scm" id="markdown-toc-scm">SCM</a>        <ol>
-          <li><a href="#nedir-" id="markdown-toc-nedir-">Nedir ?</a></li>
+  <li><a href="#platform" id="markdown-toc-platform">PLATFORM</a>    <ol>
+      <li><a href="#kurulum" id="markdown-toc-kurulum">KURULUM</a>        <ol>
+          <li><a href="#İndİrme-lİstesİ" id="markdown-toc-İndİrme-lİstesİ">İNDİRME LİSTESİ</a></li>
         </ol>
       </li>
+      <li><a href="#scm" id="markdown-toc-scm">SCM</a></li>
     </ol>
   </li>
+  <li><a href="#ide" id="markdown-toc-ide">IDE</a></li>
+  <li><a href="#python" id="markdown-toc-python">PYTHON</a></li>
+  <li><a href="#docker" id="markdown-toc-docker">DOCKER</a></li>
 </ol>
 
-<h1 id="platform-seÇİmİ">PLATFORM SEÇİMİ</h1>
+<h1 id="platform">PLATFORM</h1>
 
 <p>Yazılım geliştirme işi neredeyse sürekli olarak devam eden bir iştir. Bu nedenle geliştirme yapılacak platformun;</p>
 
@@ -156,47 +160,239 @@
 
 <p>uzun günler ve geceler boyu çalışacak geliştiriciler için çok ciddi zaman kazandıracaktır. Şahsi olarak sırf donanım stabilitesi nedeni ile Macbook Pro kullanıyorum. Aslında en sevdiğim platform Linux MINT dağıtımının KDE masaüstü sürümü fakat normal notebook platformlarında istediğim performansta bir cihaz bulamadım. (Bir sürü book lar – Microsoft, Lenovo vs – da denedim bu arada) Bu tarafta en iyi seçenek <abbr title="Solid State Disk">SSD</abbr> takılı bir Windows 10 64bit makine gibi görünüyor.</p>
 
-<p>Her ne kadar kendim Macos kullanıyor olsamda yaygın bir şekilde kullanıldığı için windows makine üzerinde kurulum yapılmasını anlatıyor olacağım. Zaman bulabilirsem eğer Mac ve Linux için de hazırlayabilirim. This is a text with a footnote<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.</p>
+<p>Her ne kadar kendim Macos kullanıyor olsamda yaygın bir şekilde kullanıldığı için windows makine üzerinde kurulum yapılmasını anlatıyor olacağım. Zaman bulabilirsem eğer Mac ve Linux için de hazırlayabilirim<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.</p>
 
-<div class="bs-callout bs-callout-danger">
-  <h4>WARNING</h4>
-  <p><b>Early-adopters</b>: the following steps will <b>NOT</b> work with the currently released Rhinoceros (5.x.x).  You will need to use WIP version of Rhinoceros.</p>
-</div>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. KURULUM
-</code></pre></div></div>
+<h2 id="kurulum">KURULUM</h2>
 
 <p>Elimizde temiz kurulmuş, firewall ı aktif, en az bir tane antivirus yüklü ve tüm güncellemeleri yapılmış Windows işletim sistemi olduğu varsayımı ile başlıyoruz. Bu saydıklarım neden önemli ? Geliştiricinin ürettiği kodlar biriciktir. Kaybolması durumunda bir yerden parasıyla bile olsa almak mümkün değildir. Bu nedenle kaybına ya da varsa gizliliğine bir halel gelmesine tahammül edilmez, edilemez.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    1. İNDİRME LİSTESİ
-</code></pre></div></div>
+<h3 id="İndİrme-lİstesİ">İNDİRME LİSTESİ</h3>
 
-<p>Kurulum için gerekli olan yazılımların tam listesi burda</p>
+<p>Kurulum için gerekli olan yazılımların tam listesi burada;</p>
+
+<ol>
+  <li><a href="https://git-scm.com/downloads" target="_blank">GIT</a> - Git SCM</li>
+  <li><a href="https://code.visualstudio.com" target="_blank">VSCODE</a> - VSCode Editör</li>
+  <li><a href="https://www.python.org/" target="_blank">PYTHON</a> - Python Interpreter</li>
+  <li><a href="https://www.docker.com/get-started" target="_blank">DOCKER</a> - Docker Container</li>
+</ol>
 
 <h2 id="scm">SCM</h2>
 
 <p>Bu makale ve takip eden tüm yazılım geliştirme ile ilgili yazılarımda SCM den bahsettiğimde bunu lütfen git olarak okuyun. Uzun yıllar SVN kullanmış birisi olarak git in dağıtık mimarisi ve hızı nedeni ile size de önerim bu olacaktır.</p>
 
-<h3 id="nedir-">Nedir ?</h3>
-
 <p>SCM, en basit tabiri ile kaynak kod yönetimi yaptığımız yazılımın adıdır. Genellikle bir sunucu ve buna bağlanan işlemciler üzerinden çalışır. Görevi üretilen herbir satır kodu korumak ve tüm ekip tarafından ortak bir çalışma ortamı oluşturmaktır.</p>
 
-<p>İşte download edebileceğiniz yer: <img src="/images/monitor-symbol-with-download-down-arrow.png" alt="Download" height="24px" width="24px" /> <a href="https://git-scm.com/downloads">GIT Web Sitesi</a></p>
+<p>İşte download edebileceğiniz yer: <a href="https://git-scm.com/downloads" target="_blank">GIT Web Sitesi</a></p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>doganzorlu# <span class="nb">ls</span> <span class="nt">-lah</span>
+<p>Bu bağlantıdan sisteminize uygun kurulumu yapabilirsiniz. *nix işletim sistemlerinin çoğunda yerleşik olarak geliyor. İndirme sonrası normal bir windows uygulaması kurulumu gibi kurmak yeterli olacaktır. Kurulum uygulaması kendi kendini ortam değişkenlerinden <strong>PATH</strong> içine ekleyecektir. Bu sayede komut satırımdan kullanabilmek için ekstra bir işlem yapılması gerekmemektedir.</p>
+
+<p>Temel birkaç git komutu örneği;</p>
+
+<pre><code class="language-cmd">Microsoft Windows [Version 10.0.17134.590]
+(c) 2018 Microsoft Corporation. Tüm hakları saklıdır.
+
+C:\Users\Dev01&gt; git clone -b https://github.com/doganzorlu/python-course-basic.git
+C:\Users\Dev01&gt; git push
+C:\Users\Dev01&gt; git pull
+C:\Users\Dev01&gt; git add .
+C:\Users\Dev01&gt; git commit -m "Test Drive"
+</code></pre>
+
+<p>Kullanım ile ilgili detaylara topluluk sitesinin <a href="https://git-scm.com/doc">Dökümanlar</a> bölümünden ulaşarak detaylı bilgi alınabilir.</p>
+
+<h1 id="ide">IDE</h1>
+
+<p>Entegre geliştirme ortamı olarak VSCode oldukça popüler ve kullanışlı. Alternatif olarak çok beğendiğim atom da kullanılabilir.</p>
+
+<p>İşte download edebileceğiniz yer: <a href="https://code.visualstudio.com/">VSCode Web Sitesi</a></p>
+
+<p><img src="/images/vscode.jpg" alt="VSCode Web Site Capture" /></p>
+
+<p>VSCode oldukça yaygın plugin seti ile birlikte kullanılabiliyor. Pluginler ide nin extensions bölümünden eklenip kaldırılabilir. Benim en çok kullandığım pluginleri;</p>
+
+<ol>
+  <li>GitLens</li>
+  <li>Angular Console</li>
+  <li>Angular Essential</li>
+  <li>KvLang</li>
+  <li>Python</li>
+  <li>Vetur</li>
+  <li>vue</li>
+  <li>YAML</li>
+</ol>
+
+<p>Daha çok üzerinde çalıştığınız projeye bağlı olarak plugin seti değişiyor diyebilirim.</p>
+
+<h1 id="python">PYTHON</h1>
+
+<p>Development araçları çalışılan projeye, platforma ve yapılacak işe göre seçilmekle beraber bu dökümanda python örneği verilmiştir.</p>
+
+<p>İşte download edebileceğiniz yer: <a href="https://www.python.org/">Python Web Sitesi</a></p>
+
+<p><img src="/images/python.png" alt="Python" /></p>
+
+<p>Python çok amaçlı kullanılabileceği oldukça yaygın bir framework ve kütüphane ağına sahiptir. Birkaç örnek vermek gerekirse;</p>
+
+<ol>
+  <li>django</li>
+  <li>kivy</li>
+  <li>matplotlib</li>
+  <li>pony</li>
+</ol>
+
+<p>Python içerisinde güzel bir kütüphane yönetim aracı geliyor <strong>PIP</strong>.</p>
+
+<p>Packet installer for python adından mülhem bu araçla çok kolay şekilde bir kütüphane kurulup kaldırılabilir. Bir paket kurulacağı zaman;</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>pip <span class="nb">install </span>Paket
+<span class="nv">$ </span>pip <span class="nb">install </span><span class="nv">Paket</span><span class="o">==</span>1.1.1
+<span class="nv">$ </span>pip <span class="nb">install </span>Paket&gt;<span class="o">=</span>1.0.0 
+<span class="nv">$ </span>pip <span class="nb">install</span> <span class="nt">-r</span> prerequisities.txt
 </code></pre></div></div>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
-<span class="k">class</span> <span class="nc">A</span><span class="p">:</span>
-    <span class="k">def</span> <span class="nf">aa</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-        <span class="k">print</span> <span class="p">(</span><span class="s">"Test Drive"</span><span class="p">)</span>
+<p>şeklinde kullanılabilir. İlk paket in son versiyonunu, ikincisi belirtilen versiyonunu ve üçüncüsü ise en düşük kurulabilir paket sürümünü kullanarak kurulum yapacaktır. Dördüncü seçenek ise prerequisities.txt dosyası içinde yazılı paketleri kuracaktır.</p>
 
+<p>Birkaç komut örneği vermek gerekirse;</p>
+
+<p><strong>Arama yapmak için:</strong></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git search <span class="s2">"query"</span>
 </code></pre></div></div>
+<p>query örnekleri için <a href="https://pip.pypa.io/en/stable/reference/pip_search/#pip-search">git search</a> bakılabilir.</p>
+
+<p><strong>Paket listesi için:</strong></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>pip list
+urllib3                       1.24.1    
+virtualenv                    16.2.0    
+webencodings                  0.5.1     
+wheel                         0.33.1
+
+<span class="nv">$ </span>pip show kivy
+Name: Kivy
+Version: 1.10.1
+Summary: A software library <span class="k">for </span>rapid development of hardware-accelerated multitouch applications.
+Home-page: http://kivy.org
+Author: Kivy Team and other contributors
+Author-email: kivy-dev@googlegroups.com
+License: MIT
+Location: /usr/local/lib/python2.7/site-packages
+Requires: pygments, Kivy-Garden, docutils
+Required-by:
+</code></pre></div></div>
+
+<p>kullanılabilir. Örnekler için <a href="https://pip.pypa.io/en/stable/reference/pip_list/#pip-list">pip list</a> be <a href="https://pip.pypa.io/en/stable/reference/pip_show/#pip-show">pip show</a> bölümlerine bakılabilir.</p>
+
+<h1 id="docker">DOCKER</h1>
+
+<p>Docker oldukça popüler bir container platformudur. Windows ve *nix ler için container ları ve/veya platformları desteklemektedir. Orkestrasyon için oldukça gelişmiş araçlar da bu alanda yer bulmaktadır. Örneğin swarm ve çok daha yetenekli kubernates gibi. Standalone bir kurulum acayip kolay olmaktadır.</p>
+
+<p>İşte download edebileceğiniz yer: <a href="https://hub.docker.com/">Dockerhub Web Sitesi</a></p>
+
+<p><img src="/images/docker.png" alt="Docker" /></p>
+
+<p>Docker kurulumu için gereken windows özellikleri otomatik olarak etkinleştirecektir. Kurulum aşamasında birkaç kez restart gerekebilir. Kurulum sonrası;</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>docker version
+Client: Docker Engine - Community
+ Version:           18.09.2
+ API version:       1.39
+ Go version:        go1.10.8
+ Git commit:        6247962
+ Built:             Sun Feb 10 04:12:39 2019
+ OS/Arch:           darwin/amd64
+ Experimental:      <span class="nb">false
+
+</span>Server: Docker Engine - Community
+ Engine:
+  Version:          18.09.2
+  API version:      1.39 <span class="o">(</span>minimum version 1.12<span class="o">)</span>
+  Go version:       go1.10.6
+  Git commit:       6247962
+  Built:            Sun Feb 10 04:13:06 2019
+  OS/Arch:          linux/amd64
+  Experimental:     <span class="nb">true</span>
+</code></pre></div></div>
+
+<p>komutu ile kurulum teyit edilebilir.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>docker ps
+CONTAINER ID        IMAGE                COMMAND                  CREATED             STATUS              PORTS                                         NAMES
+6f564bf9a488        gitea/gitea:latest   <span class="s2">"/usr/bin/entrypoint…"</span>   3 weeks ago         Up 2 weeks          0.0.0.0:3000-&gt;3000/tcp, 0.0.0.0:222-&gt;22/tcp   gitea_server_1
+</code></pre></div></div>
+
+<p>yukarıdaki komut ile çalışan container lar görülebilir. Pekçok container bir grup application group olarak çalıştığı için temel docker-compose aracı oldukça işe yaramaktadır.</p>
+
+<p>İşte download edebileceğiniz yer: <a href="https://docs.docker.com/compose/install/">Docker-compose download</a></p>
+
+<p><img src="/images/docker-compose.png" alt="Docker-compose" /></p>
+
+<p>bu araç ile oluşturulan konfigürasyon dosyaları ile bir grup konteyner, bunlar arasındaki ağlar ve volume bağlantıları otomatik gerçekleştirilebilir. Örnek bir compose dosyası vermek gerekirse;</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">version</span><span class="p">:</span><span class="w"> </span><span class="err">'</span><span class="mf">3.3</span><span class="err">'</span><span class="w">
+
+</span><span class="err">services</span><span class="p">:</span><span class="w">
+   </span><span class="err">db</span><span class="p">:</span><span class="w">
+     </span><span class="err">image</span><span class="p">:</span><span class="w"> </span><span class="err">mysql</span><span class="p">:</span><span class="mf">5.7</span><span class="w">
+     </span><span class="err">volumes</span><span class="p">:</span><span class="w">
+       </span><span class="err">-</span><span class="w"> </span><span class="err">db_data</span><span class="p">:</span><span class="err">/var/lib/mysql</span><span class="w">
+     </span><span class="err">restart</span><span class="p">:</span><span class="w"> </span><span class="err">always</span><span class="w">
+     </span><span class="err">environment</span><span class="p">:</span><span class="w">
+       </span><span class="err">MYSQL_ROOT_PASSWORD</span><span class="p">:</span><span class="w"> </span><span class="err">somewordpress</span><span class="w">
+       </span><span class="err">MYSQL_DATABASE</span><span class="p">:</span><span class="w"> </span><span class="err">wordpress</span><span class="w">
+       </span><span class="err">MYSQL_USER</span><span class="p">:</span><span class="w"> </span><span class="err">wordpress</span><span class="w">
+       </span><span class="err">MYSQL_PASSWORD</span><span class="p">:</span><span class="w"> </span><span class="err">wordpress</span><span class="w">
+
+   </span><span class="err">wordpress</span><span class="p">:</span><span class="w">
+     </span><span class="err">depends_on</span><span class="p">:</span><span class="w">
+       </span><span class="err">-</span><span class="w"> </span><span class="err">db</span><span class="w">
+     </span><span class="err">image</span><span class="p">:</span><span class="w"> </span><span class="err">wordpress</span><span class="p">:</span><span class="err">latest</span><span class="w">
+     </span><span class="err">ports</span><span class="p">:</span><span class="w">
+       </span><span class="err">-</span><span class="w"> </span><span class="s2">"8000:80"</span><span class="w">
+     </span><span class="err">restart</span><span class="p">:</span><span class="w"> </span><span class="err">always</span><span class="w">
+     </span><span class="err">environment</span><span class="p">:</span><span class="w">
+       </span><span class="err">WORDPRESS_DB_HOST</span><span class="p">:</span><span class="w"> </span><span class="err">db</span><span class="p">:</span><span class="mi">3306</span><span class="w">
+       </span><span class="err">WORDPRESS_DB_USER</span><span class="p">:</span><span class="w"> </span><span class="err">wordpress</span><span class="w">
+       </span><span class="err">WORDPRESS_DB_PASSWORD</span><span class="p">:</span><span class="w"> </span><span class="err">wordpress</span><span class="w">
+       </span><span class="err">WORDPRESS_DB_NAME</span><span class="p">:</span><span class="w"> </span><span class="err">wordpress</span><span class="w">
+</span><span class="err">volumes</span><span class="p">:</span><span class="w">
+    </span><span class="err">db_data</span><span class="p">:</span><span class="w"> </span><span class="p">{}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>yukarıdaki örnek dosya çalıştırılacak olursa;</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>docker-compose up <span class="nt">-d</span>
+Creating network <span class="s2">"my_wordpress_default"</span> with the default driver
+Pulling db <span class="o">(</span>mysql:5.7<span class="o">)</span>...
+5.7: Pulling from library/mysql
+efd26ecc9548: Pull <span class="nb">complete
+</span>a3ed95caeb02: Pull <span class="nb">complete</span>
+...
+Digest: sha256:34a0aca88e85f2efa5edff1cea77cf5d3147ad93545dbec99cfe705b03c520de
+Status: Downloaded newer image <span class="k">for </span>mysql:5.7
+Pulling wordpress <span class="o">(</span>wordpress:latest<span class="o">)</span>...
+latest: Pulling from library/wordpress
+efd26ecc9548: Already exists
+a3ed95caeb02: Pull <span class="nb">complete
+</span>589a9d9a7c64: Pull <span class="nb">complete</span>
+...
+Digest: sha256:ed28506ae44d5def89075fd5c01456610cd6c64006addfe5210b8c675881aff6
+Status: Downloaded newer image <span class="k">for </span>wordpress:latest
+Creating my_wordpress_db_1
+Creating my_wordpress_wordpress_1
+</code></pre></div></div>
+
+<p>benzeri bir sonuç elde edilecektir. Container image leri hub dan indirilip deploy edilmiş olacaktır.</p>
+
+<p>Yazarak anlatmak oldukça zor ve yetersiz. Bununla birlikte base bir kurulum gerçekleştirdik. Artık kodlarımızı yönetebilir ve birer sontainer olarak hazırlayıp deliver edebiliriz.</p>
+
+<p>Bu başlıkların her birinin detaylı kullanımını önümüzdeki günlerde ayrı birer makale olarak hazırlamayı düşünüyorum.</p>
+
+<p>Kalın sağlıcakla…</p>
 
 <div class="footnotes">
   <ol>
     <li id="fn:1">
-      <p>Foot note 1 <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+      <p>Kurulumlar birbirine oldukça yakın. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
