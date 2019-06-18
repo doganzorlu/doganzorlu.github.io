@@ -282,6 +282,35 @@ Required-by:
 
 <p>kullanılabilir. Örnekler için <a href="https://pip.pypa.io/en/stable/reference/pip_list/#pip-list">pip list</a> be <a href="https://pip.pypa.io/en/stable/reference/pip_show/#pip-show">pip show</a> bölümlerine bakılabilir.</p>
 
+<p><strong>VirtualEnv</strong></p>
+
+<p>VirtualEnv projenin çalışması için gereken tüm gereksinimlerin depolanacağı sanal bir root dizin oluşturup, kurulan paketlerin proje bazlı yönetilebilmesini sağlar.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>virtualenv App1
+Using base prefix <span class="s1">'/Users/user/anaconda3'</span>
+New python executable <span class="k">in</span> /Users/user/tmp/App1/bin/python
+Installing setuptools, pip, wheel...
+<span class="k">done</span><span class="nb">.</span>
+</code></pre></div></div>
+
+<p>Görüleceği üzere yeni bir folder oluşturulup içerisinde;</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">ls </span>App1
+bin	include	lib
+</code></pre></div></div>
+<p>klasörlerini oluşturdu. Bu projeyi aktive etmek gerektiğinde;</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">source </span>App1/bin/activate
+<span class="o">(</span>App1<span class="o">)</span> devmachine:App1 user<span class="err">$</span>
+</code></pre></div></div>
+<p>şeklinde prompt projeyi gösterecek şekilde değişecektir. Bu aşamadan sonra <strong>pip</strong> ile kurulan paketler tüm sistem geneline değil, proje klasörüne kurulacaktır.</p>
+
+<p>Projeden çıkmak için ise;</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>deactivate
+</code></pre></div></div>
+
+<p>komutu yeterli olacaktır.</p>
+
 <h2 id="docker">DOCKER</h2>
 
 <p>Docker oldukça popüler bir container platformudur. Windows ve *nix ler için container ları ve/veya platformları desteklemektedir. Orkestrasyon için oldukça gelişmiş araçlar da bu alanda yer bulmaktadır. Örneğin swarm ve çok daha yetenekli kubernates gibi. Standalone bir kurulum acayip kolay olmaktadır.</p>

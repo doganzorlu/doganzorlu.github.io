@@ -162,6 +162,39 @@ Required-by:
 
 kullanılabilir. Örnekler için [pip list](https://pip.pypa.io/en/stable/reference/pip_list/#pip-list) be [pip show](https://pip.pypa.io/en/stable/reference/pip_show/#pip-show) bölümlerine bakılabilir.
 
+**VirtualEnv**
+
+VirtualEnv projenin çalışması için gereken tüm gereksinimlerin depolanacağı sanal bir root dizin oluşturup, kurulan paketlerin proje bazlı yönetilebilmesini sağlar.
+
+~~~~bash
+virtualenv App1
+Using base prefix '/Users/user/anaconda3'
+New python executable in /Users/user/tmp/App1/bin/python
+Installing setuptools, pip, wheel...
+done.
+~~~~
+
+Görüleceği üzere yeni bir folder oluşturulup içerisinde;
+
+~~~~bash
+$ ls App1
+bin	include	lib
+~~~~
+klasörlerini oluşturdu. Bu projeyi aktive etmek gerektiğinde;
+
+~~~~bash
+$ source App1/bin/activate
+(App1) devmachine:App1 user$
+~~~~
+şeklinde prompt projeyi gösterecek şekilde değişecektir. Bu aşamadan sonra **pip** ile kurulan paketler tüm sistem geneline değil, proje klasörüne kurulacaktır.
+
+Projeden çıkmak için ise;
+~~~~bash
+$ deactivate
+~~~~
+
+komutu yeterli olacaktır.
+
 ## DOCKER
 
 Docker oldukça popüler bir container platformudur. Windows ve *nix ler için container ları ve/veya platformları desteklemektedir. Orkestrasyon için oldukça gelişmiş araçlar da bu alanda yer bulmaktadır. Örneğin swarm ve çok daha yetenekli kubernates gibi. Standalone bir kurulum acayip kolay olmaktadır. 

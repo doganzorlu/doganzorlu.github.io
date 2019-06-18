@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2019-06-18T13:46:10+03:00</updated>
+<updated>2019-06-18T13:59:30+03:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>DOĞAN ZORLU</name>
@@ -197,6 +197,35 @@ Required-by:
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;kullanılabilir. Örnekler için &lt;a href=&quot;https://pip.pypa.io/en/stable/reference/pip_list/#pip-list&quot;&gt;pip list&lt;/a&gt; be &lt;a href=&quot;https://pip.pypa.io/en/stable/reference/pip_show/#pip-show&quot;&gt;pip show&lt;/a&gt; bölümlerine bakılabilir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VirtualEnv&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;VirtualEnv projenin çalışması için gereken tüm gereksinimlerin depolanacağı sanal bir root dizin oluşturup, kurulan paketlerin proje bazlı yönetilebilmesini sağlar.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;virtualenv App1
+Using base prefix &lt;span class=&quot;s1&quot;&gt;'/Users/user/anaconda3'&lt;/span&gt;
+New python executable &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; /Users/user/tmp/App1/bin/python
+Installing setuptools, pip, wheel...
+&lt;span class=&quot;k&quot;&gt;done&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Görüleceği üzere yeni bir folder oluşturulup içerisinde;&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;ls &lt;/span&gt;App1
+bin	include	lib
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;klasörlerini oluşturdu. Bu projeyi aktive etmek gerektiğinde;&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;source &lt;/span&gt;App1/bin/activate
+&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;App1&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; devmachine:App1 user&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;şeklinde prompt projeyi gösterecek şekilde değişecektir. Bu aşamadan sonra &lt;strong&gt;pip&lt;/strong&gt; ile kurulan paketler tüm sistem geneline değil, proje klasörüne kurulacaktır.&lt;/p&gt;
+
+&lt;p&gt;Projeden çıkmak için ise;&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;deactivate
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;komutu yeterli olacaktır.&lt;/p&gt;
 
 &lt;h2 id=&quot;docker&quot;&gt;DOCKER&lt;/h2&gt;
 
