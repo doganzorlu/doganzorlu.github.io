@@ -82,7 +82,7 @@ C:\Users\Dev01> git commit -m "Test Drive"
 
 Kullanım ile ilgili detaylara topluluk sitesinin [Dökümanlar](https://git-scm.com/doc) bölümünden ulaşarak detaylı bilgi alınabilir.
 
-# IDE
+## IDE
 
 Entegre geliştirme ortamı olarak VSCode oldukça popüler ve kullanışlı. Alternatif olarak çok beğendiğim atom da kullanılabilir.
 
@@ -103,7 +103,7 @@ VSCode oldukça yaygın plugin seti ile birlikte kullanılabiliyor. Pluginler id
 
 Daha çok üzerinde çalıştığınız projeye bağlı olarak plugin seti değişiyor diyebilirim.
 
-# PYTHON
+## PYTHON
 
 Development araçları çalışılan projeye, platforma ve yapılacak işe göre seçilmekle beraber bu dökümanda python örneği verilmiştir.
 
@@ -162,7 +162,7 @@ Required-by:
 
 kullanılabilir. Örnekler için [pip list](https://pip.pypa.io/en/stable/reference/pip_list/#pip-list) be [pip show](https://pip.pypa.io/en/stable/reference/pip_show/#pip-show) bölümlerine bakılabilir.
 
-# DOCKER
+## DOCKER
 
 Docker oldukça popüler bir container platformudur. Windows ve *nix ler için container ları ve/veya platformları desteklemektedir. Orkestrasyon için oldukça gelişmiş araçlar da bu alanda yer bulmaktadır. Örneğin swarm ve çok daha yetenekli kubernates gibi. Standalone bir kurulum acayip kolay olmaktadır. 
 

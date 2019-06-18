@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2019-06-18T13:44:25+03:00</updated>
+<updated>2019-06-18T13:46:10+03:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>DOĞAN ZORLU</name>
@@ -57,11 +57,11 @@
         &lt;/ol&gt;
       &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#scm&quot; id=&quot;markdown-toc-scm&quot;&gt;SCM&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ide&quot; id=&quot;markdown-toc-ide&quot;&gt;IDE&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#python&quot; id=&quot;markdown-toc-python&quot;&gt;PYTHON&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#docker&quot; id=&quot;markdown-toc-docker&quot;&gt;DOCKER&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ide&quot; id=&quot;markdown-toc-ide&quot;&gt;IDE&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#python&quot; id=&quot;markdown-toc-python&quot;&gt;PYTHON&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#docker&quot; id=&quot;markdown-toc-docker&quot;&gt;DOCKER&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;platform&quot;&gt;PLATFORM&lt;/h1&gt;
@@ -117,7 +117,7 @@ C:\Users\Dev01&amp;gt; git commit -m &quot;Test Drive&quot;
 
 &lt;p&gt;Kullanım ile ilgili detaylara topluluk sitesinin &lt;a href=&quot;https://git-scm.com/doc&quot;&gt;Dökümanlar&lt;/a&gt; bölümünden ulaşarak detaylı bilgi alınabilir.&lt;/p&gt;
 
-&lt;h1 id=&quot;ide&quot;&gt;IDE&lt;/h1&gt;
+&lt;h2 id=&quot;ide&quot;&gt;IDE&lt;/h2&gt;
 
 &lt;p&gt;Entegre geliştirme ortamı olarak VSCode oldukça popüler ve kullanışlı. Alternatif olarak çok beğendiğim atom da kullanılabilir.&lt;/p&gt;
 
@@ -140,7 +140,7 @@ C:\Users\Dev01&amp;gt; git commit -m &quot;Test Drive&quot;
 
 &lt;p&gt;Daha çok üzerinde çalıştığınız projeye bağlı olarak plugin seti değişiyor diyebilirim.&lt;/p&gt;
 
-&lt;h1 id=&quot;python&quot;&gt;PYTHON&lt;/h1&gt;
+&lt;h2 id=&quot;python&quot;&gt;PYTHON&lt;/h2&gt;
 
 &lt;p&gt;Development araçları çalışılan projeye, platforma ve yapılacak işe göre seçilmekle beraber bu dökümanda python örneği verilmiştir.&lt;/p&gt;
 
@@ -198,7 +198,7 @@ Required-by:
 
 &lt;p&gt;kullanılabilir. Örnekler için &lt;a href=&quot;https://pip.pypa.io/en/stable/reference/pip_list/#pip-list&quot;&gt;pip list&lt;/a&gt; be &lt;a href=&quot;https://pip.pypa.io/en/stable/reference/pip_show/#pip-show&quot;&gt;pip show&lt;/a&gt; bölümlerine bakılabilir.&lt;/p&gt;
 
-&lt;h1 id=&quot;docker&quot;&gt;DOCKER&lt;/h1&gt;
+&lt;h2 id=&quot;docker&quot;&gt;DOCKER&lt;/h2&gt;
 
 &lt;p&gt;Docker oldukça popüler bir container platformudur. Windows ve *nix ler için container ları ve/veya platformları desteklemektedir. Orkestrasyon için oldukça gelişmiş araçlar da bu alanda yer bulmaktadır. Örneğin swarm ve çok daha yetenekli kubernates gibi. Standalone bir kurulum acayip kolay olmaktadır.&lt;/p&gt;
 
