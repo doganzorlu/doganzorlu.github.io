@@ -1,5 +1,5 @@
-title:            BT SERÜVENİ
-description:      "Do or do not. There is no try ...!"
+title:            Do or do not. There is no try ...!
+description:      ""
 logo:             logo.png
 disqus_shortname: doganzorlucom
 share:            false
@@ -49,6 +49,7 @@ rouge:       pygments
 markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
+excerpt_separator: <!--more-->
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   pretty

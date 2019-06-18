@@ -3,11 +3,11 @@
 
 
 
-<title type="text">BT SERÜVENİ</title>
+<title type="text">Do or do not. There is no try ...!</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2019-06-18T13:59:30+03:00</updated>
+<updated>2019-06-18T14:18:02+03:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>DOĞAN ZORLU</name>
@@ -30,9 +30,8 @@
   <category scheme="http://localhost:4000/tags/#Manisa" term="Manisa" /><category scheme="http://localhost:4000/tags/#Manisaip" term="Manisaip" /><category scheme="http://localhost:4000/tags/#Development" term="Development" /><category scheme="http://localhost:4000/tags/#E%C4%9Fitim" term="Eğitim" /><category scheme="http://localhost:4000/tags/#IoT" term="IoT" />
   <content type="html">
   
-    &lt;h1 id=&quot;baŞlarken&quot;&gt;BAŞLARKEN&lt;/h1&gt;
-
-&lt;p&gt;Bu makale ile &lt;strong&gt;“Yazılım Geliştirme”&lt;/strong&gt; konusunda çalışanların sıfırdan bir geliştirme ortamı nasıl oluşturabileceğini anlatmaya çalışacağım.&lt;/p&gt;
+    &lt;p&gt;Bu makale ile &lt;strong&gt;“Yazılım Geliştirme”&lt;/strong&gt; konusunda çalışanların sıfırdan bir geliştirme ortamı nasıl oluşturabileceğini anlatmaya çalışacağım.
+&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;Temel olarak;&lt;/p&gt;
 
@@ -49,7 +48,6 @@
 &lt;h1 id=&quot;İÇİndekİler&quot;&gt;İÇİNDEKİLER&lt;/h1&gt;
 
 &lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#baŞlarken&quot; id=&quot;markdown-toc-baŞlarken&quot;&gt;BAŞLARKEN&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#İÇİndekİler&quot; id=&quot;markdown-toc-İÇİndekİler&quot;&gt;İÇİNDEKİLER&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#platform&quot; id=&quot;markdown-toc-platform&quot;&gt;PLATFORM&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#kurulum&quot; id=&quot;markdown-toc-kurulum&quot;&gt;KURULUM&lt;/a&gt;        &lt;ol&gt;
@@ -343,7 +341,7 @@ Creating my_wordpress_wordpress_1
 &lt;/div&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/e%C4%9Fitim/2019/05/01/yazilim-gelistirme/&quot;&gt;YAZILIM GELİŞTİRME&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on May 01, 2019.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/e%C4%9Fitim/2019/05/01/yazilim-gelistirme/&quot;&gt;YAZILIM GELİŞTİRME&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on May 01, 2019.&lt;/p&gt;</content>
 </entry>
 
 
@@ -452,7 +450,7 @@ Toplantı oldukça zengin bir içeriğe sahipti. Bazı konular daha önceki topl
 &lt;p&gt;Neyse şimdilik bu kadar. Ege Bilgi Güvenliği Grubu’ndan muhabiriniz Doğan ZORLU bildirdi :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/09/16/onikinci-bilgi-guvenligi/&quot;&gt;12. Ege Bilgi Güvenliği Toplantısı&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on September 16, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/09/16/onikinci-bilgi-guvenligi/&quot;&gt;12. Ege Bilgi Güvenliği Toplantısı&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on September 16, 2017.&lt;/p&gt;</content>
 </entry>
 
 
@@ -489,7 +487,7 @@ Toplantı oldukça zengin bir içeriğe sahipti. Bazı konular daha önceki topl
 &lt;p&gt;Bu etkinlikleri düzenleyip sürmesi için gayret gösteren &lt;strong&gt;“Çağrı POLAT”&lt;/strong&gt; kardeşime de ayrıca teşekkür ediyorum.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/07/29/onbirinci-bilgi-guvenligi/&quot;&gt;11. Ege Bilgi Güvenliği Toplantısı&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on July 29, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/bilgi%20g%C3%BCvenli%C4%9Fi/2017/07/29/onbirinci-bilgi-guvenligi/&quot;&gt;11. Ege Bilgi Güvenliği Toplantısı&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on July 29, 2017.&lt;/p&gt;</content>
 </entry>
 
 
@@ -525,7 +523,7 @@ Toplantı oldukça zengin bir içeriğe sahipti. Bazı konular daha önceki topl
 &lt;p&gt;Not: Bu uygulama Linux MINT 18 KDE distro’sunda gerçeklenmiştir. Ubuntu dağıtımlarında da işe yarayacaktır.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/&quot;&gt;Linux Üzerinde PacketTracer&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on July 26, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2017/07/26/packettracer-linux/&quot;&gt;Linux Üzerinde PacketTracer&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on July 26, 2017.&lt;/p&gt;</content>
 </entry>
 
 
@@ -638,7 +636,7 @@ Toplantı oldukça zengin bir içeriğe sahipti. Bazı konular daha önceki topl
 &lt;p&gt;Kolay gelsin,&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/cloud/2017/07/25/cloud-da-yasam-becerileri/&quot;&gt;Cloud Yasam Becerileri&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on July 25, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/cloud/2017/07/25/cloud-da-yasam-becerileri/&quot;&gt;Cloud Yasam Becerileri&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on July 25, 2017.&lt;/p&gt;</content>
 </entry>
 
 
@@ -669,7 +667,7 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Selametle…&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/ruby/2017/07/04/bir-jekyll-hikayesi/&quot;&gt;Bir Jekyll Hikayesi&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on July 04, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/ruby/2017/07/04/bir-jekyll-hikayesi/&quot;&gt;Bir Jekyll Hikayesi&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on July 04, 2017.&lt;/p&gt;</content>
 </entry>
 
 
@@ -715,7 +713,7 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;uygulamaları aktif oldu. Bu ürünlerle ilgili detaylı yazacağım. Fakat özellikle ofis ürünlerinin online versiyonları çok sorunlu. Sıklıkla “Şu anda isteğinizi gerçekleştiremiyoruz” hatası geliyor.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/cloud/2017/01/15/subat/&quot;&gt;Office 365'e Merhaba&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on January 15, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/cloud/2017/01/15/subat/&quot;&gt;Office 365'e Merhaba&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on January 15, 2017.&lt;/p&gt;</content>
 </entry>
 
 
@@ -759,7 +757,7 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Konu ile ilgili sonraki makalelerde görüşmek üzere.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/y%C3%B6netim%20sistemleri/2017/01/15/yonetim-sistemleri/&quot;&gt;Yönetim Sistemleri&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on January 15, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/y%C3%B6netim%20sistemleri/2017/01/15/yonetim-sistemleri/&quot;&gt;Yönetim Sistemleri&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on January 15, 2017.&lt;/p&gt;</content>
 </entry>
 
 
@@ -804,7 +802,7 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Bilgi: Bilişim konusundaki bilgi kümesi ve bilişim teknolojisi olarak kullanılmıştır.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/10/15/neden-linux/&quot;&gt;Neden Linux ?&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on October 15, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/10/15/neden-linux/&quot;&gt;Neden Linux ?&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on October 15, 2009.&lt;/p&gt;</content>
 </entry>
 
 
@@ -881,7 +879,7 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;p&gt;Windows 7, oluşturduğu kötü şöhreti yüzünden -ki haksız bir şöhret değil- ikinci Windows ME vakası olan Vista’dan sonra Microsoft’u bayağı rahatlatacağa benziyor. Gerek Vista’ya geçmekten korkanlar ve gerekse Vista kullananlar için kısa vadede bile kullanılabilesi bir işletim sistemi olmaya aday olan Windows 7, işletim sistemi dünyasında kendisine iyi bir yer edinebilecek performans ve uyumluluğa sahip.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis/&quot;&gt;Windows 7 Genel Bakış&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on January 25, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/%C4%B0%C5%9Fletim%20sistemleri/2009/01/25/windows-7-genel-bakis/&quot;&gt;Windows 7 Genel Bakış&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on January 25, 2009.&lt;/p&gt;</content>
 </entry>
 
 
@@ -912,7 +910,7 @@ hem bu site hem de sitenin ilk yazısı belli olmuş oldu.&lt;/p&gt;
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/sanalla%C5%9Ft%C4%B1rma/2009/01/14/sanallastirma-bilmecesi/&quot;&gt;Sanallaştırma Bilmecesi&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on January 14, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/sanalla%C5%9Ft%C4%B1rma/2009/01/14/sanallastirma-bilmecesi/&quot;&gt;Sanallaştırma Bilmecesi&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on January 14, 2009.&lt;/p&gt;</content>
 </entry>
 
 
@@ -969,7 +967,7 @@ Peki hangi havasahası derseniz bu tıpkı BMW mi Mercedes mi sorusu gibi olacak
 &lt;p&gt;Hobi için ayırabilecek vakti olup da havacılık tutkunu arkadaşlar, aramıza hoş geldiniz.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/hobi/2008/12/29/sanal-havacilik/&quot;&gt;Sanal Havacılık&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/hobi/2008/12/29/sanal-havacilik/&quot;&gt;Sanal Havacılık&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1012,7 +1010,7 @@ Peki hangi havasahası derseniz bu tıpkı BMW mi Mercedes mi sorusu gibi olacak
 &lt;p&gt;Bakalım gelecek bu konuda neler getirecek…&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/otizm/2008/12/29/otizm/&quot;&gt;Otizm&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/otizm/2008/12/29/otizm/&quot;&gt;Otizm&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on December 29, 2008.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1041,7 +1039,7 @@ Peki hangi havasahası derseniz bu tıpkı BMW mi Mercedes mi sorusu gibi olacak
 &lt;p&gt;Geç de olsa ucundan yakalamış olmaktan dolayı tarifsiz bir mutluluk duyuyorum.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/hobi/2008/12/28/turk-halk-muzigi/&quot;&gt;Türk Halk Müziği&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;BT SERÜVENİ&lt;/a&gt; on December 28, 2008.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/hobi/2008/12/28/turk-halk-muzigi/&quot;&gt;Türk Halk Müziği&lt;/a&gt; was originally published by DOĞAN ZORLU at &lt;a href=&quot;http://localhost:4000&quot;&gt;Do or do not. There is no try ...!&lt;/a&gt; on December 28, 2008.&lt;/p&gt;</content>
 </entry>
 
 </feed>

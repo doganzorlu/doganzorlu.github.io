@@ -12,10 +12,8 @@ tags:
 - Eğitim
 - IoT
 ---
-
-# BAŞLARKEN
-
 Bu makale ile **"Yazılım Geliştirme"** konusunda çalışanların sıfırdan bir geliştirme ortamı nasıl oluşturabileceğini anlatmaya çalışacağım.
+<!--more-->
 
 Temel olarak;
 
