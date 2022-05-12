@@ -1,4 +1,4 @@
-# PARDUS ppa Repository
+# PARDUS repository
 
 To use this repository on your own pardus;
 
