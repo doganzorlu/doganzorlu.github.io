@@ -1,0 +1,40 @@
+Package: monster-control-center
+Version: 1.0.0
+Architecture: amd64
+Maintainer: MONSTER Notebook <info@monsternotebook.com.tr>
+Installed-Size: 409275
+Depends: monster-keyboard (>= 3.0.6), libayatana-appindicator3-1
+Conflicts: monsterfancontrol
+Replaces: monsterfancontrol
+Filename: ./pardus-ppa/monster-control-center_1.0.0.deb
+Size: 86808168
+MD5sum: 04db4b548d588102ddb5492fce6308ed
+SHA1: eb32967ebbf03fa5247bfed1c474c1f763ba87a0
+SHA256: 84a042c23c26ba65923051cf8249c32fff57f85820fb1781b8056894d9b38d13
+Section: default
+Priority: extra
+Homepage: https://www.monsternotebook.com.tr
+Description:
+  MONSTER Control Center Application
+License: GPL-3.0
+Vendor: MONSTER Notebook <info@monsternotebook.com.tr>
+
+Package: monster-keyboard
+Version: 3.0.10
+Architecture: all
+Maintainer: MONSTER Notebook <info@monsternotebook.com.tr>
+Depends: dkms (>= 1.95)
+Conflicts: monster-keyboard-dkms (<= 2.0.0), monster-wmi-dkms (<= 1.5.1), monster-xp-xc-touchpad-key-fix, monster-touchpad-fix (<= 1.0.8), monster-xp-xc-airplane-mode-fix (<= 0.6), monster-cc-wmi
+Replaces: monster-keyboard-dkms (<= 2.0.0), monster-wmi-dkms (<= 1.5.1), monster-xp-xc-touchpad-key-fix, monster-touchpad-fix (<= 1.0.8), monster-xp-xc-airplane-mode-fix (<= 0.6), monster-cc-wmi
+Filename: ./pardus-ppa/monster-keyboard-3.0.10.deb
+Size: 24916
+MD5sum: 4216ded9d4bca0c9caa1f9136fa8a6bd
+SHA1: c9e048d889e3c49587979e41ca6c2bc57130b6aa
+SHA256: 6c195eac38bf5a7b5e9132d1a834184c167600635ed77062939a94bb2a36c456
+Section: admin
+Priority: optional
+Homepage: https://www.monsternotebook.com.tr
+Description: Keyboard driver for MONSTER notebooks.
+ Keyboard & keyboard backlight driver for MONSTER notebooks.
+ Meant for DKMS framework.
+

@@ -14,3 +14,9 @@ After that, you can install the packages with the following command;
 ```bash
 sudo apt-get install <package name>
 ```
+
+## Packages
+
+* monster-control-center
+* monster-keyboard
+

@@ -1,0 +1,29 @@
+Date: Thu, 12 May 2022 13:04:37 +0000
+MD5Sum:
+ 5614ef2845e963ee3540edc12951a30a             1682 Packages
+ 6bfedd82b8d0f15cc3a7b12b0ed7c61f              751 Packages.gz
+ a0023696acbb8b2e9f3a1ad66c5bd812               38 Release
+ 1ee702c556d29c026676b149f48e327c              967 pardus-ppa/Packages
+ b24db1f5d7ff8a613a1e14a42fce709a              490 pardus-ppa/Packages.gz
+ cd3002a20aa84985d53c541fd78354d1             1204 pardus-ppa/Release
+SHA1:
+ 5dd44a6bcb2fde34f8a09e5de687e4de9720f6ad             1682 Packages
+ befd1130a3d035cf533856b9c964146bdcc86553              751 Packages.gz
+ 12791f3f6550cc06788a1d7c6eef7a76d6edef65               38 Release
+ 935e91b3cbfabdc631577a499328d3e852c3fed0              967 pardus-ppa/Packages
+ ba0aa6171655f7efd2ffd30be938ea49e3037f4a              490 pardus-ppa/Packages.gz
+ 165407951b99ba491438c51b4a51a76629db59a1             1204 pardus-ppa/Release
+SHA256:
+ 7af52c890b919465b74dc2eeb6eec9aec7d88a9a2c63a42700d4a773fb387aa0             1682 Packages
+ 8b99fa2a4461ba928327c1cb92f3f6f469bdceb08ac9f9db605474bbba231ccb              751 Packages.gz
+ df5b99ea8ab58ffb7277eb177b7c6e50ea6ce0c8f963411201d7fc1c410d52dd               38 Release
+ 84ff70404b284ea30881f2d7d038da63302c0345834f3d039e3f50394b66a545              967 pardus-ppa/Packages
+ 0461fa418320f0da0f2a94b6eabb667528f282c90c615df7064fb5e7a4c28a73              490 pardus-ppa/Packages.gz
+ 925f09dfb21e1a0738e69b44ab946ee74fb4a41a075474dd2de30ec5cae68757             1204 pardus-ppa/Release
+SHA512:
+ 09b31e57b9cb2b58e4466b215d3b761a883e6a5c3049621d59840fd5b6143f0c93b14400b3d6d504edb2e85e8ddff8f7d2f0729d2cad5e9ebd419b535ffb5909             1682 Packages
+ 1fb9261949c985ae4692988f41e5f09ae8159c160b8e9f0a6ecdbcb08592858ddc995fa3cdb7617b85c781d4d0c8997283f556e37f42a2f8d45b1ff05fa992fb              751 Packages.gz
+ 1c2e00be7f836ce2794342b6b3752b597c0ade403177a359b88bff4f3c5719416b63d6059b740ab5d702e3f4273f378857674081488aa4815db6ea613fdc0393               38 Release
+ 90e88ef13db5f294e72999c227bfa4bf0cb7bd2197df11e6aac38bd1fa6ec383355a9f3d7941977adae519c6787d604fe632fb2b22206f8335221de8bc2d3609              967 pardus-ppa/Packages
+ cc63bcce99135099d8610ab4bf2f9b6e2f8f36d3e2c1137e2b7d3efb8757d469be4a36566c53b97cd701c376be6302e10321a06a214ed3132a1c898e1c9aa697              490 pardus-ppa/Packages.gz
+ 04acec910b37a9d2f52e42d0cb1ac2c647aa21e24fae5629f9fcf940016381c95034816db3b981c836ae8e6fe4bb5447618d19ddfbae2e55ff886295e25652dd             1204 pardus-ppa/Release
