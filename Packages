@@ -1,0 +1,19 @@
+Package: monster-keyboard
+Version: 3.0.10
+Architecture: all
+Maintainer: MONSTER Notebook <info@monsternotebook.com.tr>
+Depends: dkms (>= 1.95)
+Conflicts: monster-keyboard-dkms (<= 2.0.0), monster-wmi-dkms (<= 1.5.1), monster-xp-xc-touchpad-key-fix, monster-touchpad-fix (<= 1.0.8), monster-xp-xc-airplane-mode-fix (<= 0.6), monster-cc-wmi
+Replaces: monster-keyboard-dkms (<= 2.0.0), monster-wmi-dkms (<= 1.5.1), monster-xp-xc-touchpad-key-fix, monster-touchpad-fix (<= 1.0.8), monster-xp-xc-airplane-mode-fix (<= 0.6), monster-cc-wmi
+Filename: ./monster-keyboard-3.0.10.deb
+Size: 24916
+MD5sum: 4216ded9d4bca0c9caa1f9136fa8a6bd
+SHA1: c9e048d889e3c49587979e41ca6c2bc57130b6aa
+SHA256: 6c195eac38bf5a7b5e9132d1a834184c167600635ed77062939a94bb2a36c456
+Section: admin
+Priority: optional
+Homepage: https://www.monsternotebook.com.tr
+Description: Keyboard driver for MONSTER notebooks.
+ Keyboard & keyboard backlight driver for MONSTER notebooks.
+ Meant for DKMS framework.
+

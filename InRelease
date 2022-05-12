@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Thu, 12 May 2022 05:46:03 +0000
+MD5Sum:
+ 1ee702c556d29c026676b149f48e327c              967 Packages
+ b24db1f5d7ff8a613a1e14a42fce709a              490 Packages.gz
+ d2d3d4141bce7a8837732e9140eb9667               38 Release
+SHA1:
+ 935e91b3cbfabdc631577a499328d3e852c3fed0              967 Packages
+ ba0aa6171655f7efd2ffd30be938ea49e3037f4a              490 Packages.gz
+ f83c4dd6406204cf3fd0d107949d3c8fc0588b2b               38 Release
+SHA256:
+ 84ff70404b284ea30881f2d7d038da63302c0345834f3d039e3f50394b66a545              967 Packages
+ 0461fa418320f0da0f2a94b6eabb667528f282c90c615df7064fb5e7a4c28a73              490 Packages.gz
+ 798a1db250a3c64c47abc632fa6d92a45f364a402ea89ca18a14a11fdd5233a6               38 Release
+SHA512:
+ 90e88ef13db5f294e72999c227bfa4bf0cb7bd2197df11e6aac38bd1fa6ec383355a9f3d7941977adae519c6787d604fe632fb2b22206f8335221de8bc2d3609              967 Packages
+ cc63bcce99135099d8610ab4bf2f9b6e2f8f36d3e2c1137e2b7d3efb8757d469be4a36566c53b97cd701c376be6302e10321a06a214ed3132a1c898e1c9aa697              490 Packages.gz
+ 77164f6e76a99796dc5c5c49aecb9d8630a535c6832971d1d33ab65bba4e2a73577bec2e1734ec803eb6f294a90a0d5c1c85969ed858fe3d0c899b77f4d93aa9               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJOBAEBCgA4FiEEyst62xquYqkxPoWPJj9+dDqLj6MFAmJ8nywaHGRvZ2Fuem9y
+bHVAZG9nYW56b3JsdS5jb20ACgkQJj9+dDqLj6P3OQ//QJwY42aQK0LQEaDzTnA1
+26fR64Fu5pUmEesd1tnGbCz4thotFprfBLTUSV1y+ziNi1HzS8LpSMnzyWbwstT9
+87dip+2sWYwWwaKqyQ2Q/XC3DdRIfy1D3e7IfBnbQ3KihY+8rfPHLSBqANjuqyWy
+5DG6J6iwKBddS0knGal9nU/YhHtNbxxXgpN6jZzDCrEOD+eQg0I+9lgCls9r48xb
+NHwya7IHzJ6m7ZzybqVsH2um7PfhyUxwbqUBnP49prGOS6q9tV8UV9iZ/0CcTb54
+W7cohHlzJY8UytBA3TDhIuPRKqUX1PfxhrUzKbzsI6W7ba0TeX6XRl2LkID8IWMb
+Fcb+Pv9U3bS9SaRLtBmxdIwLNMVpDU32E1ZL2WuhErfPH1LdE9AYPWh8Xb1lC0cr
+uzcMhiC5iXhNJHAtyWQyjUhwujDgLbQLSb7+oWGUlfrw8HYz6ukbtJN4CyqOe5vp
+y2HKYw+IJJ9ZHHzTmD+sqjw6DarLq12ot5ptj7YifhM3qv3gOlOrBeVZTNVg7QYF
+0iFVzVmE7y7kYbpuYPVkgKyE0oBsmN6qvr4VCvBCMbWQZ/9z9uZgoxXN4Q87ywzQ
+EarkmxdEd3bYNjevr33LTZBxMOTKQc0DSqvi/Nnb7af6Nw0FLaBOYu4fEEe8Kbub
+Wvrzwm5onWfmd0hjd1xjyAc=
+=n5gs
+-----END PGP SIGNATURE-----
