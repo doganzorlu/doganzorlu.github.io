@@ -7,10 +7,10 @@ Depends: monster-keyboard (>= 3.0.6), libayatana-appindicator3-1
 Conflicts: monsterfancontrol
 Replaces: monsterfancontrol
 Filename: ./monster-control-center_1.0.0.deb
-Size: 86808168
-MD5sum: 04db4b548d588102ddb5492fce6308ed
-SHA1: eb32967ebbf03fa5247bfed1c474c1f763ba87a0
-SHA256: 84a042c23c26ba65923051cf8249c32fff57f85820fb1781b8056894d9b38d13
+Size: 86798452
+MD5sum: 70f24d9559e40a5191f9816dd58bbc84
+SHA1: 5a75457810389fe19dba897dc83807a8ad40fbf5
+SHA256: 94d1b3491bb4562861ecff3fa8f2769ff632369d27e6673d983c434c6d90e148
 Section: default
 Priority: extra
 Homepage: https://www.monsternotebook.com.tr
