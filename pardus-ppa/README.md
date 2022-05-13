@@ -16,6 +16,12 @@ sudo apt-get install <package name>
 ```
 
 ## Packages
+Lots of the packages in this repository need dkms build environment. This environment can be installed on your own pardus with the following codes;
+
+```code
+$ sudo apt-get install linux-headers-$(uname -r)
+```
+
 ### monster-keyboard
 This package is built for Monster ABRA 17 (it might be use others which are contains same hardware)
 

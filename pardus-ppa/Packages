@@ -3,14 +3,14 @@ Version: 1.0.0
 Architecture: amd64
 Maintainer: MONSTER Notebook <info@monsternotebook.com.tr>
 Installed-Size: 409275
-Depends: monster-keyboard (>= 3.0.6), libayatana-appindicator3-1
+Depends: nodejs, monster-keyboard (>= 1.0.0), libayatana-appindicator3-1
 Conflicts: monsterfancontrol
 Replaces: monsterfancontrol
 Filename: ./monster-control-center_1.0.0.deb
-Size: 86798452
-MD5sum: 70f24d9559e40a5191f9816dd58bbc84
-SHA1: 5a75457810389fe19dba897dc83807a8ad40fbf5
-SHA256: 94d1b3491bb4562861ecff3fa8f2769ff632369d27e6673d983c434c6d90e148
+Size: 86815034
+MD5sum: 1140b2d3a2f0126f294fd54e118ce543
+SHA1: 7cbe3deddc6aa810d32ba11b295ed9999eb0db90
+SHA256: 1faf4f3970ce00eca02b82687098edc71bfbb0b7098ab97ae5b4273b14b113cd
 Section: default
 Priority: extra
 Homepage: https://www.monsternotebook.com.tr
