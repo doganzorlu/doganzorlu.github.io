@@ -20,17 +20,17 @@ License: GPL-3.0
 Vendor: MONSTER Notebook <info@monsternotebook.com.tr>
 
 Package: monster-keyboard
-Version: 3.0.10
+Version: 1.0.0
 Architecture: all
 Maintainer: MONSTER Notebook <info@monsternotebook.com.tr>
-Depends: dkms (>= 1.95)
+Depends: dkms (>= 1.95), linux-headers-5.10.0-13-amd64 (>= 5.10.0-13)
 Conflicts: monster-keyboard-dkms (<= 2.0.0), monster-wmi-dkms (<= 1.5.1), monster-xp-xc-touchpad-key-fix, monster-touchpad-fix (<= 1.0.8), monster-xp-xc-airplane-mode-fix (<= 0.6), monster-cc-wmi
 Replaces: monster-keyboard-dkms (<= 2.0.0), monster-wmi-dkms (<= 1.5.1), monster-xp-xc-touchpad-key-fix, monster-touchpad-fix (<= 1.0.8), monster-xp-xc-airplane-mode-fix (<= 0.6), monster-cc-wmi
-Filename: ./monster-keyboard-3.0.10.deb
-Size: 24916
-MD5sum: 4216ded9d4bca0c9caa1f9136fa8a6bd
-SHA1: c9e048d889e3c49587979e41ca6c2bc57130b6aa
-SHA256: 6c195eac38bf5a7b5e9132d1a834184c167600635ed77062939a94bb2a36c456
+Filename: ./monster-keyboard-1.0.0.deb
+Size: 306788
+MD5sum: 36fe65c19ed31a9c2fc394b8c049dbe2
+SHA1: 025570406f7bd8171aa717cba880ef8b7ae1913e
+SHA256: 88d3d53e72b823babfc23c1759f3d070e4d5e52f81728ba33b8064176971bb9b
 Section: admin
 Priority: optional
 Homepage: https://www.monsternotebook.com.tr
