@@ -74,6 +74,7 @@ The keyboard of your notebook can be controlled via the numeric keyboard on the 
     Fn + Minus = Darker
     Fn + Multiplication = Turn Off/On
     Fn + Division = Change Mode
+    
 ### delidumrul-control-center
 
 This package contains DELIDUMRUL control center you can use it for control physical component such as fan modules.
