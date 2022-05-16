@@ -1,40 +1,40 @@
-Package: monster-control-center
+Package: delidumrul-control-center
 Version: 1.0.0
 Architecture: amd64
-Maintainer: MONSTER Notebook <info@monsternotebook.com.tr>
-Installed-Size: 409275
-Depends: nodejs, monster-keyboard (>= 1.0.0), libayatana-appindicator3-1
-Conflicts: monsterfancontrol
-Replaces: monsterfancontrol
-Filename: ./monster-control-center_1.0.0.deb
-Size: 86815034
-MD5sum: 1140b2d3a2f0126f294fd54e118ce543
-SHA1: 7cbe3deddc6aa810d32ba11b295ed9999eb0db90
-SHA256: 1faf4f3970ce00eca02b82687098edc71bfbb0b7098ab97ae5b4273b14b113cd
+Maintainer: DELIDUMRUL <info@delidumrul.com.tr>
+Installed-Size: 409192
+Depends: nodejs, delidumrul-keyboard (>= 1.0.0), libayatana-appindicator3-1
+Conflicts: delidumrulfancontrol
+Replaces: delidumrulfancontrol
+Filename: ./delidumrul-control-center_1.0.0.deb
+Size: 86507688
+MD5sum: 07e0ce57a840285c69e7a7a1bff2607f
+SHA1: bbad5c19e13df872f69a79df602fa3eeb90a988e
+SHA256: 00df5fef99dce9a6809bf21b8053def97116d07b3b42b9b5838cf8a80dc1c66b
 Section: default
 Priority: extra
-Homepage: https://www.monsternotebook.com.tr
+Homepage: https://www.delidumrul.com.tr
 Description:
-  MONSTER Control Center Application
+  DELIDUMRUL Control Center Application
 License: GPL-3.0
-Vendor: MONSTER Notebook <info@monsternotebook.com.tr>
+Vendor: DELIDUMRUL <info@delidumrul.com.tr>
 
-Package: monster-keyboard
+Package: delidumrul-keyboard
 Version: 1.0.0
 Architecture: all
-Maintainer: MONSTER Notebook <info@monsternotebook.com.tr>
+Maintainer: DELIDUMRUL Notebook <info@delidumrulnotebook.com.tr>
 Depends: dkms (>= 1.95), linux-headers-5.10.0-13-amd64 (>= 5.10.0-13)
-Conflicts: monster-keyboard-dkms (<= 2.0.0), monster-wmi-dkms (<= 1.5.1), monster-xp-xc-touchpad-key-fix, monster-touchpad-fix (<= 1.0.8), monster-xp-xc-airplane-mode-fix (<= 0.6), monster-cc-wmi
-Replaces: monster-keyboard-dkms (<= 2.0.0), monster-wmi-dkms (<= 1.5.1), monster-xp-xc-touchpad-key-fix, monster-touchpad-fix (<= 1.0.8), monster-xp-xc-airplane-mode-fix (<= 0.6), monster-cc-wmi
-Filename: ./monster-keyboard-1.0.0.deb
-Size: 306788
-MD5sum: 36fe65c19ed31a9c2fc394b8c049dbe2
-SHA1: 025570406f7bd8171aa717cba880ef8b7ae1913e
-SHA256: 88d3d53e72b823babfc23c1759f3d070e4d5e52f81728ba33b8064176971bb9b
+Conflicts: delidumrul-keyboard-dkms (<= 2.0.0), delidumrul-wmi-dkms (<= 1.5.1), delidumrul-xp-xc-touchpad-key-fix, delidumrul-touchpad-fix (<= 1.0.8), delidumrul-xp-xc-airplane-mode-fix (<= 0.6), delidumrul-cc-wmi
+Replaces: delidumrul-keyboard-dkms (<= 2.0.0), delidumrul-wmi-dkms (<= 1.5.1), delidumrul-xp-xc-touchpad-key-fix, delidumrul-touchpad-fix (<= 1.0.8), delidumrul-xp-xc-airplane-mode-fix (<= 0.6), delidumrul-cc-wmi
+Filename: ./delidumrul-keyboard-1.0.0.deb
+Size: 307376
+MD5sum: 1c69fd1a3d76916df6176c338ddf4bf5
+SHA1: 4b297f3064a64caae8b9221c8f6ca85b89f8658c
+SHA256: cd7549c88d669d5a6f4e5f456de0b26264fae31fc2a16fef396c14be4dae8ebf
 Section: admin
 Priority: optional
-Homepage: https://www.monsternotebook.com.tr
-Description: Keyboard driver for MONSTER notebooks.
- Keyboard & keyboard backlight driver for MONSTER notebooks.
+Homepage: https://www.delidumrulnotebook.com.tr
+Description: Keyboard driver for DELIDUMRUL notebooks.
+ Keyboard & keyboard backlight driver for DELIDUMRUL notebooks.
  Meant for DKMS framework.
 
