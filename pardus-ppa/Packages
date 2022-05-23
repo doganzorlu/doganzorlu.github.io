@@ -1,23 +1,23 @@
 Package: delidumrul-control-center
 Version: 1.0.0
 Architecture: amd64
-Maintainer: DELIDUMRUL <info@delidumrul.com.tr>
-Installed-Size: 409192
+Maintainer: DELIDUMRUL <info@doganzorlu.com>
+Installed-Size: 498681
 Depends: nodejs, delidumrul-keyboard (>= 1.0.0), libayatana-appindicator3-1
 Conflicts: delidumrulfancontrol
 Replaces: delidumrulfancontrol
 Filename: ./delidumrul-control-center_1.0.0.deb
-Size: 86507688
-MD5sum: 07e0ce57a840285c69e7a7a1bff2607f
-SHA1: bbad5c19e13df872f69a79df602fa3eeb90a988e
-SHA256: 00df5fef99dce9a6809bf21b8053def97116d07b3b42b9b5838cf8a80dc1c66b
+Size: 93369538
+MD5sum: 985c5871f369fed46289055f8ba30756
+SHA1: 5d5931be0d6bd24dd9e17698076f8d735e0b6764
+SHA256: 18301896c851e9bbd0b951c2824f97927d245fac008afa75efe0229f657211e5
 Section: default
 Priority: extra
-Homepage: https://www.delidumrul.com.tr
+Homepage: https://github.com/doganzorlu
 Description:
   DELIDUMRUL Control Center Application
 License: GPL-3.0
-Vendor: DELIDUMRUL <info@delidumrul.com.tr>
+Vendor: DELIDUMRUL <info@doganzorlu.com>
 
 Package: delidumrul-keyboard
 Version: 1.0.0
