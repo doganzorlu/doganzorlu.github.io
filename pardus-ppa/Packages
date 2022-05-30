@@ -7,10 +7,10 @@ Depends: nodejs, delidumrul-keyboard (>= 1.0.0), libayatana-appindicator3-1
 Conflicts: delidumrulfancontrol
 Replaces: delidumrulfancontrol
 Filename: ./delidumrul-control-center_1.0.0.deb
-Size: 93369538
-MD5sum: 985c5871f369fed46289055f8ba30756
-SHA1: 5d5931be0d6bd24dd9e17698076f8d735e0b6764
-SHA256: 18301896c851e9bbd0b951c2824f97927d245fac008afa75efe0229f657211e5
+Size: 93374770
+MD5sum: c2acea34381cd2be77c13e821f364baf
+SHA1: f85835770fa0d0790db447004726ef04ae7124b7
+SHA256: b61f47b623f9e97f37bf0024ca4d47148fee70009b521a1d8485ce78209247e0
 Section: default
 Priority: extra
 Homepage: https://github.com/doganzorlu
